@@ -17,7 +17,7 @@ Repositório para o desenvolvimento do projeto da matéria de Introdução a Ci�
 
 # 📋 TODO
 
-- [ ] Extrair os dados.
-- [ ] Tratar os dados.
-- [ ] Analisar os dados (correlacionar).
+- [X] Extrair os dados.
+- [X] Tratar os dados.
+- [X] Analisar os dados (correlacionar).
 - [ ] Fazer uma previsao usando classificação.
