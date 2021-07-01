@@ -1,0 +1,5846 @@
+Empresa;Abertura;Mês;Segmento
+ABC BRASIL;204,3;1;Serviços Bancários
+ABC BRASIL;145,84;2;Serviços Bancários
+ABC BRASIL;161,96;3;Serviços Bancários
+ABC BRASIL;245,22;4;Serviços Bancários
+ABC BRASIL;230,27;5;Serviços Bancários
+ABC BRASIL;274,64;6;Serviços Bancários
+ABC BRASIL;287,81;7;Serviços Bancários
+ABC BRASIL;434,84;8;Serviços Bancários
+ABC BRASIL;448,33;9;Serviços Bancários
+ABC BRASIL;568,79;10;Serviços Bancários
+ABC BRASIL;481,97;11;Serviços Bancários
+ABC BRASIL;533,8;12;Serviços Bancários
+ABNOTE;374,93;1;Outro
+ABNOTE;324,85;2;Outro
+ABNOTE;412;3;Outro
+ABNOTE;414,15;4;Outro
+ABNOTE;622,26;5;Outro
+ABNOTE;724,81;6;Outro
+ABNOTE;710,06;7;Outro
+ABNOTE;650,43;8;Outro
+ABNOTE;715,32;9;Outro
+ABNOTE;690;10;Outro
+ABNOTE;689,25;11;Outro
+ABNOTE;1042,9;12;Outro
+ABYARA;94,6;1;Outro
+ABYARA;86,25;2;Outro
+ABYARA;79,39;3;Outro
+ABYARA;126,4;4;Outro
+ABYARA;123,64;5;Outro
+ABYARA;208,39;6;Outro
+ABYARA;366,93;7;Outro
+ABYARA;586,64;8;Outro
+ABYARA;515,74;9;Outro
+ABYARA;549,81;10;Outro
+ABYARA;341,85;11;Outro
+ABYARA;395,98;12;Outro
+ACO ALTONA;741,28;1;Outro
+ACO ALTONA;569,34;2;Outro
+ACO ALTONA;691,91;3;Outro
+ACO ALTONA;742,04;4;Outro
+ACO ALTONA;1241,31;5;Outro
+ACO ALTONA;1223,71;6;Outro
+ACO ALTONA;1448,78;7;Outro
+ACO ALTONA;985,07;8;Outro
+ACO ALTONA;903,81;9;Outro
+ACO ALTONA;785,79;10;Outro
+ACO ALTONA;988,97;11;Outro
+ACO ALTONA;764,03;12;Outro
+ACOS VILL;25,86;1;Outro
+ACOS VILL;18,2;2;Outro
+ACOS VILL;22,62;3;Outro
+ACOS VILL;25,41;4;Outro
+ACOS VILL;30,95;5;Outro
+ACOS VILL;39,21;6;Outro
+ACOS VILL;35,87;7;Outro
+ACOS VILL;44,34;8;Outro
+ACOS VILL;41,2;9;Outro
+ACOS VILL;44,47;10;Outro
+ACOS VILL;45,75;11;Outro
+ACOS VILL;43,5;12;Outro
+AES ELPA;450,98;1;Energia Elétrica
+AES ELPA;579,09;2;Energia Elétrica
+AES ELPA;888;3;Energia Elétrica
+AES ELPA;1327,34;4;Energia Elétrica
+AES ELPA;1250,02;5;Energia Elétrica
+AES ELPA;1463,47;6;Energia Elétrica
+AES ELPA;2239,99;7;Energia Elétrica
+AES ELPA;1641,22;8;Energia Elétrica
+AES ELPA;2035,68;9;Energia Elétrica
+AES ELPA;2238,6;10;Energia Elétrica
+AES ELPA;1614,59;11;Energia Elétrica
+AES ELPA;1577,97;12;Energia Elétrica
+AES TIETE;1303,18;1;Energia Elétrica
+AES TIETE;1075,08;2;Energia Elétrica
+AES TIETE;1444,9;3;Energia Elétrica
+AES TIETE;1728,69;4;Energia Elétrica
+AES TIETE;1592,09;5;Energia Elétrica
+AES TIETE;1778,65;6;Energia Elétrica
+AES TIETE;1962,32;7;Energia Elétrica
+AES TIETE;2062,7;8;Energia Elétrica
+AES TIETE;1974,96;9;Energia Elétrica
+AES TIETE;1981,82;10;Energia Elétrica
+AES TIETE;1816,78;11;Energia Elétrica
+AES TIETE;1848,68;12;Energia Elétrica
+AFLUENTE;66,62;1;Outro
+AFLUENTE;107,05;2;Outro
+AFLUENTE;60,23;3;Outro
+AFLUENTE;52,97;4;Outro
+AFLUENTE;160,05;5;Outro
+AFLUENTE;41,07;6;Outro
+AFLUENTE;40,9;7;Outro
+AFLUENTE;75,51;8;Outro
+AFLUENTE;36;9;Outro
+AFLUENTE;118,5;10;Outro
+AFLUENTE;115,9;11;Outro
+AFLUENTE;59,2;12;Outro
+AG CONTINEN;1,03;12;Outro
+AG RIO NEGR;9,5;12;Outro
+AGRA INCORP;153,49;1;Outro
+AGRA INCORP;114,06;2;Outro
+AGRA INCORP;90,94;3;Outro
+AGRA INCORP;113,63;4;Outro
+AGRA INCORP;165,61;5;Outro
+AGRA INCORP;201,72;6;Outro
+AGRA INCORP;298,12;7;Outro
+AGRA INCORP;408,86;8;Outro
+AGRA INCORP;539,81;9;Outro
+AGRA INCORP;514,26;10;Outro
+AGRA INCORP;333,16;11;Outro
+AGRA INCORP;443,8;12;Outro
+AGRENCO;10,4;1;Outro
+AGRENCO;10,91;2;Outro
+AGRENCO;31,6;3;Outro
+AGRENCO;26,27;4;Outro
+AGRENCO;34,03;5;Outro
+AGRENCO;49,17;6;Outro
+AGRENCO;43,61;7;Outro
+AGRENCO;44,4;8;Outro
+AGRENCO;47,64;9;Outro
+AGRENCO;83,09;10;Outro
+AGRENCO;65,4;11;Outro
+AGRENCO;174,82;12;Outro
+AGROINDL SP;1;12;Outro
+AGROMENA;3,69;11;Outro
+ALFA CONSOR;125,23;1;Outro
+ALFA CONSOR;102,25;2;Outro
+ALFA CONSOR;140,28;3;Outro
+ALFA CONSOR;156,64;4;Outro
+ALFA CONSOR;160,27;5;Outro
+ALFA CONSOR;200,33;6;Outro
+ALFA CONSOR;351,21;7;Outro
+ALFA CONSOR;429,12;8;Outro
+ALFA CONSOR;302,12;9;Outro
+ALFA CONSOR;206,07;10;Outro
+ALFA CONSOR;205,76;11;Outro
+ALFA CONSOR;338,63;12;Outro
+ALFA FINANC;71,83;1;Outro
+ALFA FINANC;55,92;2;Outro
+ALFA FINANC;81,76;3;Outro
+ALFA FINANC;119,81;4;Outro
+ALFA FINANC;131,84;5;Outro
+ALFA FINANC;161,28;6;Outro
+ALFA FINANC;151,22;7;Outro
+ALFA FINANC;165,08;8;Outro
+ALFA FINANC;204,98;9;Outro
+ALFA FINANC;183,76;10;Outro
+ALFA FINANC;178,18;11;Outro
+ALFA FINANC;207,59;12;Outro
+ALFA HOLDIN;103,29;1;Outro
+ALFA HOLDIN;46,36;2;Outro
+ALFA HOLDIN;123,32;3;Outro
+ALFA HOLDIN;145,54;4;Outro
+ALFA HOLDIN;126,01;5;Outro
+ALFA HOLDIN;158,67;6;Outro
+ALFA HOLDIN;173,06;7;Outro
+ALFA HOLDIN;227,7;8;Outro
+ALFA HOLDIN;215,97;9;Outro
+ALFA HOLDIN;179,42;10;Outro
+ALFA HOLDIN;198,1;11;Outro
+ALFA HOLDIN;169,21;12;Outro
+ALFA INVEST;280,62;1;Outro
+ALFA INVEST;223,27;2;Outro
+ALFA INVEST;374,32;3;Outro
+ALFA INVEST;370,71;4;Outro
+ALFA INVEST;313,37;5;Outro
+ALFA INVEST;364,84;6;Outro
+ALFA INVEST;362,48;7;Outro
+ALFA INVEST;348,38;8;Outro
+ALFA INVEST;438,79;9;Outro
+ALFA INVEST;367,82;10;Outro
+ALFA INVEST;471,67;11;Outro
+ALFA INVEST;447,15;12;Outro
+ALIPERTI;2889;1;Outro
+ALIPERTI;699;2;Outro
+ALIPERTI;1002;3;Outro
+ALIPERTI;1002;4;Outro
+ALIPERTI;480;5;Outro
+ALL AMER LA;1055,9;1;Outro
+ALL AMER LA;731,04;2;Outro
+ALL AMER LA;718,42;3;Outro
+ALL AMER LA;976,59;4;Outro
+ALL AMER LA;1253,31;5;Outro
+ALL AMER LA;1232,57;6;Outro
+ALL AMER LA;1591,23;7;Outro
+ALL AMER LA;1552,13;8;Outro
+ALL AMER LA;1427,2;9;Outro
+ALL AMER LA;1956,37;10;Outro
+ALL AMER LA;1110,82;11;Outro
+ALL AMER LA;1448,32;12;Outro
+ALLL;1,1;2;Outro
+ALLL;10,66;3;Outro
+ALLL;11,21;4;Outro
+ALLL;17,43;5;Outro
+ALLL;36,13;6;Outro
+ALLL;21,19;7;Outro
+ALLL;53,23;8;Outro
+ALLL;60,86;9;Outro
+ALLL;24,1;10;Outro
+ALLL;42,74;11;Outro
+ALLL;53,54;12;Outro
+ALLL    /ED;0,24;5;Outro
+ALLL    /ES;6,43;10;Outro
+ALLLE;0,91;1;Outro
+ALLLE;0,34;2;Outro
+ALLLE;13,61;4;Outro
+ALLLE;13,71;5;Outro
+ALLLE;12,5;6;Outro
+ALLLE;5,19;7;Outro
+ALLLE;26,88;8;Outro
+ALLLE;31,89;9;Outro
+ALLLE;69,79;10;Outro
+ALLLE;56;11;Outro
+ALLLE;37,93;12;Outro
+ALLLE   /ED;1,15;5;Outro
+ALLLE   /ES;2,34;10;Outro
+ALPARGATAS;2215,01;1;Outro
+ALPARGATAS;1432,15;2;Outro
+ALPARGATAS;2004,29;3;Outro
+ALPARGATAS;3028,55;4;Outro
+ALPARGATAS;4210,84;5;Outro
+ALPARGATAS;3538,62;6;Outro
+ALPARGATAS;3137,59;7;Outro
+ALPARGATAS;3471,48;8;Outro
+ALPARGATAS;3685,71;9;Outro
+ALPARGATAS;3909,54;10;Outro
+ALPARGATAS;5510,73;11;Outro
+ALPARGATAS;5728,09;12;Outro
+AMAZONIA;32,41;1;Outro
+AMAZONIA;33,56;2;Outro
+AMAZONIA;40,68;3;Outro
+AMAZONIA;36,7;4;Outro
+AMAZONIA;33,03;5;Outro
+AMAZONIA;43,01;6;Outro
+AMAZONIA;38,61;7;Outro
+AMAZONIA;39,07;8;Outro
+AMAZONIA;40,52;9;Outro
+AMAZONIA;42,77;10;Outro
+AMAZONIA;32,36;11;Outro
+AMAZONIA;41,03;12;Outro
+AMAZONIA CE;490,6;1;Outro
+AMAZONIA CE;30;2;Outro
+AMAZONIA CE;30;3;Outro
+AMBEV;11432,75;1;Bebidas
+AMBEV;8832,62;2;Bebidas
+AMBEV;11335,23;3;Bebidas
+AMBEV;9895,18;4;Bebidas
+AMBEV;11974,57;5;Bebidas
+AMBEV;13725,03;6;Bebidas
+AMBEV;12870,29;7;Bebidas
+AMBEV;13652,28;8;Bebidas
+AMBEV;14840,38;9;Bebidas
+AMBEV;15567,79;10;Bebidas
+AMBEV;17428,4;11;Bebidas
+AMBEV;16230,22;12;Bebidas
+AMBV;22,73;1;Bebidas
+AMBV;196,06;2;Bebidas
+AMBV;313,12;3;Bebidas
+AMBV;455,41;4;Bebidas
+AMBV;540,3;5;Bebidas
+AMBV;380,26;6;Bebidas
+AMBV;523,61;7;Bebidas
+AMBV;402,93;8;Bebidas
+AMBV;14,47;9;Bebidas
+AMBV;290;10;Bebidas
+AMBV;7,22;11;Bebidas
+AMBV;168,91;12;Bebidas
+AMBV    /ED;150,11;7;Bebidas
+AMBV    /ED;136,52;9;Bebidas
+AMBV    /EJ;39,47;1;Bebidas
+AMBV    /EJ;6,68;4;Bebidas
+AMBVE;19,62;1;Bebidas
+AMBVE;42,56;2;Bebidas
+AMBVE;23,99;3;Bebidas
+AMBVE;120;4;Bebidas
+AMBVE;2,11;5;Bebidas
+AMBVE   /EJ;251,66;1;Bebidas
+AMERICEL;16;1;Outro
+AMERICEL;19;3;Outro
+AMERICEL;19,92;8;Outro
+AMERICEL;87,82;9;Outro
+AMERICEL;29,14;10;Outro
+AMERICEL;11,42;11;Outro
+AMERICEL;12,25;12;Outro
+AMIL;242,99;1;Seguros 
+AMIL;245,73;2;Seguros 
+AMIL;279,7;3;Seguros 
+AMIL;301,31;4;Seguros 
+AMIL;366,66;5;Seguros 
+AMIL;397,22;6;Seguros 
+AMIL;423,75;7;Seguros 
+AMIL;517,08;8;Seguros 
+AMIL;513,91;9;Seguros 
+AMIL;531,24;10;Seguros 
+AMIL;488,09;11;Seguros 
+AMIL;663,45;12;Seguros 
+AMPLA ENERG;8,16;1;Outro
+AMPLA ENERG;13,97;2;Outro
+AMPLA ENERG;16,12;3;Outro
+AMPLA ENERG;21,51;4;Outro
+AMPLA ENERG;27,13;5;Outro
+AMPLA ENERG;36,22;6;Outro
+AMPLA ENERG;53,57;7;Outro
+AMPLA ENERG;48,38;8;Outro
+AMPLA ENERG;59,4;9;Outro
+AMPLA ENERG;58,67;10;Outro
+AMPLA ENERG;61,49;11;Outro
+AMPLA ENERG;54,6;12;Outro
+AMPLA INVES;44,91;1;Outro
+AMPLA INVES;25;2;Outro
+AMPLA INVES;95,01;3;Outro
+AMPLA INVES;93,99;4;Outro
+AMPLA INVES;128,01;5;Outro
+AMPLA INVES;119,2;6;Outro
+AMPLA INVES;226,65;7;Outro
+AMPLA INVES;58,52;8;Outro
+AMPLA INVES;26,02;9;Outro
+AMPLA INVES;203,96;10;Outro
+AMPLA INVES;42;11;Outro
+ANHANGUERA;433,35;1;Educação
+ANHANGUERA;402,78;2;Educação
+ANHANGUERA;483,24;3;Educação
+ANHANGUERA;498,04;4;Educação
+ANHANGUERA;663,27;5;Educação
+ANHANGUERA;618,66;6;Educação
+ANHANGUERA;692,03;7;Educação
+ANHANGUERA;815,68;8;Educação
+ANHANGUERA;796,95;9;Educação
+ANHANGUERA;1011,47;10;Educação
+ANHANGUERA;934,12;11;Educação
+ANHANGUERA;1074,66;12;Educação
+ARACRUZ;713,09;1;Outro
+ARACRUZ;578,86;2;Outro
+ARACRUZ;740,26;3;Outro
+ARACRUZ;740,96;4;Outro
+ARACRUZ;822,01;5;Outro
+ARACRUZ;870,89;6;Outro
+ARACRUZ;711,77;7;Outro
+ARACRUZ;826,09;8;Outro
+ARACRUZ;901,82;9;Outro
+ARACRUZ;910,17;10;Outro
+ARACRUZ;374,31;11;Outro
+ARCZ;2,68;4;Outro
+ARCZ;25,55;5;Outro
+ARCZ;3,48;6;Outro
+ARCZE;0,84;4;Outro
+ARCZE;0,79;5;Outro
+ARCZE;6,6;6;Outro
+AROSO HOTEI;528,9;4;Outro
+ARTHUR LANG;52,93;1;Outro
+ARTHUR LANG;70,21;2;Outro
+ARTHUR LANG;56,5;3;Outro
+ARTHUR LANG;46,7;4;Outro
+ARTHUR LANG;88,8;5;Outro
+ARTHUR LANG;65,65;6;Outro
+ARTHUR LANG;42,16;7;Outro
+ARTHUR LANG;101,12;8;Outro
+ARTHUR LANG;42,83;9;Outro
+AUTOMETAL;1,02;6;Outro
+AZEVEDO;1749;9;Outro
+AZEVEDO;5321,02;12;Outro
+B2W VAREJO;1625,83;1;Varejo
+B2W VAREJO;2548,94;2;Varejo
+B2W VAREJO;1835,47;3;Varejo
+B2W VAREJO;2060,46;4;Varejo
+B2W VAREJO;2688,48;5;Varejo
+B2W VAREJO;3571,98;6;Varejo
+B2W VAREJO;2835,07;7;Varejo
+B2W VAREJO;12130,81;8;Varejo
+B2W VAREJO;5869,78;9;Varejo
+B2W VAREJO;3968,11;10;Varejo
+B2W VAREJO;8110,23;11;Varejo
+B2W VAREJO;14265,92;12;Varejo
+BAHEMA;1146,13;1;Outro
+BAHEMA;1010,59;2;Outro
+BAHEMA;926,91;3;Outro
+BAHEMA;1316,37;4;Outro
+BAHEMA;1929,78;5;Outro
+BAHEMA;1484,21;6;Outro
+BAHEMA;2225,22;7;Outro
+BAHEMA;1593,84;8;Outro
+BAHEMA;2328,96;9;Outro
+BAHEMA;1497,87;10;Outro
+BAHEMA;823,49;11;Outro
+BAHEMA;833,87;12;Outro
+BANESE;184,34;1;Outro
+BANESE;88,64;2;Outro
+BANESE;134,03;3;Outro
+BANESE;230,78;4;Outro
+BANESE;342,42;5;Outro
+BANESE;503,27;6;Outro
+BANESE;472,01;7;Outro
+BANESE;450,62;8;Outro
+BANESE;542,4;9;Outro
+BANESE;423,84;10;Outro
+BANESE;417,53;11;Outro
+BANESE;492,3;12;Outro
+BANESTES;429,74;1;Outro
+BANESTES;726,7;2;Outro
+BANESTES;718,29;3;Outro
+BANESTES;704,61;4;Outro
+BANESTES;943,76;5;Outro
+BANESTES;881,45;6;Outro
+BANESTES;649,16;7;Outro
+BANESTES;629,39;8;Outro
+BANESTES;595,5;9;Outro
+BANESTES;662,24;10;Outro
+BANESTES;511,7;11;Outro
+BANESTES;559,76;12;Outro
+BANPARA;21;5;Outro
+BANPARA;15,12;11;Outro
+BANRISUL;554,4;1;Serviços Bancários
+BANRISUL;464,09;2;Serviços Bancários
+BANRISUL;576,59;3;Serviços Bancários
+BANRISUL;570,77;4;Serviços Bancários
+BANRISUL;642,52;5;Serviços Bancários
+BANRISUL;658,28;6;Serviços Bancários
+BANRISUL;872,2;7;Serviços Bancários
+BANRISUL;890,49;8;Serviços Bancários
+BANRISUL;902,97;9;Serviços Bancários
+BANRISUL;1094,8;10;Serviços Bancários
+BANRISUL;732,86;11;Serviços Bancários
+BANRISUL;1056,71;12;Serviços Bancários
+BARDELLA;3578,08;1;Outro
+BARDELLA;2011,77;2;Outro
+BARDELLA;2166,41;3;Outro
+BARDELLA;2129,9;4;Outro
+BARDELLA;4227,02;5;Outro
+BARDELLA;2605,06;6;Outro
+BARDELLA;3858,97;7;Outro
+BARDELLA;3378,23;8;Outro
+BARDELLA;3362,22;9;Outro
+BARDELLA;4203,17;10;Outro
+BARDELLA;2760,88;11;Outro
+BARDELLA;2793,54;12;Outro
+BATTISTELLA;16,6;1;Outro
+BATTISTELLA;16,62;2;Outro
+BATTISTELLA;15,18;3;Outro
+BATTISTELLA;22,25;4;Outro
+BATTISTELLA;29,95;5;Outro
+BATTISTELLA;24,8;6;Outro
+BATTISTELLA;30,71;7;Outro
+BATTISTELLA;34,3;8;Outro
+BATTISTELLA;26,98;9;Outro
+BATTISTELLA;43,2;10;Outro
+BATTISTELLA;33,75;11;Outro
+BATTISTELLA;36,45;12;Outro
+BAUMER;25,99;1;Outro
+BAUMER;63;2;Outro
+BAUMER;47;3;Outro
+BAUMER;131;4;Outro
+BAUMER;48,07;5;Outro
+BAUMER;24;6;Outro
+BAUMER;112,75;7;Outro
+BAUMER;218,84;8;Outro
+BAUMER;65,11;9;Outro
+BAUMER;55,77;10;Outro
+BAUMER;35;11;Outro
+BBAS;9,43;1;Serviços Bancários
+BBAS;35,25;2;Serviços Bancários
+BBAS;97,09;3;Serviços Bancários
+BBAS;133,99;4;Serviços Bancários
+BBAS;39,33;5;Serviços Bancários
+BBAS;148,73;6;Serviços Bancários
+BBAS;29,1;7;Serviços Bancários
+BBAS;22,35;8;Serviços Bancários
+BBAS;113,47;9;Serviços Bancários
+BBAS;67;10;Serviços Bancários
+BBAS;30,25;11;Serviços Bancários
+BBAS;6,56;12;Serviços Bancários
+BBAS    /ED;4,25;2;Serviços Bancários
+BBAS    /ED;2,26;3;Serviços Bancários
+BBAS    /ED;95,2;5;Serviços Bancários
+BBAS    /ED;92,32;8;Serviços Bancários
+BBAS    /ED;36,8;11;Serviços Bancários
+BBAS    /EJ;1,59;1;Serviços Bancários
+BBAS    /EJ;19,4;3;Serviços Bancários
+BBAS    /EJ;9,47;4;Serviços Bancários
+BBAS    /EJ;3,08;6;Serviços Bancários
+BBAS    /EJ;3,08;9;Serviços Bancários
+BBAS    /EJ;0,53;12;Serviços Bancários
+BBASE;1,02;2;Serviços Bancários
+BBASE;1,03;3;Serviços Bancários
+BBASE;20,38;4;Serviços Bancários
+BBASE;2,33;5;Serviços Bancários
+BBASE;30,18;6;Serviços Bancários
+BBASE;59,6;7;Serviços Bancários
+BBASE;21,67;8;Serviços Bancários
+BBASE;127,01;9;Serviços Bancários
+BBASE;102,41;10;Serviços Bancários
+BBASE;3,93;11;Serviços Bancários
+BBASE;70,23;12;Serviços Bancários
+BBASE   /ED;0,71;2;Serviços Bancários
+BBASE   /ED;20,91;5;Serviços Bancários
+BBASE   /ED;49,95;8;Serviços Bancários
+BBASE   /ED;5,32;11;Serviços Bancários
+BBASE   /EJ;4,51;6;Outro
+BBASE   /EJ;1,85;7;Outro
+BBASE   /EJ;1,52;9;Outro
+BBASE   /EJ;0,3;10;Outro
+BBASE   /EJ;0,5;12;Outro
+BBDC;32,92;1;Serviços Bancários
+BBDC;107,99;2;Serviços Bancários
+BBDC;220,7;3;Serviços Bancários
+BBDC;220,93;4;Serviços Bancários
+BBDC;191,83;5;Serviços Bancários
+BBDC;35,35;6;Serviços Bancários
+BBDC;174,01;7;Serviços Bancários
+BBDC;142,78;8;Serviços Bancários
+BBDC;399,98;9;Serviços Bancários
+BBDC;304,03;10;Serviços Bancários
+BBDC;155,02;11;Serviços Bancários
+BBDC;120,91;12;Serviços Bancários
+BBDC    /EB;100,34;6;Serviços Bancários
+BBDC    /ED;18,6;1;Serviços Bancários
+BBDC    /ED;117,67;2;Serviços Bancários
+BBDC    /ED;104,09;3;Serviços Bancários
+BBDC    /ED;142,34;4;Serviços Bancários
+BBDC    /ED;137,81;5;Serviços Bancários
+BBDC    /ED;52,84;6;Serviços Bancários
+BBDC    /ED;38,92;7;Serviços Bancários
+BBDC    /ED;101,21;8;Serviços Bancários
+BBDC    /ED;67,11;9;Serviços Bancários
+BBDC    /ED;344,17;10;Serviços Bancários
+BBDC    /ED;151,09;11;Serviços Bancários
+BBDC    /ED;207,37;12;Serviços Bancários
+BBDC    /EJ;65,82;7;Serviços Bancários
+BBDC    /EJ;76,58;12;Serviços Bancários
+BBDC    /EX;54,27;6;Serviços Bancários
+BBDCE;19,34;1;Serviços Bancários
+BBDCE;104,3;2;Serviços Bancários
+BBDCE;150,43;3;Serviços Bancários
+BBDCE;317,92;4;Serviços Bancários
+BBDCE;171,88;5;Serviços Bancários
+BBDCE;30,43;6;Serviços Bancários
+BBDCE;129,44;7;Serviços Bancários
+BBDCE;127,81;8;Serviços Bancários
+BBDCE;130,2;9;Serviços Bancários
+BBDCE;159,07;10;Serviços Bancários
+BBDCE;143,09;11;Serviços Bancários
+BBDCE;85,61;12;Serviços Bancários
+BBDCE   /EB;199,78;6;Serviços Bancários
+BBDCE   /ED;10,01;1;Serviços Bancários
+BBDCE   /ED;20,02;2;Serviços Bancários
+BBDCE   /ED;32,17;3;Serviços Bancários
+BBDCE   /ED;35,3;4;Serviços Bancários
+BBDCE   /ED;67,73;5;Serviços Bancários
+BBDCE   /ED;32,72;6;Serviços Bancários
+BBDCE   /ED;15,68;7;Serviços Bancários
+BBDCE   /ED;26,27;8;Serviços Bancários
+BBDCE   /ED;3,38;9;Serviços Bancários
+BBDCE   /ED;11,86;10;Serviços Bancários
+BBDCE   /ED;8,32;11;Serviços Bancários
+BBDCE   /ED;5,08;12;Serviços Bancários
+BBDCE   /EJ;7,15;7;Serviços Bancários
+BBDCE   /EJ;2,79;12;Serviços Bancários
+BBDCE   /EX;33,97;6;Serviços Bancários
+BEMATECH;244,95;1;Outro
+BEMATECH;225,3;2;Outro
+BEMATECH;265,09;3;Outro
+BEMATECH;255,21;4;Outro
+BEMATECH;249,26;5;Outro
+BEMATECH;281,54;6;Outro
+BEMATECH;308,82;7;Outro
+BEMATECH;405,02;8;Outro
+BEMATECH;372,9;9;Outro
+BEMATECH;419,51;10;Outro
+BEMATECH;341,93;11;Outro
+BEMATECH;407,47;12;Outro
+BESC;48,53;1;Outro
+BESC;20,36;2;Outro
+BIC MONARK;550;1;Varejo
+BIC MONARK;550;3;Varejo
+BIC MONARK;450,01;4;Varejo
+BIC MONARK;1615;5;Varejo
+BIC MONARK;560;6;Varejo
+BIC MONARK;1380;7;Varejo
+BIC MONARK;820;8;Varejo
+BIC MONARK;1010;10;Varejo
+BIC MONARK;1640,01;11;Varejo
+BIC MONARK;2025,01;12;Varejo
+BICBANCO;368,16;1;Outro
+BICBANCO;274,36;2;Outro
+BICBANCO;374;3;Outro
+BICBANCO;398,77;4;Outro
+BICBANCO;468,76;5;Outro
+BICBANCO;499,46;6;Outro
+BICBANCO;738,12;7;Outro
+BICBANCO;747,2;8;Outro
+BICBANCO;722,21;9;Outro
+BICBANCO;891,95;10;Outro
+BICBANCO;697,77;11;Outro
+BICBANCO;700,39;12;Outro
+BIOMM;6,38;1;Outro
+BIOMM;18,65;2;Outro
+BIOMM;4,17;3;Outro
+BIOMM;7,79;4;Outro
+BIOMM;17,48;5;Outro
+BIOMM;14,52;6;Outro
+BIOMM;31,98;7;Outro
+BIOMM;3,51;8;Outro
+BIOMM;86,51;9;Outro
+BIOMM;31,12;10;Outro
+BIOMM;82,55;11;Outro
+BIOMM;76,73;12;Outro
+BISA;0,33;12;Outro
+BMF BOVESPA;740,82;1;Outro
+BMF BOVESPA;768,71;2;Outro
+BMF BOVESPA;806,88;3;Outro
+BMF BOVESPA;960,58;4;Outro
+BMF BOVESPA;1189,86;5;Outro
+BMF BOVESPA;259,97;6;Outro
+BMFBOVESPA;1412,38;6;Outro
+BMFBOVESPA;1732,68;7;Outro
+BMFBOVESPA;1922,89;8;Outro
+BMFBOVESPA;1993,92;9;Outro
+BMFBOVESPA;2461,31;10;Outro
+BMFBOVESPA;2143,41;11;Outro
+BMFBOVESPA;2092,38;12;Outro
+BNCA;12;1;Outro
+BNCA;57,94;2;Outro
+BNCA;15,99;6;Outro
+BNCA;154,78;7;Outro
+BNCA;72;8;Outro
+BNCAE;7,86;7;Outro
+BNCAE;67;8;Outro
+BOMBRIL;167,27;1;Hiegene & Limpeza
+BOMBRIL;107,3;2;Hiegene & Limpeza
+BOMBRIL;141,33;3;Hiegene & Limpeza
+BOMBRIL;131,27;4;Hiegene & Limpeza
+BOMBRIL;216,72;5;Hiegene & Limpeza
+BOMBRIL;251,64;6;Hiegene & Limpeza
+BOMBRIL;188,46;7;Hiegene & Limpeza
+BOMBRIL;210,55;8;Hiegene & Limpeza
+BOMBRIL;277,7;9;Hiegene & Limpeza
+BOMBRIL;264,83;10;Hiegene & Limpeza
+BOMBRIL;261,95;11;Hiegene & Limpeza
+BOMBRIL;377,5;12;Hiegene & Limpeza
+BOTUCATU TE;4,33;1;Outro
+BOTUCATU TE;8,76;2;Outro
+BOTUCATU TE;12,82;3;Outro
+BOTUCATU TE;9,27;4;Outro
+BOTUCATU TE;10,06;5;Outro
+BOTUCATU TE;8,6;6;Outro
+BOTUCATU TE;12,54;7;Outro
+BOTUCATU TE;8,64;8;Outro
+BOTUCATU TE;9,97;9;Outro
+BOTUCATU TE;14,17;10;Outro
+BOTUCATU TE;11,49;11;Outro
+BOTUCATU TE;9,63;12;Outro
+BOVA;45,94;1;Outro
+BOVA;147,49;3;Outro
+BOVA;341,88;4;Outro
+BOVA;448,92;5;Outro
+BOVA;415,3;6;Outro
+BOVA;437,61;7;Outro
+BOVA;394,98;8;Outro
+BOVA;325,53;9;Outro
+BOVA;260,38;10;Outro
+BOVA;62,32;11;Outro
+BOVA;193,04;12;Outro
+BOVAE;2,52;3;Outro
+BOVAE;1,22;4;Outro
+BOVAE;3,7;5;Outro
+BOVAE;38,59;6;Outro
+BOVAE;9,36;7;Outro
+BOVAE;19,75;8;Outro
+BOVAE;34,62;9;Outro
+BOVAE;38,53;10;Outro
+BOVAE;5,05;11;Outro
+BOVAE;5,07;12;Outro
+BR BROKERS;41,31;1;Outro
+BR BROKERS;38,34;2;Outro
+BR BROKERS;32,29;3;Outro
+BR BROKERS;51,34;4;Outro
+BR BROKERS;86,86;5;Outro
+BR BROKERS;83,29;6;Outro
+BR BROKERS;154,29;7;Outro
+BR BROKERS;194,69;8;Outro
+BR BROKERS;289,96;9;Outro
+BR BROKERS;297,54;10;Outro
+BR BROKERS;281,67;11;Outro
+BR BROKERS;296,58;12;Outro
+BR MALLS PA;431,84;1;Shoppings
+BR MALLS PA;412,16;2;Shoppings
+BR MALLS PA;566,61;3;Shoppings
+BR MALLS PA;606,33;4;Shoppings
+BR MALLS PA;731,69;5;Shoppings
+BR MALLS PA;821,8;6;Shoppings
+BR MALLS PA;924,02;7;Shoppings
+BR MALLS PA;1001,02;8;Shoppings
+BR MALLS PA;1067,93;9;Shoppings
+BR MALLS PA;1462,17;10;Shoppings
+BR MALLS PA;1003,11;11;Shoppings
+BR MALLS PA;1506,43;12;Shoppings
+BRADESCO;4788,88;1;Serviços Bancários
+BRADESCO;3663,06;2;Serviços Bancários
+BRADESCO;3939,07;3;Serviços Bancários
+BRADESCO;4029,54;4;Serviços Bancários
+BRADESCO;3876,52;5;Serviços Bancários
+BRADESCO;4667,82;6;Serviços Bancários
+BRADESCO;5308,01;7;Serviços Bancários
+BRADESCO;4818,08;8;Serviços Bancários
+BRADESCO;5341,85;9;Serviços Bancários
+BRADESCO;5735,76;10;Serviços Bancários
+BRADESCO;5317,83;11;Serviços Bancários
+BRADESCO;5606,37;12;Serviços Bancários
+BRADESPAR;2212,03;1;Serviços Bancários
+BRADESPAR;1947,01;2;Serviços Bancários
+BRADESPAR;2404,69;3;Serviços Bancários
+BRADESPAR;2435,74;4;Serviços Bancários
+BRADESPAR;2722,67;5;Serviços Bancários
+BRADESPAR;3114,6;6;Serviços Bancários
+BRADESPAR;3014,82;7;Serviços Bancários
+BRADESPAR;3149,23;8;Serviços Bancários
+BRADESPAR;3654,02;9;Serviços Bancários
+BRADESPAR;4174,22;10;Serviços Bancários
+BRADESPAR;3455,16;11;Serviços Bancários
+BRADESPAR;3624,62;12;Serviços Bancários
+BRAP;0,17;7;Outro
+BRAP;28,41;8;Outro
+BRAP;30;9;Outro
+BRAP;1,79;10;Outro
+BRAP;37,54;11;Outro
+BRAPE;25,22;2;Outro
+BRAPE;1,02;3;Outro
+BRAPE;24,5;4;Outro
+BRAPE;2,67;10;Outro
+BRAPE;2;11;Outro
+BRAPE;0,75;12;Outro
+BRASCAN RES;129,47;1;Outro
+BRASCAN RES;104,9;2;Outro
+BRASCAN RES;125,4;3;Outro
+BRASCAN RES;188,26;4;Outro
+BRASCAN RES;206,56;5;Outro
+BRASCAN RES;166,48;6;Outro
+BRASIL;2961,82;1;Outro
+BRASIL;2288,36;2;Outro
+BRASIL;2396,47;3;Outro
+BRASIL;3099,54;4;Outro
+BRASIL;3023,36;5;Outro
+BRASIL;3320,36;6;Outro
+BRASIL;3659,1;7;Outro
+BRASIL;3945,94;8;Outro
+BRASIL;5191,92;9;Outro
+BRASIL;6477,38;10;Outro
+BRASIL;5272,07;11;Outro
+BRASIL;6475,97;12;Outro
+BRASIL T PA;3752,05;1;Outro
+BRASIL T PA;3033,96;2;Outro
+BRASIL T PA;3848,94;3;Outro
+BRASIL T PA;3626,07;4;Outro
+BRASIL T PA;3311,35;5;Outro
+BRASIL T PA;3517,2;6;Outro
+BRASIL T PA;2091,62;7;Outro
+BRASIL T PA;1936,68;8;Outro
+BRASIL T PA;2129,83;9;Outro
+BRASIL T PA;2285,54;10;Outro
+BRASIL T PA;1075,27;11;Outro
+BRASIL TELE;2547,2;1;Outro
+BRASIL TELE;1848,65;2;Outro
+BRASIL TELE;2886,34;3;Outro
+BRASIL TELE;2593,71;4;Outro
+BRASIL TELE;2778,22;5;Outro
+BRASIL TELE;2851,97;6;Outro
+BRASIL TELE;1850,49;7;Outro
+BRASIL TELE;1341,06;8;Outro
+BRASIL TELE;1414,1;9;Outro
+BRASIL TELE;1601,27;10;Outro
+BRASIL TELE;1609,3;11;Outro
+BRASIL TELE;2199,87;12;Outro
+BRASILAGRO;92,99;1;Outro
+BRASILAGRO;61,04;2;Outro
+BRASILAGRO;89,57;3;Outro
+BRASILAGRO;87,24;4;Outro
+BRASILAGRO;119,54;5;Outro
+BRASILAGRO;151,51;6;Outro
+BRASILAGRO;153,67;7;Outro
+BRASILAGRO;159,31;8;Outro
+BRASILAGRO;148,14;9;Outro
+BRASILAGRO;175,93;10;Outro
+BRASILAGRO;155,38;11;Outro
+BRASILAGRO;173,82;12;Outro
+BRASKEM;678,74;1;Setor Químico
+BRASKEM;511,16;2;Setor Químico
+BRASKEM;666,88;3;Setor Químico
+BRASKEM;678,04;4;Setor Químico
+BRASKEM;1025,33;5;Setor Químico
+BRASKEM;1082,78;6;Setor Químico
+BRASKEM;1175,23;7;Setor Químico
+BRASKEM;2165,75;8;Setor Químico
+BRASKEM;1916,1;9;Setor Químico
+BRASKEM;2025,11;10;Setor Químico
+BRASKEM;2108,38;11;Setor Químico
+BRASKEM;2292,81;12;Setor Químico
+BRASMOTOR;37,01;1;Outro
+BRASMOTOR;30,9;2;Outro
+BRASMOTOR;32,96;3;Outro
+BRASMOTOR;44,77;4;Outro
+BRASMOTOR;52,06;5;Outro
+BRASMOTOR;40,66;6;Outro
+BRASMOTOR;39;7;Outro
+BRASMOTOR;46,67;8;Outro
+BRASMOTOR;41,2;9;Outro
+BRASMOTOR;56,95;10;Outro
+BRASMOTOR;39,99;11;Outro
+BRASMOTOR;50,58;12;Outro
+BRB BANCO;148,29;1;Serviços Bancários
+BRB BANCO;177,78;2;Serviços Bancários
+BRB BANCO;63,82;3;Serviços Bancários
+BRB BANCO;30,97;4;Serviços Bancários
+BRB BANCO;29,29;5;Serviços Bancários
+BRB BANCO;32,01;6;Serviços Bancários
+BRB BANCO;28,9;8;Serviços Bancários
+BRB BANCO;135,97;9;Serviços Bancários
+BRB BANCO;324,08;10;Serviços Bancários
+BRB BANCO;353,81;11;Serviços Bancários
+BRB BANCO;163,49;12;Serviços Bancários
+BRF FOODS;2921,9;7;Alimentos Processados
+BRF FOODS;4014,35;8;Alimentos Processados
+BRF FOODS;3612,52;9;Alimentos Processados
+BRF FOODS;4712,98;10;Alimentos Processados
+BRF FOODS;6512,78;11;Alimentos Processados
+BRF FOODS;6198,3;12;Alimentos Processados
+BRFS;0,61;12;Alimentos Processados
+BRFSE;95,47;12;Alimentos Processados
+BRFSE   /EJ;3,97;12;Alimentos Processados
+BRKM;2,89;8;Petróleo, Gás e Biocombustíveis
+BRKM;11,63;9;Petróleo, Gás e Biocombustíveis
+BRKM;21,7;10;Petróleo, Gás e Biocombustíveis
+BRKM;12,84;11;Petróleo, Gás e Biocombustíveis
+BRKM;15,15;12;Petróleo, Gás e Biocombustíveis
+BRKME;0,94;3;Petróleo, Gás e Biocombustíveis
+BRKME;5,15;8;Petróleo, Gás e Biocombustíveis
+BRKME;1,87;9;Petróleo, Gás e Biocombustíveis
+BRKME;12,46;10;Petróleo, Gás e Biocombustíveis
+BRKME;24,78;12;Petróleo, Gás e Biocombustíveis
+BRML;0,43;4;Shoppings
+BRML;0,49;6;Shoppings
+BRML;18;8;Shoppings
+BRMLE;1;4;Shoppings
+BROOKFIELD;56,08;6;Outro
+BROOKFIELD;423,68;7;Outro
+BROOKFIELD;497;8;Outro
+BROOKFIELD;768,29;9;Outro
+BROOKFIELD;962,67;10;Outro
+BROOKFIELD;635,71;11;Outro
+BROOKFIELD;662,12;12;Outro
+BRTOE;13,88;3;Outro
+BTOW;3,11;3;Outro
+BTOW;5,77;4;Outro
+BTOW;9,55;7;Outro
+BTOW;38;8;Outro
+BTOW;1,1;9;Outro
+BTOW;132,96;10;Outro
+BTOW;8,21;11;Outro
+BTOWE;6,94;3;Outro
+BTOWE;30,66;4;Outro
+BTOWE;1,9;7;Outro
+BTOWE;7,32;8;Outro
+BTOWE;57,72;9;Outro
+BTOWE;106,29;10;Outro
+BTOWE;50,7;11;Outro
+BTOWE;154,3;12;Outro
+BTOWE   /ED;1,18;3;Outro
+BUETTNER;36;5;Outro
+BUETTNER;68,99;6;Outro
+BUETTNER;18,99;7;Outro
+BUETTNER;18;10;Outro
+BUETTNER;43,98;11;Outro
+BVMF;15,87;1;Outro
+BVMF;21,38;2;Outro
+BVMF;37,4;3;Outro
+BVMF;74,71;4;Outro
+BVMF;39,71;5;Outro
+BVMF;182,06;6;Outro
+BVMF;149,74;7;Outro
+BVMF;65,97;8;Outro
+BVMF;139,49;9;Outro
+BVMF;264,96;10;Outro
+BVMF;72,42;11;Outro
+BVMF;86,68;12;Outro
+BVMF    /ED;20,49;5;Outro
+BVMF    /ED;61,47;8;Outro
+BVMF    /ED;73,39;11;Outro
+BVMF    /EJ;15,29;1;Outro
+BVMF    /EJ;39,95;5;Outro
+BVMF    /EJ;10,07;12;Outro
+BVMFE;3,07;1;Outro
+BVMFE;2,14;2;Outro
+BVMFE;31,58;3;Outro
+BVMFE;38,58;4;Outro
+BVMFE;10,8;5;Outro
+BVMFE;54,37;6;Outro
+BVMFE;70,3;7;Outro
+BVMFE;14,36;8;Outro
+BVMFE;72,5;9;Outro
+BVMFE;53,09;10;Outro
+BVMFE;5,41;11;Outro
+BVMFE;32,16;12;Outro
+BVMFE   /ED;9,12;5;Outro
+BVMFE   /ED;46,58;8;Outro
+BVMFE   /ED;33,28;11;Outro
+BVMFE   /EJ;38,45;5;Outro
+BVMFE   /EJ;0,57;12;Outro
+CACIQUE;58;1;Outro
+CACIQUE;5,25;2;Outro
+CACIQUE;15,32;3;Outro
+CACIQUE;6,91;4;Outro
+CACIQUE;46,79;5;Outro
+CACIQUE;57,07;6;Outro
+CACIQUE;78,19;7;Outro
+CACIQUE;136,15;8;Outro
+CACIQUE;60,87;9;Outro
+CACIQUE;90,79;10;Outro
+CACIQUE;58,63;11;Outro
+CACIQUE;45,5;12;Outro
+CAF BRASILI;35,04;1;Outro
+CAF BRASILI;15,32;2;Outro
+CAF BRASILI;53,3;3;Outro
+CAF BRASILI;66,29;4;Outro
+CAF BRASILI;127,46;5;Outro
+CAF BRASILI;75,12;6;Outro
+CAF BRASILI;155,74;7;Outro
+CAF BRASILI;124,06;8;Outro
+CAF BRASILI;74,48;9;Outro
+CAF BRASILI;148,68;10;Outro
+CAF BRASILI;120,77;11;Outro
+CAF BRASILI;151,89;12;Outro
+CAJUEIRO AG;14,01;12;Outro
+CAMBUCI;1,72;1;Outro
+CAMBUCI;4,69;2;Outro
+CAMBUCI;5,91;3;Outro
+CAMBUCI;15,17;4;Outro
+CAMBUCI;69,99;5;Outro
+CAMBUCI;114,51;6;Outro
+CAMBUCI;69,6;7;Outro
+CAMBUCI;89,55;8;Outro
+CAMBUCI;76,15;9;Outro
+CAMBUCI;141,17;10;Outro
+CAMBUCI;192,7;11;Outro
+CAMBUCI;183,14;12;Outro
+CAPITALPART;0,58;1;Outro
+CAPITALPART;0,58;2;Outro
+CAPITALPART;0,2;3;Outro
+CAPITALPART;0,4;4;Outro
+CAPITALPART;0,69;6;Outro
+CAPITALPART;1,21;7;Outro
+CAPITALPART;0,52;8;Outro
+CAPITALPART;0,39;10;Outro
+CAPITALPART;0,31;11;Outro
+CAPITALPART;1;12;Outro
+CAPRI LOG;1937,8;4;Outro
+CAPRI LOG;1942,6;11;Outro
+CARAIBA MET;177,51;3;Outro
+CARAIBA MET;80;7;Outro
+CARAIBA MET;88;11;Outro
+CASAN;20,1;1;Outro
+CASAN;7,5;2;Outro
+CASAN;1,51;4;Outro
+CASAN;48,31;5;Outro
+CASAN;21,18;7;Outro
+CASAN;28,51;8;Outro
+CASAN;5,5;10;Outro
+CASAN;19;11;Outro
+CASAN;15,5;12;Outro
+CC DES IMOB;134,35;1;Rodovias
+CC DES IMOB;117,82;2;Rodovias
+CC DES IMOB;144,54;3;Rodovias
+CC DES IMOB;197,97;4;Rodovias
+CC DES IMOB;233,47;5;Rodovias
+CC DES IMOB;201,11;6;Rodovias
+CC DES IMOB;304,8;7;Rodovias
+CC DES IMOB;403,75;8;Rodovias
+CC DES IMOB;441,06;9;Rodovias
+CC DES IMOB;546,81;10;Rodovias
+CC DES IMOB;371,33;11;Rodovias
+CC DES IMOB;358,21;12;Rodovias
+CCR RODOVIA;1279,28;1;Outro
+CCR RODOVIA;1091,04;2;Outro
+CCR RODOVIA;1565,22;3;Outro
+CCR RODOVIA;1420,4;4;Outro
+CCR RODOVIA;1590,34;5;Outro
+CCR RODOVIA;1634,96;6;Outro
+CCR RODOVIA;2250,58;7;Outro
+CCR RODOVIA;2053,11;8;Outro
+CCR RODOVIA;2536,27;9;Outro
+CCR RODOVIA;2445,66;10;Outro
+CCR RODOVIA;1608,09;11;Outro
+CCR RODOVIA;1995,28;12;Outro
+CCRO;1,91;8;Rodovias
+CCRO;28,84;9;Rodovias
+CCRO;0,7;11;Rodovias
+CCRO;38;12;Rodovias
+CEB;655,78;1;Energia Elétrica
+CEB;451,5;2;Energia Elétrica
+CEB;649,33;3;Energia Elétrica
+CEB;660,04;4;Energia Elétrica
+CEB;1091,97;5;Energia Elétrica
+CEB;1139,4;6;Energia Elétrica
+CEB;738,43;7;Energia Elétrica
+CEB;700,63;8;Energia Elétrica
+CEB;1302,53;9;Energia Elétrica
+CEB;968,97;10;Energia Elétrica
+CEB;1394,03;11;Energia Elétrica
+CEB;788,78;12;Energia Elétrica
+CEDRO;70;1;Energia Elétrica
+CEDRO;30;2;Energia Elétrica
+CEDRO;32;3;Energia Elétrica
+CEDRO;189,04;4;Energia Elétrica
+CEDRO;185,01;5;Energia Elétrica
+CEDRO;453,25;6;Energia Elétrica
+CEDRO;273,08;7;Energia Elétrica
+CEDRO;370,88;8;Energia Elétrica
+CEDRO;336,02;9;Energia Elétrica
+CEDRO;189,14;10;Energia Elétrica
+CEDRO;210,14;11;Energia Elétrica
+CEDRO;257,04;12;Energia Elétrica
+CEEE-D;12,79;2;Energia Elétrica
+CEEE-D;6,3;3;Energia Elétrica
+CEEE-D;12,6;4;Energia Elétrica
+CEEE-D;18,3;5;Energia Elétrica
+CEEE-D;12,5;6;Energia Elétrica
+CEEE-D;9,2;7;Energia Elétrica
+CEEE-D;21,58;8;Energia Elétrica
+CEEE-D;19,82;9;Energia Elétrica
+CEEE-D;56,5;10;Energia Elétrica
+CEEE-D;19,98;11;Energia Elétrica
+CEEE-D;13,08;12;Energia Elétrica
+CEEE-GT;13,28;2;Energia Elétrica
+CEEE-GT;15,63;4;Energia Elétrica
+CEEE-GT;14,3;5;Energia Elétrica
+CEEE-GT;10,4;6;Energia Elétrica
+CEEE-GT;15,1;7;Energia Elétrica
+CEEE-GT;15,55;8;Energia Elétrica
+CEEE-GT;11,87;9;Energia Elétrica
+CEEE-GT;14,53;10;Energia Elétrica
+CEEE-GT;46,45;11;Energia Elétrica
+CEEE-GT;17,91;12;Energia Elétrica
+CEG;27;1;Gás
+CEG;27;2;Gás
+CEG;267;3;Gás
+CEG;125;4;Gás
+CEG;320;5;Gás
+CEG;40;7;Gás
+CEG;244,99;8;Gás
+CEG;200;9;Gás
+CEG;120;10;Gás
+CELESC;1659,76;1;Energia Elétrica
+CELESC;1557,34;2;Energia Elétrica
+CELESC;1763,04;3;Energia Elétrica
+CELESC;1651,04;4;Energia Elétrica
+CELESC;1535,35;5;Energia Elétrica
+CELESC;1564,87;6;Energia Elétrica
+CELESC;1551,12;7;Energia Elétrica
+CELESC;1983,03;8;Energia Elétrica
+CELESC;1784,61;9;Energia Elétrica
+CELESC;1910,15;10;Energia Elétrica
+CELESC;1591,93;11;Energia Elétrica
+CELESC;1744,72;12;Energia Elétrica
+CELGPAR;15;2;Energia Elétrica
+CELGPAR;11;5;Energia Elétrica
+CELGPAR;22;6;Energia Elétrica
+CELGPAR;25,11;8;Energia Elétrica
+CELGPAR;15;9;Energia Elétrica
+CELGPAR;40,51;10;Energia Elétrica
+CELGPAR;35,15;12;Energia Elétrica
+CELM;15;3;Outro
+CELM;20,03;4;Outro
+CELM;10;6;Outro
+CELM;8,3;7;Outro
+CELPA;13,2;2;Energia Elétrica
+CELPA;92,99;3;Energia Elétrica
+CELPA;39,99;4;Energia Elétrica
+CELPA;7,5;5;Energia Elétrica
+CELPA;74,4;7;Energia Elétrica
+CELPA;33,5;8;Energia Elétrica
+CELPA;56;9;Energia Elétrica
+CELPA;53,06;10;Energia Elétrica
+CELPA;69,77;11;Energia Elétrica
+CELPA;32,58;12;Energia Elétrica
+CELPE;618,13;1;Energia Elétrica
+CELPE;391,9;2;Energia Elétrica
+CELPE;429,95;3;Energia Elétrica
+CELPE;550,93;4;Energia Elétrica
+CELPE;477,63;5;Energia Elétrica
+CELPE;655,26;6;Energia Elétrica
+CELPE;467,48;7;Energia Elétrica
+CELPE;536,81;8;Energia Elétrica
+CELPE;257,21;9;Energia Elétrica
+CELPE;685,72;10;Energia Elétrica
+CELPE;733,61;11;Energia Elétrica
+CELPE;632,69;12;Energia Elétrica
+CELUL IRANI;72,78;1;Outro
+CELUL IRANI;144,69;2;Outro
+CELUL IRANI;206,66;3;Outro
+CELUL IRANI;174,74;4;Outro
+CELUL IRANI;242,01;5;Outro
+CELUL IRANI;199,84;6;Outro
+CELUL IRANI;221,19;7;Outro
+CELUL IRANI;399,13;8;Outro
+CELUL IRANI;209,99;9;Outro
+CELUL IRANI;424,52;10;Outro
+CELUL IRANI;409,64;11;Outro
+CELUL IRANI;147,11;12;Outro
+CEMAR;199,89;1;Energia Elétrica
+CEMAR;177,76;2;Energia Elétrica
+CEMAR;251,86;3;Energia Elétrica
+CEMAR;182,17;4;Energia Elétrica
+CEMAR;234,52;5;Energia Elétrica
+CEMAR;202,11;6;Energia Elétrica
+CEMAR;248,75;7;Energia Elétrica
+CEMAR;262,16;8;Energia Elétrica
+CEMAR;322,8;9;Energia Elétrica
+CEMAR;330,04;10;Energia Elétrica
+CEMAR;336,36;11;Energia Elétrica
+CEMAR;189,13;12;Energia Elétrica
+CEMAT;15,97;1;Energia Elétrica
+CEMAT;32,8;2;Energia Elétrica
+CEMAT;21,01;3;Energia Elétrica
+CEMAT;39,18;4;Energia Elétrica
+CEMAT;39,37;5;Energia Elétrica
+CEMAT;61,38;6;Energia Elétrica
+CEMAT;47,56;7;Energia Elétrica
+CEMAT;119,9;8;Energia Elétrica
+CEMAT;150,66;9;Energia Elétrica
+CEMAT;114,5;10;Energia Elétrica
+CEMAT;152,04;11;Energia Elétrica
+CEMAT;184,44;12;Energia Elétrica
+CEMEPE;11,3;1;Investimentos
+CEMEPE;11,34;2;Investimentos
+CEMEPE;10,53;3;Investimentos
+CEMEPE;12,74;4;Investimentos
+CEMEPE;13,76;5;Investimentos
+CEMEPE;6,18;6;Investimentos
+CEMEPE;38,61;7;Investimentos
+CEMEPE;50,69;8;Investimentos
+CEMEPE;18,63;9;Investimentos
+CEMEPE;88,51;10;Investimentos
+CEMEPE;41,33;11;Investimentos
+CEMEPE;17,94;12;Investimentos
+CEMIG;3527,69;1;Energia Elétrica
+CEMIG;2921,03;2;Energia Elétrica
+CEMIG;3763,44;3;Energia Elétrica
+CEMIG;6601,81;4;Energia Elétrica
+CEMIG;3896,99;5;Energia Elétrica
+CEMIG;4396,05;6;Energia Elétrica
+CEMIG;4563,36;7;Energia Elétrica
+CEMIG;3729,8;8;Energia Elétrica
+CEMIG;4179,54;9;Energia Elétrica
+CEMIG;3658,94;10;Energia Elétrica
+CEMIG;3057,26;11;Energia Elétrica
+CEMIG;3986,63;12;Energia Elétrica
+CEPAC - PMS;1700;2;Outro
+CEPAC - PMS;1715;3;Outro
+CEPAC - PMS;615,5;8;Outro
+CEPAC - PMS;2100;10;Outro
+CEPAC - PMS;700;11;Outro
+CESP;2723,68;1;Energia Elétrica
+CESP;2104,62;2;Energia Elétrica
+CESP;2479,9;3;Energia Elétrica
+CESP;2979,79;4;Energia Elétrica
+CESP;3301,21;5;Energia Elétrica
+CESP;3816,59;6;Energia Elétrica
+CESP;4244,59;7;Energia Elétrica
+CESP;3677,16;8;Energia Elétrica
+CESP;3964,19;9;Energia Elétrica
+CESP;4187,73;10;Energia Elétrica
+CESP;3669,43;11;Energia Elétrica
+CESP;4222,58;12;Energia Elétrica
+CESP    /EJ;1,57;5;Energia Elétrica
+CESP    /EJ;58,72;8;Energia Elétrica
+CESP    /EJ;2,62;11;Energia Elétrica
+CESPE;2,85;6;Energia Elétrica
+CESPE;36;7;Energia Elétrica
+CESPE;4,26;9;Energia Elétrica
+CESPE;26,25;10;Energia Elétrica
+CESPE;1,22;11;Energia Elétrica
+CESPE;20,91;12;Energia Elétrica
+CESPE   /EJ;1,35;5;Outro
+CESPE   /EJ;1,08;11;Outro
+CETIP;156,36;10;Outro
+CETIP;558,23;11;Outro
+CETIP;566,49;12;Outro
+CHESF;269,26;7;Energia Elétrica
+CHESF;269,26;9;Energia Elétrica
+CHESF;269,26;11;Energia Elétrica
+CHESF;269,26;12;Energia Elétrica
+CHIARELLI;3,51;1;Outro
+CHIARELLI;4,55;2;Outro
+CHIARELLI;19,77;3;Outro
+CHIARELLI;16,7;4;Outro
+CHIARELLI;11,79;5;Outro
+CHIARELLI;10,7;6;Outro
+CHIARELLI;8,67;7;Outro
+CHIARELLI;9,97;8;Outro
+CHIARELLI;8,59;9;Outro
+CHIARELLI;12,57;10;Outro
+CHIARELLI;8,58;11;Outro
+CHIARELLI;11,48;12;Outro
+CIA HERING;238,51;1;Roupas
+CIA HERING;203,07;2;Roupas
+CIA HERING;220,66;3;Roupas
+CIA HERING;264,27;4;Roupas
+CIA HERING;425,13;5;Roupas
+CIA HERING;479,86;6;Roupas
+CIA HERING;556,8;7;Roupas
+CIA HERING;738,41;8;Roupas
+CIA HERING;858,79;9;Roupas
+CIA HERING;980,3;10;Roupas
+CIA HERING;1132,73;11;Roupas
+CIA HERING;1153,03;12;Roupas
+CIELO;688,1;12;Serviços Bancários
+CLARION;109,5;3;Outro
+CLARION;54;4;Outro
+CLARION;56;5;Outro
+CLARION;138,68;6;Outro
+CLARION;77,8;7;Outro
+CLARION;33,85;8;Outro
+CLARION;58,74;9;Outro
+CLARION;95,16;10;Outro
+CLARION;18,99;11;Outro
+CLARION;47,63;12;Outro
+CMIG;34,19;1;Energia Elétrica
+CMIG;51,83;2;Energia Elétrica
+CMIG;62,35;3;Energia Elétrica
+CMIG;117,72;4;Energia Elétrica
+CMIG;53,97;5;Energia Elétrica
+CMIG;77,2;6;Energia Elétrica
+CMIG;6,33;7;Energia Elétrica
+CMIG;49,84;8;Energia Elétrica
+CMIG;4,31;9;Energia Elétrica
+CMIG;59,46;10;Energia Elétrica
+CMIG;35,79;11;Energia Elétrica
+CMIG;88,3;12;Energia Elétrica
+CMIG    /ED;1,43;5;Energia Elétrica
+CMIGE;34,17;1;Energia Elétrica
+CMIGE;11,01;2;Energia Elétrica
+CMIGE;46,9;3;Energia Elétrica
+CMIGE;81,19;4;Energia Elétrica
+CMIGE;28,87;5;Energia Elétrica
+CMIGE;32,59;6;Energia Elétrica
+CMIGE;30,2;7;Energia Elétrica
+CMIGE;2,39;8;Energia Elétrica
+CMIGE;29,88;9;Energia Elétrica
+CMIGE;34,64;10;Energia Elétrica
+CMIGE;60,06;11;Energia Elétrica
+CMIGE;29;12;Energia Elétrica
+CMIGE   /ED;1,51;5;Energia Elétrica
+CNFB;0,49;9;Outro
+CNFB;0,05;10;Outro
+COBRASMA;2;1;Outro
+COBRASMA;1,37;2;Outro
+COBRASMA;2,81;3;Outro
+COBRASMA;2,44;4;Outro
+COBRASMA;3,29;5;Outro
+COBRASMA;4,08;6;Outro
+COBRASMA;3,84;7;Outro
+COBRASMA;7,77;8;Outro
+COBRASMA;5,8;9;Outro
+COBRASMA;10,74;10;Outro
+COBRASMA;7,76;11;Outro
+COBRASMA;8,59;12;Outro
+COCE;18,8;4;Outro
+COCE;4,52;5;Outro
+COCE;8,26;6;Outro
+COCE;17,78;7;Outro
+COCE;11,8;8;Outro
+COCE;46,94;12;Outro
+COCE    /ED;3,25;5;Outro
+COCEE;12,18;4;Outro
+COCEE;2,29;5;Outro
+COCEE;4,86;6;Outro
+COCEE;3,42;7;Outro
+COCEE;2,24;8;Outro
+COCEE;0,34;12;Outro
+COELBA;528,81;1;Energia Elétrica
+COELBA;409,42;2;Energia Elétrica
+COELBA;522,93;3;Energia Elétrica
+COELBA;531,86;4;Energia Elétrica
+COELBA;747,7;5;Energia Elétrica
+COELBA;802,1;6;Energia Elétrica
+COELBA;619,66;7;Energia Elétrica
+COELBA;673,37;8;Energia Elétrica
+COELBA;403,47;9;Energia Elétrica
+COELBA;747,65;10;Energia Elétrica
+COELBA;585,72;11;Energia Elétrica
+COELBA;754,5;12;Energia Elétrica
+COELCE;1217,19;1;Outro
+COELCE;999,42;2;Outro
+COELCE;1567,19;3;Outro
+COELCE;1637,39;4;Outro
+COELCE;1442,72;5;Outro
+COELCE;1446,59;6;Outro
+COELCE;1535,1;7;Outro
+COELCE;1931,3;8;Outro
+COELCE;2394,83;9;Outro
+COELCE;2273,8;10;Outro
+COELCE;2641,36;11;Outro
+COELCE;1836,63;12;Outro
+COMGAS;2029,14;1;Gás
+COMGAS;1568,95;2;Gás
+COMGAS;1873,01;3;Gás
+COMGAS;1998,01;4;Gás
+COMGAS;2277,85;5;Gás
+COMGAS;2044,34;6;Gás
+COMGAS;2329,27;7;Gás
+COMGAS;2230,07;8;Gás
+COMGAS;2179,99;9;Gás
+COMGAS;2456,87;10;Gás
+COMGAS;2017,99;11;Gás
+COMGAS;2171,93;12;Gás
+CONFAB;261,26;1;Outro
+CONFAB;235,8;2;Outro
+CONFAB;351,43;3;Outro
+CONFAB;398,92;4;Outro
+CONFAB;332,72;5;Outro
+CONFAB;371,89;6;Outro
+CONFAB;409,77;7;Outro
+CONFAB;635,7;8;Outro
+CONFAB;583,73;9;Outro
+CONFAB;556,72;10;Outro
+CONFAB;461,16;11;Outro
+CONFAB;533,1;12;Outro
+CONST A LIN;374,97;4;Outro
+CONST A LIN;350;6;Outro
+CONST A LIN;670;7;Outro
+CONST A LIN;389,99;8;Outro
+CONST A LIN;190,01;9;Outro
+CONST A LIN;200,01;10;Outro
+CONST A LIN;700;12;Outro
+CONST BETER;3;1;Outro
+CONST BETER;5;2;Outro
+CONST BETER;15,6;5;Outro
+CONST BETER;26,03;6;Outro
+CONST BETER;24,49;7;Outro
+CONST BETER;12,8;8;Outro
+CONST BETER;8,2;9;Outro
+CONST BETER;5,5;10;Outro
+CONST BETER;5;11;Outro
+CONTAX;2850,4;1;Outro
+CONTAX;2590,88;2;Outro
+CONTAX;2759,91;3;Outro
+CONTAX;3267,79;4;Outro
+CONTAX;3494,66;5;Outro
+CONTAX;4695,39;6;Outro
+CONTAX;4845,37;7;Outro
+CONTAX;5965,99;8;Outro
+CONTAX;6130,35;9;Outro
+CONTAX;6195,81;10;Outro
+CONTAX;6152,63;11;Outro
+CONTAX;7100;12;Outro
+COPASA;762,87;1;Saneamento 
+COPASA;762,37;2;Saneamento 
+COPASA;889,31;3;Saneamento 
+COPASA;971,93;4;Saneamento 
+COPASA;1078,82;5;Saneamento 
+COPASA;1108,34;6;Saneamento 
+COPASA;1268,1;7;Saneamento 
+COPASA;1532,57;8;Saneamento 
+COPASA;1589,89;9;Saneamento 
+COPASA;1470,63;10;Saneamento 
+COPASA;1491,3;11;Saneamento 
+COPASA;1577,38;12;Saneamento 
+COPEL;2207,72;1;Energia Elétrica
+COPEL;2087,78;2;Energia Elétrica
+COPEL;1944,3;3;Energia Elétrica
+COPEL;2697,22;4;Energia Elétrica
+COPEL;2740,9;5;Energia Elétrica
+COPEL;2548,12;6;Energia Elétrica
+COPEL;2715,16;7;Energia Elétrica
+COPEL;2394,41;8;Energia Elétrica
+COPEL;2706,06;9;Energia Elétrica
+COPEL;2591,09;10;Energia Elétrica
+COPEL;2261,07;11;Energia Elétrica
+COPEL;2531,14;12;Energia Elétrica
+COR RIBEIRO;113,99;1;Outro
+COR RIBEIRO;50;3;Outro
+COR RIBEIRO;53,02;4;Outro
+COR RIBEIRO;100;5;Outro
+COR RIBEIRO;100;6;Outro
+COR RIBEIRO;25;7;Outro
+COR RIBEIRO;20,25;10;Outro
+COR RIBEIRO;30;11;Outro
+COR RIBEIRO;29,99;12;Outro
+COSAN;929,27;1;Petróleo, Gás e Biocombustíveis
+COSAN;750,01;2;Petróleo, Gás e Biocombustíveis
+COSAN;874,66;3;Petróleo, Gás e Biocombustíveis
+COSAN;1321,07;4;Petróleo, Gás e Biocombustíveis
+COSAN;1183,31;5;Petróleo, Gás e Biocombustíveis
+COSAN;1340,45;6;Petróleo, Gás e Biocombustíveis
+COSAN;1597,78;7;Petróleo, Gás e Biocombustíveis
+COSAN;1908,91;8;Petróleo, Gás e Biocombustíveis
+COSAN;2230,43;9;Petróleo, Gás e Biocombustíveis
+COSAN;2207,5;10;Petróleo, Gás e Biocombustíveis
+COSAN;1621,57;11;Petróleo, Gás e Biocombustíveis
+COSAN;2025,37;12;Petróleo, Gás e Biocombustíveis
+COSAN LTD;158,93;1;Petróleo, Gás e Biocombustíveis
+COSAN LTD;133,9;2;Petróleo, Gás e Biocombustíveis
+COSAN LTD;150,09;3;Petróleo, Gás e Biocombustíveis
+COSAN LTD;205,11;4;Petróleo, Gás e Biocombustíveis
+COSAN LTD;255,27;5;Petróleo, Gás e Biocombustíveis
+COSAN LTD;256,51;6;Petróleo, Gás e Biocombustíveis
+COSAN LTD;250,48;7;Petróleo, Gás e Biocombustíveis
+COSAN LTD;413,17;8;Petróleo, Gás e Biocombustíveis
+COSAN LTD;414,04;9;Petróleo, Gás e Biocombustíveis
+COSAN LTD;526,37;10;Petróleo, Gás e Biocombustíveis
+COSAN LTD;376,92;11;Petróleo, Gás e Biocombustíveis
+COSAN LTD;701,2;12;Petróleo, Gás e Biocombustíveis
+COSERN;201,56;1;Outro
+COSERN;93,18;2;Outro
+COSERN;191,4;3;Outro
+COSERN;113,49;4;Outro
+COSERN;216,33;5;Outro
+COSERN;177,85;6;Outro
+COSERN;197,01;7;Outro
+COSERN;76,01;8;Outro
+COSERN;64,51;9;Outro
+COSERN;102,77;10;Outro
+COSERN;236,13;11;Outro
+COSERN;190,79;12;Outro
+COTEMINAS;226,13;1;Outro
+COTEMINAS;110,19;2;Outro
+COTEMINAS;144,96;3;Outro
+COTEMINAS;220,13;4;Outro
+COTEMINAS;208,36;5;Outro
+COTEMINAS;268,22;6;Outro
+COTEMINAS;306,96;7;Outro
+COTEMINAS;344,55;8;Outro
+COTEMINAS;287,8;9;Outro
+COTEMINAS;294,44;10;Outro
+COTEMINAS;266,62;11;Outro
+COTEMINAS;251,4;12;Outro
+CPFE;1,08;3;Outro
+CPFE;68,42;4;Outro
+CPFE;1,62;5;Outro
+CPFE;1,36;6;Outro
+CPFE;32,8;7;Outro
+CPFE;32;8;Outro
+CPFE    /ED;0,97;3;Energia Elétrica
+CPFEE;1,29;3;Outro
+CPFEE;67,47;4;Outro
+CPFEE;33,77;5;Outro
+CPFEE;0,75;6;Outro
+CPFEE;0,81;7;Outro
+CPFEE;31;8;Outro
+CPFL ENERGI;1720,9;1;Energia Elétrica
+CPFL ENERGI;1591,45;2;Energia Elétrica
+CPFL ENERGI;1625,4;3;Energia Elétrica
+CPFL ENERGI;1451,21;4;Energia Elétrica
+CPFL ENERGI;2293,71;5;Energia Elétrica
+CPFL ENERGI;2362,87;6;Energia Elétrica
+CPFL ENERGI;2171,76;7;Energia Elétrica
+CPFL ENERGI;1886,24;8;Energia Elétrica
+CPFL ENERGI;2106,01;9;Energia Elétrica
+CPFL ENERGI;2222,02;10;Energia Elétrica
+CPFL ENERGI;1607,79;11;Energia Elétrica
+CPFL ENERGI;1673,73;12;Energia Elétrica
+CPLE;0,6;2;Energia Elétrica
+CPLE;1,27;3;Energia Elétrica
+CPLE;22;4;Energia Elétrica
+CPLE;1,01;6;Energia Elétrica
+CPLE;5,03;8;Energia Elétrica
+CPLE;24,75;9;Energia Elétrica
+CPLE;30;10;Energia Elétrica
+CPLE;2,15;12;Energia Elétrica
+CPLEE;1,54;1;Energia Elétrica
+CPLEE;21;2;Energia Elétrica
+CPLEE;2,6;3;Energia Elétrica
+CPLEE;49,5;4;Energia Elétrica
+CPLEE;0,85;6;Energia Elétrica
+CPLEE   /ED;2,06;4;Energia Elétrica
+CR2;76,76;1;Outro
+CR2;76,44;2;Outro
+CR2;82,44;3;Outro
+CR2;118,72;4;Outro
+CR2;133,22;5;Outro
+CR2;116,8;6;Outro
+CR2;158;7;Outro
+CR2;212,8;8;Outro
+CR2;173,7;9;Outro
+CR2;247,95;10;Outro
+CR2;166,2;11;Outro
+CR2;188,8;12;Outro
+CREMER;270,76;1;Outro
+CREMER;172,37;2;Outro
+CREMER;226,61;3;Outro
+CREMER;223,45;4;Outro
+CREMER;299,24;5;Outro
+CREMER;447,91;6;Outro
+CREMER;611,3;7;Outro
+CREMER;915,77;8;Outro
+CREMER;782,49;9;Outro
+CREMER;700,78;10;Outro
+CREMER;709,58;11;Outro
+CREMER;557,96;12;Outro
+CRUZ;1,94;2;Outro
+CRUZ;46;3;Outro
+CRUZ;1,28;7;Outro
+CRUZ;3,31;12;Outro
+CRUZEIRO SU;226,16;1;Outro
+CRUZEIRO SU;158,34;2;Outro
+CRUZEIRO SU;213,42;3;Outro
+CRUZEIRO SU;200,26;4;Outro
+CRUZEIRO SU;222,24;5;Outro
+CRUZEIRO SU;196,39;6;Outro
+CRUZEIRO SU;213,77;7;Outro
+CRUZEIRO SU;275,52;8;Outro
+CRUZEIRO SU;397,35;9;Outro
+CRUZEIRO SU;613,73;10;Outro
+CRUZEIRO SU;526,07;11;Outro
+CRUZEIRO SU;523,45;12;Outro
+CSAN;1,64;4;Siderurgia e Metalurgia
+CSAN;3,57;5;Siderurgia e Metalurgia
+CSAN;0,67;7;Siderurgia e Metalurgia
+CSAN;32;8;Siderurgia e Metalurgia
+CSANE;0,12;3;Siderurgia e Metalurgia
+CSANE;0,74;4;Siderurgia e Metalurgia
+CSANE;0,33;5;Siderurgia e Metalurgia
+CSANE;0,5;7;Siderurgia e Metalurgia
+CSANE;1,37;8;Siderurgia e Metalurgia
+CSANE;18,5;9;Siderurgia e Metalurgia
+CSNA;52,19;1;Siderurgia e Metalurgia
+CSNA;85,94;2;Siderurgia e Metalurgia
+CSNA;138,32;3;Siderurgia e Metalurgia
+CSNA;321,03;4;Siderurgia e Metalurgia
+CSNA;250,75;5;Siderurgia e Metalurgia
+CSNA;274,47;6;Siderurgia e Metalurgia
+CSNA;128,94;7;Siderurgia e Metalurgia
+CSNA;286,29;8;Siderurgia e Metalurgia
+CSNA;450,55;9;Siderurgia e Metalurgia
+CSNA;519,2;10;Siderurgia e Metalurgia
+CSNA;366,61;11;Siderurgia e Metalurgia
+CSNA;33,49;12;Siderurgia e Metalurgia
+CSNA    /ED;21,26;3;Siderurgia e Metalurgia
+CSNA    /ED;29,02;4;Siderurgia e Metalurgia
+CSNA    /EJ;24,91;5;Siderurgia e Metalurgia
+CSNA    /EJ;33,17;12;Siderurgia e Metalurgia
+CSNAE;193,89;1;Siderurgia e Metalurgia
+CSNAE;32,97;2;Siderurgia e Metalurgia
+CSNAE;238,58;3;Siderurgia e Metalurgia
+CSNAE;413,9;4;Siderurgia e Metalurgia
+CSNAE;227,88;5;Siderurgia e Metalurgia
+CSNAE;192,22;6;Siderurgia e Metalurgia
+CSNAE;127,49;7;Siderurgia e Metalurgia
+CSNAE;467,65;8;Siderurgia e Metalurgia
+CSNAE;535,3;9;Siderurgia e Metalurgia
+CSNAE;640,43;10;Siderurgia e Metalurgia
+CSNAE;200,27;11;Siderurgia e Metalurgia
+CSNAE;20,92;12;Siderurgia e Metalurgia
+CSNAE   /ED;10,59;3;Siderurgia e Metalurgia
+CSNAE   /ED;6,75;4;Siderurgia e Metalurgia
+CSNAE   /EJ;13,23;5;Siderurgia e Metalurgia
+CSNAE   /EJ;312,8;12;Siderurgia e Metalurgia
+CSU CARDSYS;133,6;1;Outro
+CSU CARDSYS;113,13;2;Outro
+CSU CARDSYS;132,59;3;Outro
+CSU CARDSYS;165,65;4;Outro
+CSU CARDSYS;185,45;5;Outro
+CSU CARDSYS;192,02;6;Outro
+CSU CARDSYS;206,57;7;Outro
+CSU CARDSYS;240,02;8;Outro
+CSU CARDSYS;284,02;9;Outro
+CSU CARDSYS;274,09;10;Outro
+CSU CARDSYS;312,57;11;Outro
+CSU CARDSYS;369,75;12;Outro
+CTIPE;1,2;11;Outro
+CTIPE;2,23;12;Outro
+CYRE;2,55;6;Outro
+CYRE;18,89;7;Outro
+CYRE COM-CC;240,29;1;Outro
+CYRE COM-CC;170,79;2;Outro
+CYRE COM-CC;267,61;3;Outro
+CYRE COM-CC;293,9;4;Outro
+CYRE COM-CC;349;5;Outro
+CYRE COM-CC;354,94;6;Outro
+CYRE COM-CC;409,19;7;Outro
+CYRE COM-CC;446,68;8;Outro
+CYRE COM-CC;410,96;9;Outro
+CYRE COM-CC;457,79;10;Outro
+CYRE COM-CC;372,24;11;Outro
+CYRE COM-CC;414,57;12;Outro
+CYREE;0,89;7;Outro
+CYREE;17,5;8;Outro
+CYRELA REAL;721,5;1;Outro
+CYRELA REAL;670,11;2;Outro
+CYRELA REAL;729,84;3;Outro
+CYRELA REAL;834,18;4;Outro
+CYRELA REAL;1070,19;5;Outro
+CYRELA REAL;1250,94;6;Outro
+CYRELA REAL;1325,76;7;Outro
+CYRELA REAL;1782;8;Outro
+CYRELA REAL;2561;9;Outro
+CYRELA REAL;3285,57;10;Outro
+CYRELA REAL;2480;11;Outro
+CYRELA REAL;2659,2;12;Outro
+CZRS;2,06;3;Outro
+CZRS;1,84;4;Outro
+D H B;353,92;1;Outro
+D H B;210,76;2;Outro
+D H B;84,1;3;Outro
+D H B;187,25;4;Outro
+D H B;292,56;5;Outro
+D H B;92,89;6;Outro
+D H B;175,56;7;Outro
+D H B;186,8;8;Outro
+D H B;193,56;9;Outro
+D H B;57,93;10;Outro
+D H B;275,1;11;Outro
+D H B;56,79;12;Outro
+DASA;963,47;1;Medicina Diagnóstica
+DASA;866,23;2;Medicina Diagnóstica
+DASA;1063,8;3;Medicina Diagnóstica
+DASA;1294,26;4;Medicina Diagnóstica
+DASA;1403,37;5;Medicina Diagnóstica
+DASA;1524,92;6;Medicina Diagnóstica
+DASA;1761,98;7;Medicina Diagnóstica
+DASA;2000,46;8;Medicina Diagnóstica
+DASA;2458,77;9;Medicina Diagnóstica
+DASA;2527,03;10;Medicina Diagnóstica
+DASA;2334,91;11;Medicina Diagnóstica
+DASA;2396,11;12;Medicina Diagnóstica
+DAYCOVAL;207,68;1;Outro
+DAYCOVAL;129,9;2;Outro
+DAYCOVAL;172,7;3;Outro
+DAYCOVAL;194,55;4;Outro
+DAYCOVAL;241,06;5;Outro
+DAYCOVAL;277,5;6;Outro
+DAYCOVAL;276,4;7;Outro
+DAYCOVAL;282,8;8;Outro
+DAYCOVAL;342,52;9;Outro
+DAYCOVAL;349,7;10;Outro
+DAYCOVAL;297,63;11;Outro
+DAYCOVAL;346,28;12;Outro
+DIMED;494,46;1;Outro
+DIMED;407,92;2;Outro
+DIMED;714,24;3;Outro
+DIMED;441,55;4;Outro
+DIMED;527,71;5;Outro
+DIMED;919,54;6;Outro
+DIMED;1102,47;7;Outro
+DIMED;1024,97;8;Outro
+DIMED;1017,87;9;Outro
+DIMED;1270,46;10;Outro
+DIMED;1723,99;11;Outro
+DIMED;1439,03;12;Outro
+DIRECIONAL;196,62;11;Outro
+DIRECIONAL;455,19;12;Outro
+DIXIE TOGA;35,57;1;Outro
+DIXIE TOGA;3,02;2;Outro
+DIXIE TOGA;9,51;3;Outro
+DIXIE TOGA;19,03;4;Outro
+DIXIE TOGA;21,23;5;Outro
+DIXIE TOGA;32,12;6;Outro
+DIXIE TOGA;18,95;7;Outro
+DIXIE TOGA;50,92;8;Outro
+DIXIE TOGA;41,8;9;Outro
+DIXIE TOGA;40,01;10;Outro
+DIXIE TOGA;37,88;11;Outro
+DIXIE TOGA;37,75;12;Outro
+DOC IMBITUB;50,37;1;Outro
+DOC IMBITUB;34,43;2;Outro
+DOC IMBITUB;44,25;3;Outro
+DOC IMBITUB;55,83;4;Outro
+DOC IMBITUB;52,34;5;Outro
+DOC IMBITUB;46,74;6;Outro
+DOC IMBITUB;56,24;7;Outro
+DOC IMBITUB;72,66;8;Outro
+DOC IMBITUB;64,16;9;Outro
+DOC IMBITUB;71,2;10;Outro
+DOC IMBITUB;56,77;11;Outro
+DOC IMBITUB;56,85;12;Outro
+DOCAS;10;2;Outro
+DOCAS;271,84;3;Outro
+DOCAS;96,03;4;Outro
+DOCAS;328,15;5;Outro
+DOCAS;55,9;6;Outro
+DOCAS;691,57;7;Outro
+DOCAS;329,83;8;Outro
+DOCAS;635,67;9;Outro
+DOCAS;470,26;10;Outro
+DOCAS;300,06;11;Outro
+DOCAS;690,15;12;Outro
+DOHLER;124,3;2;Outro
+DOHLER;127,59;3;Outro
+DOHLER;150,03;4;Outro
+DOHLER;112,83;5;Outro
+DOHLER;86,51;6;Outro
+DOHLER;400,55;7;Outro
+DOHLER;206,3;8;Outro
+DOHLER;208,16;9;Outro
+DOHLER;454,18;10;Outro
+DOHLER;304,05;11;Outro
+DOHLER;361,78;12;Outro
+DROGASIL;275,42;1;Outro
+DROGASIL;255,52;2;Outro
+DROGASIL;292,66;3;Outro
+DROGASIL;420,51;4;Outro
+DROGASIL;555,83;5;Outro
+DROGASIL;726,2;6;Outro
+DROGASIL;803,21;7;Outro
+DROGASIL;867,15;8;Outro
+DROGASIL;939,7;9;Outro
+DROGASIL;1071,08;10;Outro
+DROGASIL;1001,87;11;Outro
+DROGASIL;1034,48;12;Outro
+DROGE;3;10;Outro
+DROGE   /EJ;22,42;12;Outro
+DTCOM-DIREC;15,1;1;Outro
+DTCOM-DIREC;8,34;2;Outro
+DTCOM-DIREC;2,73;3;Outro
+DTCOM-DIREC;6,49;4;Outro
+DTCOM-DIREC;9,15;5;Outro
+DTCOM-DIREC;7,81;6;Outro
+DTCOM-DIREC;12,06;7;Outro
+DTCOM-DIREC;11,26;8;Outro
+DTCOM-DIREC;9,49;9;Outro
+DTCOM-DIREC;13,11;10;Outro
+DTCOM-DIREC;10,72;11;Outro
+DTCOM-DIREC;13,48;12;Outro
+DTEX;0,4;12;Outro
+DTEXE;0,18;11;Outro
+DUFRYBRAS;815,27;1;Outro
+DUFRYBRAS;694,86;2;Outro
+DUFRYBRAS;800,42;3;Outro
+DUFRYBRAS;891,61;4;Outro
+DUFRYBRAS;1072,01;5;Outro
+DUFRYBRAS;1074,18;6;Outro
+DUFRYBRAS;1264,69;7;Outro
+DUFRYBRAS;2013,84;8;Outro
+DUFRYBRAS;2079,24;9;Outro
+DUFRYBRAS;2123,5;10;Outro
+DUFRYBRAS;1436,99;11;Outro
+DUFRYBRAS;1582,87;12;Outro
+DURA;3,75;5;Outro
+DURA;4;6;Outro
+DURA;20,67;7;Outro
+DURA;25,79;9;Outro
+DURA    /EJ;21,79;8;Outro
+DURAE;3,39;3;Outro
+DURAE;10,5;4;Outro
+DURAE;1,43;8;Outro
+DURAE;27;9;Outro
+DURATEX;1141,34;1;Outro
+DURATEX;1006,85;2;Outro
+DURATEX;1362,88;3;Outro
+DURATEX;1454,63;4;Outro
+DURATEX;2010,01;5;Outro
+DURATEX;2108,6;6;Outro
+DURATEX;2222,61;7;Outro
+DURATEX;2317,69;8;Outro
+DURATEX;2147,86;9;Outro
+DURATEX;1565,77;10;Outro
+DURATEX;833,35;11;Outro
+DURATEX;1120,64;12;Outro
+ECOD;0,14;8;Outro
+ECOD;3,16;10;Outro
+ECOD;4,71;11;Outro
+ECOD;10,24;12;Outro
+ECODIESEL;57,04;1;Outro
+ECODIESEL;42,16;2;Outro
+ECODIESEL;49,09;3;Outro
+ECODIESEL;51,29;4;Outro
+ECODIESEL;104,56;5;Outro
+ECODIESEL;110,34;6;Outro
+ECODIESEL;83,14;7;Outro
+ECODIESEL;159,28;8;Outro
+ECODIESEL;135,68;9;Outro
+ECODIESEL;224,87;10;Outro
+ECODIESEL;182,98;11;Outro
+ECODIESEL;207,16;12;Outro
+ELEKEIROZ;55,57;1;Outro
+ELEKEIROZ;256,71;2;Outro
+ELEKEIROZ;158,81;3;Outro
+ELEKEIROZ;309,58;4;Outro
+ELEKEIROZ;269,46;5;Outro
+ELEKEIROZ;255,45;6;Outro
+ELEKEIROZ;235,94;7;Outro
+ELEKEIROZ;361,13;8;Outro
+ELEKEIROZ;459,14;9;Outro
+ELEKEIROZ;539,05;10;Outro
+ELEKEIROZ;367,13;11;Outro
+ELEKEIROZ;302,79;12;Outro
+ELEKTRO;146,94;1;Energia Elétrica
+ELEKTRO;78,76;2;Energia Elétrica
+ELEKTRO;219,23;3;Energia Elétrica
+ELEKTRO;143,89;4;Energia Elétrica
+ELEKTRO;311,42;5;Energia Elétrica
+ELEKTRO;183;6;Energia Elétrica
+ELEKTRO;256,14;7;Energia Elétrica
+ELEKTRO;230,79;8;Energia Elétrica
+ELEKTRO;336,29;9;Energia Elétrica
+ELEKTRO;286,53;10;Energia Elétrica
+ELEKTRO;309,87;11;Energia Elétrica
+ELEKTRO;430,16;12;Energia Elétrica
+ELET;0,74;1;Energia Elétrica
+ELET;1,5;2;Energia Elétrica
+ELET;6,59;3;Energia Elétrica
+ELET;30,47;4;Energia Elétrica
+ELET;41,86;5;Energia Elétrica
+ELET;1,08;6;Energia Elétrica
+ELET;32,68;7;Energia Elétrica
+ELET;8,67;8;Energia Elétrica
+ELET;98,11;9;Energia Elétrica
+ELET;57,6;10;Energia Elétrica
+ELET;0,79;11;Energia Elétrica
+ELET;232,71;12;Energia Elétrica
+ELETE;10,4;1;Energia Elétrica
+ELETE;8,33;2;Energia Elétrica
+ELETE;54,78;3;Energia Elétrica
+ELETE;27,94;4;Energia Elétrica
+ELETE;22,76;5;Energia Elétrica
+ELETE;11,02;6;Energia Elétrica
+ELETE;9,11;7;Energia Elétrica
+ELETE;7,46;8;Energia Elétrica
+ELETE;4,37;9;Energia Elétrica
+ELETE;8,68;10;Energia Elétrica
+ELETE;32,33;11;Energia Elétrica
+ELETE;160,1;12;Energia Elétrica
+ELETROBRAS;3713,68;1;Energia Elétrica
+ELETROBRAS;3128,42;2;Energia Elétrica
+ELETROBRAS;4116,18;3;Energia Elétrica
+ELETROBRAS;3621,12;4;Energia Elétrica
+ELETROBRAS;4434,99;5;Energia Elétrica
+ELETROBRAS;5393,44;6;Energia Elétrica
+ELETROBRAS;4887,37;7;Energia Elétrica
+ELETROBRAS;6588,97;8;Energia Elétrica
+ELETROBRAS;6115,64;9;Energia Elétrica
+ELETROBRAS;6085,7;10;Energia Elétrica
+ELETROBRAS;4618,91;11;Energia Elétrica
+ELETROBRAS;6162,98;12;Energia Elétrica
+ELETROPAR;208,52;1;Energia Elétrica
+ELETROPAR;515,23;2;Energia Elétrica
+ELETROPAR;771,87;3;Energia Elétrica
+ELETROPAR;595,09;4;Energia Elétrica
+ELETROPAR;756,6;5;Energia Elétrica
+ELETROPAR;662,08;6;Energia Elétrica
+ELETROPAR;550,87;7;Energia Elétrica
+ELETROPAR;1075,26;8;Energia Elétrica
+ELETROPAR;428,72;9;Energia Elétrica
+ELETROPAR;1053,93;10;Energia Elétrica
+ELETROPAR;800,77;11;Energia Elétrica
+ELETROPAR;802,64;12;Energia Elétrica
+ELETROPAULO;2153,56;1;Energia Elétrica
+ELETROPAULO;2272,94;2;Energia Elétrica
+ELETROPAULO;6758,36;3;Energia Elétrica
+ELETROPAULO;6485,09;4;Energia Elétrica
+ELETROPAULO;3174;5;Energia Elétrica
+ELETROPAULO;3244,94;6;Energia Elétrica
+ELETROPAULO;8011,08;7;Energia Elétrica
+ELETROPAULO;5457,31;8;Energia Elétrica
+ELETROPAULO;4675,59;9;Energia Elétrica
+ELETROPAULO;6247,68;10;Energia Elétrica
+ELETROPAULO;5319,72;11;Energia Elétrica
+ELETROPAULO;5100,13;12;Energia Elétrica
+ELPL;5,52;1;Energia Elétrica
+ELPL;33,98;2;Energia Elétrica
+ELPL;54,46;3;Energia Elétrica
+ELPL;0,74;4;Energia Elétrica
+ELPL;28,19;5;Energia Elétrica
+ELPL;2,88;6;Energia Elétrica
+ELPL;28;7;Energia Elétrica
+ELPL;42,96;9;Energia Elétrica
+ELPL;44,91;10;Energia Elétrica
+ELPL;36,57;11;Energia Elétrica
+ELPL;0,35;12;Energia Elétrica
+ELPL    /EJ;0,16;12;Energia Elétrica
+ELPLE;1,44;1;Energia Elétrica
+ELPLE;0,88;2;Energia Elétrica
+ELPLE;28,25;3;Energia Elétrica
+ELPLE;32,57;4;Energia Elétrica
+ELPLE;0,9;5;Energia Elétrica
+ELPLE;93,19;6;Energia Elétrica
+ELPLE;3,96;7;Energia Elétrica
+ELPLE;0,18;9;Energia Elétrica
+ELPLE   /ED;0,65;5;Energia Elétrica
+ELPLE   /ED;31;8;Energia Elétrica
+ELPLE   /EJ;0,39;12;Energia Elétrica
+ELUMA;32;1;Energia Elétrica
+ELUMA;79;2;Energia Elétrica
+ELUMA;30;3;Energia Elétrica
+ELUMA;27,49;4;Energia Elétrica
+ELUMA;17,1;5;Energia Elétrica
+ELUMA;111,65;7;Energia Elétrica
+ELUMA;29,99;8;Energia Elétrica
+ELUMA;265,81;9;Energia Elétrica
+ELUMA;406,05;10;Energia Elétrica
+ELUMA;134,05;11;Energia Elétrica
+ELUMA;103,01;12;Energia Elétrica
+EMAE;205,82;1;Saneamento
+EMAE;170,67;2;Saneamento
+EMAE;306,31;3;Saneamento
+EMAE;381,08;4;Saneamento
+EMAE;455,28;5;Saneamento
+EMAE;511,88;6;Saneamento
+EMAE;407,82;7;Saneamento
+EMAE;463,84;8;Saneamento
+EMAE;349,36;9;Saneamento
+EMAE;458,29;10;Saneamento
+EMAE;460,71;11;Saneamento
+EMAE;562,76;12;Saneamento
+EMBR;20,54;1;Aviões
+EMBR;0,34;2;Aviões
+EMBR;0,1;3;Aviões
+EMBR;9,22;4;Aviões
+EMBR;0,57;5;Aviões
+EMBR;0,13;6;Aviões
+EMBR;2,26;8;Aviões
+EMBR;11,28;9;Aviões
+EMBR;12,9;10;Aviões
+EMBR;0,38;12;Aviões
+EMBR    /EJ;0,2;12;Aviões
+EMBRAER;581,64;1;Aviões
+EMBRAER;543,74;2;Aviões
+EMBRAER;551,63;3;Aviões
+EMBRAER;563,88;4;Aviões
+EMBRAER;607,01;5;Aviões
+EMBRAER;714,55;6;Aviões
+EMBRAER;929,19;7;Aviões
+EMBRAER;1044,45;8;Aviões
+EMBRAER;1239,78;9;Aviões
+EMBRAER;1404,92;10;Aviões
+EMBRAER;1312,72;11;Aviões
+EMBRAER;1153,01;12;Aviões
+EMBRATEL PA;609,61;1;Aviação
+EMBRATEL PA;586,54;2;Telefonia 
+EMBRATEL PA;690,78;3;Telefonia 
+EMBRATEL PA;655,39;4;Telefonia 
+EMBRATEL PA;671,58;5;Telefonia 
+EMBRATEL PA;765,38;6;Telefonia 
+EMBRATEL PA;787,31;7;Telefonia 
+EMBRATEL PA;797,2;8;Telefonia 
+EMBRATEL PA;781,14;9;Telefonia 
+EMBRATEL PA;967,15;10;Telefonia 
+EMBRATEL PA;1016,36;11;Telefonia 
+EMBRATEL PA;1138,17;12;Telefonia 
+EMBRE;7,5;1;Telefonia 
+EMBRE;0,6;2;Telefonia 
+EMBRE;11,33;3;Telefonia 
+EMBRE;0,87;4;Telefonia 
+EMBRE;9,26;5;Telefonia 
+EMBRE;0,14;6;Telefonia 
+EMBRE;3,1;7;Telefonia 
+EMBRE;2,93;8;Telefonia 
+EMBRE;23,99;9;Telefonia 
+EMBRE;4,92;10;Telefonia 
+EMBRE;0,46;11;Telefonia 
+EMBRE;24,78;12;Telefonia 
+EMBRE   /EJ;5,21;12;Telefonia 
+ENCORPAR;238,39;1;Outro
+ENCORPAR;199,76;2;Outro
+ENCORPAR;144,58;3;Outro
+ENCORPAR;292,15;4;Outro
+ENCORPAR;290,51;5;Outro
+ENCORPAR;383,19;6;Outro
+ENCORPAR;420,74;7;Outro
+ENCORPAR;304,62;8;Outro
+ENCORPAR;206,2;9;Outro
+ENCORPAR;275,55;10;Outro
+ENCORPAR;215,47;11;Outro
+ENCORPAR;151,28;12;Outro
+ENERGIAS BR;1138,53;1;Energia Elétrica
+ENERGIAS BR;851,99;2;Energia Elétrica
+ENERGIAS BR;1136,35;3;Energia Elétrica
+ENERGIAS BR;1107,45;4;Energia Elétrica
+ENERGIAS BR;1082,12;5;Energia Elétrica
+ENERGIAS BR;1213,62;6;Energia Elétrica
+ENERGIAS BR;1412,86;7;Energia Elétrica
+ENERGIAS BR;1395,06;8;Energia Elétrica
+ENERGIAS BR;1458,2;9;Energia Elétrica
+ENERGIAS BR;1687,27;10;Energia Elétrica
+ENERGIAS BR;1465,27;11;Energia Elétrica
+ENERGIAS BR;1690,06;12;Energia Elétrica
+ENERGISA;267,34;1;Energia Elétrica
+ENERGISA;167,92;2;Energia Elétrica
+ENERGISA;246,31;3;Energia Elétrica
+ENERGISA;284,27;4;Energia Elétrica
+ENERGISA;467,99;5;Energia Elétrica
+ENERGISA;378,5;6;Energia Elétrica
+ENERGISA;474,89;7;Energia Elétrica
+ENERGISA;467,34;8;Energia Elétrica
+ENERGISA;538,47;9;Energia Elétrica
+ENERGISA;434,12;10;Energia Elétrica
+ENERGISA;385,7;11;Energia Elétrica
+ENERGISA;418,47;12;Energia Elétrica
+ENERGISA PB;1280;9;Energia Elétrica
+EQTL;0,14;5;Energia Elétrica
+EQTL;15,22;6;Energia Elétrica
+EQTL;0,92;12;Energia Elétrica
+EQUATORIAL;477,8;1;Energia Elétrica
+EQUATORIAL;606;2;Energia Elétrica
+EQUATORIAL;729,74;3;Energia Elétrica
+EQUATORIAL;624,14;4;Energia Elétrica
+EQUATORIAL;736,98;5;Energia Elétrica
+EQUATORIAL;749,85;6;Energia Elétrica
+EQUATORIAL;785,58;7;Energia Elétrica
+EQUATORIAL;909,08;8;Energia Elétrica
+EQUATORIAL;1015,35;9;Energia Elétrica
+EQUATORIAL;1143,25;10;Energia Elétrica
+EQUATORIAL;912,27;11;Energia Elétrica
+EQUATORIAL;946,21;12;Energia Elétrica
+EST PIAUI;45,37;1;Outro
+EST PIAUI;7,4;2;Outro
+EST PIAUI;37,61;3;Outro
+EST PIAUI;53,94;4;Outro
+EST PIAUI;56;5;Outro
+EST PIAUI;58,83;6;Outro
+EST PIAUI;95,06;7;Outro
+EST PIAUI;114,42;8;Outro
+EST PIAUI;88,91;9;Outro
+EST PIAUI;52,79;10;Outro
+EST PIAUI;39,54;11;Outro
+ESTACIO PAR;488,17;1;Outro
+ESTACIO PAR;367,78;2;Outro
+ESTACIO PAR;420,54;3;Outro
+ESTACIO PAR;448,56;4;Outro
+ESTACIO PAR;765,39;5;Outro
+ESTACIO PAR;599,58;6;Outro
+ESTACIO PAR;613,94;7;Outro
+ESTACIO PAR;821,53;8;Outro
+ESTACIO PAR;793,96;9;Outro
+ESTACIO PAR;891,18;10;Outro
+ESTACIO PAR;709,1;11;Outro
+ESTACIO PAR;788,16;12;Outro
+ESTRELA;13,37;1;Outro
+ESTRELA;13,68;2;Outro
+ESTRELA;30,07;3;Outro
+ESTRELA;27,3;4;Outro
+ESTRELA;35,16;5;Outro
+ESTRELA;15;6;Outro
+ESTRELA;37,35;7;Outro
+ESTRELA;71,37;8;Outro
+ESTRELA;24,01;9;Outro
+ESTRELA;55,51;10;Outro
+ESTRELA;72,46;11;Outro
+ESTRELA;25,08;12;Outro
+ETERNIT;272,7;1;Outro
+ETERNIT;274,53;2;Outro
+ETERNIT;322,34;3;Outro
+ETERNIT;331,71;4;Outro
+ETERNIT;392,57;5;Outro
+ETERNIT;371,76;6;Outro
+ETERNIT;461,09;7;Outro
+ETERNIT;520,4;8;Outro
+ETERNIT;486,65;9;Outro
+ETERNIT;575,09;10;Outro
+ETERNIT;540,28;11;Outro
+ETERNIT;824,36;12;Outro
+EUCATEX;27,21;1;Outro
+EUCATEX;31,43;2;Outro
+EUCATEX;22,29;3;Outro
+EUCATEX;56,14;4;Outro
+EUCATEX;74,71;5;Outro
+EUCATEX;62,47;6;Outro
+EUCATEX;100,52;7;Outro
+EUCATEX;94,13;8;Outro
+EUCATEX;154,7;9;Outro
+EUCATEX;360,43;10;Outro
+EUCATEX;311,04;11;Outro
+EUCATEX;276,03;12;Outro
+EVEN;122,63;1;Outro
+EVEN;75;2;Outro
+EVEN;88,98;3;Outro
+EVEN;137,27;4;Outro
+EVEN;148,21;5;Outro
+EVEN;144,93;6;Outro
+EVEN;228,98;7;Outro
+EVEN;303,57;8;Outro
+EVEN;396,67;9;Outro
+EVEN;539,35;10;Outro
+EVEN;371,75;11;Outro
+EVEN;437,19;12;Outro
+EXCELSIOR;31,77;1;Outro
+EXCELSIOR;25,68;2;Outro
+EXCELSIOR;18,43;3;Outro
+EXCELSIOR;44,79;4;Outro
+EXCELSIOR;89,64;5;Outro
+EXCELSIOR;64,8;6;Outro
+EXCELSIOR;98,43;7;Outro
+EXCELSIOR;72,71;8;Outro
+EXCELSIOR;54,32;9;Outro
+EXCELSIOR;63,98;10;Outro
+EXCELSIOR;75,2;11;Outro
+EXCELSIOR;50,2;12;Outro
+EZTEC;89,44;1;Construção Civil
+EZTEC;70,37;2;Construção Civil
+EZTEC;97,28;3;Construção Civil
+EZTEC;128,36;4;Construção Civil
+EZTEC;203,57;5;Construção Civil
+EZTEC;221,09;6;Construção Civil
+EZTEC;381,25;7;Construção Civil
+EZTEC;484,57;8;Construção Civil
+EZTEC;465,73;9;Construção Civil
+EZTEC;536,02;10;Construção Civil
+EZTEC;465,61;11;Construção Civil
+EZTEC;517,68;12;Construção Civil
+F GUIMARAES;3,47;1;Outro
+F GUIMARAES;5,25;2;Outro
+F GUIMARAES;41,38;3;Outro
+F GUIMARAES;13,15;4;Outro
+F GUIMARAES;13,92;5;Outro
+F GUIMARAES;14,35;6;Outro
+F GUIMARAES;14,32;7;Outro
+FAB C RENAU;3,39;1;Outro
+FAB C RENAU;1,92;2;Outro
+FAB C RENAU;2,74;3;Outro
+FAB C RENAU;3,33;4;Outro
+FAB C RENAU;3,24;5;Outro
+FAB C RENAU;4,33;6;Outro
+FAB C RENAU;9,28;7;Outro
+FAB C RENAU;5,95;8;Outro
+FAB C RENAU;9,33;9;Outro
+FAB C RENAU;9,16;10;Outro
+FAB C RENAU;5,11;11;Outro
+FAB C RENAU;6,68;12;Outro
+FER HERINGE;293,7;1;Outro
+FER HERINGE;204,61;2;Outro
+FER HERINGE;224,57;3;Outro
+FER HERINGE;244,76;4;Outro
+FER HERINGE;491,54;5;Outro
+FER HERINGE;437,32;6;Outro
+FER HERINGE;609,36;7;Outro
+FER HERINGE;805,5;8;Outro
+FER HERINGE;917,4;9;Outro
+FER HERINGE;878,21;10;Outro
+FER HERINGE;710,74;11;Outro
+FER HERINGE;678,73;12;Outro
+FERBASA;356,39;1;Outro
+FERBASA;308,88;2;Outro
+FERBASA;368,54;3;Outro
+FERBASA;669,19;4;Outro
+FERBASA;677,61;5;Outro
+FERBASA;711,62;6;Outro
+FERBASA;757,69;7;Outro
+FERBASA;809,61;8;Outro
+FERBASA;979,35;9;Outro
+FERBASA;909,82;10;Outro
+FERBASA;750,53;11;Outro
+FERBASA;851,02;12;Outro
+FFTL;17,88;9;Outro
+FFTL;0,68;10;Outro
+FFTL;16;11;Outro
+FFTL;1,63;12;Outro
+FFTLE;2,62;8;Outro
+FFTLE;20,65;9;Outro
+FIA FATOR S;1533,65;3;Outro
+FIA FATOR S;2445,32;9;Outro
+FIA FATOR S;2889,15;11;Outro
+FIBAM;397,85;1;Outro
+FIBAM;753,93;2;Outro
+FIBAM;545,51;3;Outro
+FIBAM;536,46;4;Outro
+FIBAM;461,49;5;Outro
+FIBAM;439,78;6;Outro
+FIBAM;277,2;7;Outro
+FIBAM;863,24;8;Outro
+FIBAM;357;9;Outro
+FIBAM;185,98;10;Outro
+FIBAM;1085,5;11;Outro
+FIBAM;914,23;12;Outro
+FIBRIA;1090;11;Outro
+FIBRIA;2998,59;12;Outro
+FII A BRANC;676;1;Fundo Imobiliário
+FII A BRANC;2241;2;Fundo Imobiliário
+FII A BRANC;3378;3;Fundo Imobiliário
+FII A BRANC;4107;4;Fundo Imobiliário
+FII A BRANC;4748,1;5;Fundo Imobiliário
+FII A BRANC;4704,95;6;Fundo Imobiliário
+FII A BRANC;4462;7;Fundo Imobiliário
+FII A BRANC;4726,71;8;Fundo Imobiliário
+FII A BRANC;4795,98;9;Fundo Imobiliário
+FII A BRANC;4297,01;10;Fundo Imobiliário
+FII A BRANC;3698,56;11;Fundo Imobiliário
+FII A BRANC;3895,89;12;Fundo Imobiliário
+FII ABC IMO;43,09;1;Fundo Imobiliário
+FII ABC IMO;71,45;2;Fundo Imobiliário
+FII ABC IMO;86,43;3;Fundo Imobiliário
+FII ABC IMO;72;4;Fundo Imobiliário
+FII ABC IMO;55,6;5;Fundo Imobiliário
+FII ABC IMO;31,52;6;Fundo Imobiliário
+FII ABC IMO;28,2;7;Fundo Imobiliário
+FII ABC IMO;59,94;8;Fundo Imobiliário
+FII ABC IMO;40,62;9;Fundo Imobiliário
+FII ABC IMO;60,58;10;Fundo Imobiliário
+FII ABC IMO;42,43;11;Fundo Imobiliário
+FII ABC IMO;52,36;12;Fundo Imobiliário
+FII ALMIRAN;33920,6;1;Fundo Imobiliário
+FII ALMIRAN;23925,98;2;Fundo Imobiliário
+FII ALMIRAN;34833,17;3;Fundo Imobiliário
+FII ALMIRAN;31518,55;4;Fundo Imobiliário
+FII ALMIRAN;28859,16;5;Fundo Imobiliário
+FII ALMIRAN;40264,85;6;Fundo Imobiliário
+FII ALMIRAN;39436;7;Fundo Imobiliário
+FII ALMIRAN;21399,52;8;Fundo Imobiliário
+FII ALMIRAN;37742,58;9;Fundo Imobiliário
+FII ALMIRAN;37945,7;10;Fundo Imobiliário
+FII ALMIRAN;35594,11;11;Fundo Imobiliário
+FII ALMIRAN;33138,95;12;Fundo Imobiliário
+FII ANCAR I;600;5;Fundo Imobiliário
+FII ANCAR I;5400;6;Fundo Imobiliário
+FII ANCAR I;4200;7;Fundo Imobiliário
+FII ANCAR I;600;9;Fundo Imobiliário
+FII BB PROG;27868,53;1;Fundo Imobiliário
+FII BB PROG;26025,76;2;Fundo Imobiliário
+FII BB PROG;40742,3;3;Fundo Imobiliário
+FII BB PROG;34648,23;4;Fundo Imobiliário
+FII BB PROG;34126,57;5;Fundo Imobiliário
+FII BB PROG;37360,7;6;Fundo Imobiliário
+FII BB PROG;41471,62;7;Fundo Imobiliário
+FII BB PROG;41327,01;8;Fundo Imobiliário
+FII BB PROG;43764,67;9;Fundo Imobiliário
+FII BB PROG;46728,98;10;Fundo Imobiliário
+FII BB PROG;37398,94;11;Fundo Imobiliário
+FII BB PROG;36545,58;12;Fundo Imobiliário
+FII CRIANCA;1648;1;Fundo Imobiliário
+FII CRIANCA;416;2;Fundo Imobiliário
+FII CRIANCA;705,01;3;Fundo Imobiliário
+FII CRIANCA;723,03;4;Fundo Imobiliário
+FII CRIANCA;471,62;5;Fundo Imobiliário
+FII CRIANCA;502,02;7;Fundo Imobiliário
+FII CRIANCA;778,01;8;Fundo Imobiliário
+FII CRIANCA;1100;9;Fundo Imobiliário
+FII CRIANCA;1904,99;10;Fundo Imobiliário
+FII CRIANCA;1695,02;11;Fundo Imobiliário
+FII CRIANCA;284;12;Fundo Imobiliário
+FII CSHGSHO;13094;1;Fundo Imobiliário
+FII CSHGSHO;10875,98;2;Fundo Imobiliário
+FII CSHGSHO;10320;3;Fundo Imobiliário
+FII CSHGSHO;5301;4;Fundo Imobiliário
+FII CSHGSHO;9559,5;5;Fundo Imobiliário
+FII CSHGSHO;9581;6;Fundo Imobiliário
+FII CSHGSHO;23017;7;Fundo Imobiliário
+FII CSHGSHO;24302;8;Fundo Imobiliário
+FII CSHGSHO;17571;9;Fundo Imobiliário
+FII CSHGSHO;20331,01;10;Fundo Imobiliário
+FII CSHGSHO;17097,98;11;Fundo Imobiliário
+FII CSHGSHO;21209;12;Fundo Imobiliário
+FII D PEDRO;12690;12;Fundo Imobiliário
+FII EUROPAR;2098,3;1;Fundo Imobiliário
+FII EUROPAR;2229,63;2;Fundo Imobiliário
+FII EUROPAR;3074;3;Fundo Imobiliário
+FII EUROPAR;2536,6;4;Fundo Imobiliário
+FII EUROPAR;3225,23;5;Fundo Imobiliário
+FII EUROPAR;3317,62;6;Fundo Imobiliário
+FII EUROPAR;3677,08;7;Fundo Imobiliário
+FII EUROPAR;3609,06;8;Fundo Imobiliário
+FII EUROPAR;3473,18;9;Fundo Imobiliário
+FII EUROPAR;3030,29;10;Fundo Imobiliário
+FII EUROPAR;3309,01;11;Fundo Imobiliário
+FII EUROPAR;3299,3;12;Fundo Imobiliário
+FII F CENTE;15,12;1;Fundo Imobiliário
+FII F CENTE;10,73;2;Fundo Imobiliário
+FII F CENTE;12,16;3;Fundo Imobiliário
+FII F CENTE;11,9;4;Fundo Imobiliário
+FII F CENTE;16,21;5;Fundo Imobiliário
+FII F CENTE;15,84;6;Fundo Imobiliário
+FII F CENTE;21,3;7;Fundo Imobiliário
+FII F CENTE;25,85;8;Fundo Imobiliário
+FII F CENTE;19,48;9;Fundo Imobiliário
+FII F CENTE;30,65;10;Fundo Imobiliário
+FII F CENTE;4,18;11;Fundo Imobiliário
+FII FLORIPA;5244,01;11;Fundo Imobiliário
+FII FLORIPA;6351;12;Fundo Imobiliário
+FII HG REAL;3240;2;Fundo Imobiliário
+FII HG REAL;16975;3;Fundo Imobiliário
+FII HG REAL;11585;4;Fundo Imobiliário
+FII HG REAL;12710;5;Fundo Imobiliário
+FII HG REAL;10691;6;Fundo Imobiliário
+FII HG REAL;7531,1;7;Fundo Imobiliário
+FII HG REAL;14371;8;Fundo Imobiliário
+FII HG REAL;10754,9;9;Fundo Imobiliário
+FII HG REAL;5902;10;Fundo Imobiliário
+FII HG REAL;12605;11;Fundo Imobiliário
+FII HG REAL;10204;12;Fundo Imobiliário
+FII HIGIENO;3736;1;Fundo Imobiliário
+FII HIGIENO;2373,3;2;Fundo Imobiliário
+FII HIGIENO;3634,91;3;Fundo Imobiliário
+FII HIGIENO;3765;4;Fundo Imobiliário
+FII HIGIENO;5411,15;5;Fundo Imobiliário
+FII HIGIENO;5316;6;Fundo Imobiliário
+FII HIGIENO;5015,21;7;Fundo Imobiliário
+FII HIGIENO;2590,09;8;Fundo Imobiliário
+FII HIGIENO;3271,6;9;Fundo Imobiliário
+FII HIGIENO;4814;10;Fundo Imobiliário
+FII HIGIENO;3681,51;11;Fundo Imobiliário
+FII HIGIENO;3409;12;Fundo Imobiliário
+FII HOTEL M;1604;1;Fundo Imobiliário
+FII HOTEL M;531,95;2;Fundo Imobiliário
+FII HOTEL M;830;3;Fundo Imobiliário
+FII HOTEL M;1560,64;4;Fundo Imobiliário
+FII HOTEL M;865,52;5;Fundo Imobiliário
+FII HOTEL M;1495;6;Fundo Imobiliário
+FII HOTEL M;714,19;7;Fundo Imobiliário
+FII HOTEL M;1849,41;8;Fundo Imobiliário
+FII HOTEL M;1927,8;9;Fundo Imobiliário
+FII HOTEL M;2194,51;10;Fundo Imobiliário
+FII HOTEL M;1917,5;11;Fundo Imobiliário
+FII HOTEL M;1385,5;12;Fundo Imobiliário
+FII JK IMOB;14,1;1;Fundo Imobiliário
+FII JK IMOB;1,8;2;Fundo Imobiliário
+FII JK IMOB;6,33;4;Fundo Imobiliário
+FII JK IMOB;2,2;6;Fundo Imobiliário
+FII JK IMOB;10;7;Fundo Imobiliário
+FII JK IMOB;5,69;8;Fundo Imobiliário
+FII LOURDES;1758,32;1;Fundo Imobiliário
+FII LOURDES;2097,5;2;Fundo Imobiliário
+FII LOURDES;1440,52;3;Fundo Imobiliário
+FII LOURDES;2448,36;4;Fundo Imobiliário
+FII LOURDES;2791,84;5;Fundo Imobiliário
+FII LOURDES;2396,78;6;Fundo Imobiliário
+FII LOURDES;2832,06;7;Fundo Imobiliário
+FII LOURDES;3114,16;8;Fundo Imobiliário
+FII LOURDES;3589,93;9;Fundo Imobiliário
+FII LOURDES;3573,26;10;Fundo Imobiliário
+FII LOURDES;2818,68;11;Fundo Imobiliário
+FII LOURDES;2629,64;12;Fundo Imobiliário
+FII MEMORIA;1369;6;Fundo Imobiliário
+FII MEMORIA;934,49;7;Fundo Imobiliário
+FII MEMORIA;500;8;Fundo Imobiliário
+FII MEMORIA;135;9;Fundo Imobiliário
+FII MEMORIA;524,91;10;Fundo Imobiliário
+FII MEMORIA;899,5;11;Fundo Imobiliário
+FII MEMORIA;1150,5;12;Fundo Imobiliário
+FII OPPORTU;1000;1;Fundo Imobiliário
+FII OPPORTU;2076,81;6;Fundo Imobiliário
+FII OURINVE;155;1;Fundo Imobiliário
+FII OURINVE;323;2;Fundo Imobiliário
+FII OURINVE;506,32;3;Fundo Imobiliário
+FII OURINVE;342,5;4;Fundo Imobiliário
+FII OURINVE;531,02;5;Fundo Imobiliário
+FII OURINVE;912,01;6;Fundo Imobiliário
+FII OURINVE;177;7;Fundo Imobiliário
+FII OURINVE;563,01;8;Fundo Imobiliário
+FII OURINVE;797,01;9;Fundo Imobiliário
+FII OURINVE;609,02;10;Fundo Imobiliário
+FII OURINVE;1284,18;11;Fundo Imobiliário
+FII OURINVE;368,68;12;Fundo Imobiliário
+FII PANAMBY;720;4;Fundo Imobiliário
+FII PANAMBY;335;5;Fundo Imobiliário
+FII PANAMBY;150;6;Fundo Imobiliário
+FII PANAMBY;170,99;7;Fundo Imobiliário
+FII PANAMBY;756,02;9;Fundo Imobiliário
+FII PANAMBY;180,01;10;Fundo Imobiliário
+FII PANAMBY;170,01;11;Fundo Imobiliário
+FII PANAMBY;570,01;12;Fundo Imobiliário
+FII RB CAP;290,21;12;Fundo Imobiliário
+FII RIOB RC;18;11;Fundo Imobiliário
+FII RIOB RC;23,18;12;Fundo Imobiliário
+FII RIVER S;262,24;5;Fundo Imobiliário
+FII S F LIM;17,4;1;Fundo Imobiliário
+FII S F LIM;10,94;2;Fundo Imobiliário
+FII S F LIM;16,02;3;Fundo Imobiliário
+FII S F LIM;14,97;4;Fundo Imobiliário
+FII S F LIM;17,23;5;Fundo Imobiliário
+FII S F LIM;18,59;6;Fundo Imobiliário
+FII S F LIM;20,19;7;Fundo Imobiliário
+FII S F LIM;20,98;8;Fundo Imobiliário
+FII S F LIM;22,68;9;Fundo Imobiliário
+FII S F LIM;18,28;10;Fundo Imobiliário
+FII S F LIM;13,7;11;Fundo Imobiliário
+FII S F LIM;14,37;12;Fundo Imobiliário
+FII SCP;5,09;7;Fundo Imobiliário
+FII TORRE A;22876,57;1;Fundo Imobiliário
+FII TORRE A;23057,53;2;Fundo Imobiliário
+FII TORRE A;26705,18;3;Fundo Imobiliário
+FII TORRE A;27657,39;4;Fundo Imobiliário
+FII TORRE A;29571,64;5;Fundo Imobiliário
+FII TORRE A;26934,38;6;Fundo Imobiliário
+FII TORRE A;30987,34;7;Fundo Imobiliário
+FII TORRE A;29349,52;8;Fundo Imobiliário
+FII TORRE A;28340,53;9;Fundo Imobiliário
+FII TORRE A;11186,01;10;Fundo Imobiliário
+FII TORRE A;25773,12;11;Fundo Imobiliário
+FII TORRE A;18145,66;12;Fundo Imobiliário
+FII TORRE N;552;1;Fundo Imobiliário
+FII TORRE N;123;2;Fundo Imobiliário
+FII TORRE N;729,01;3;Fundo Imobiliário
+FII TORRE N;615,51;4;Fundo Imobiliário
+FII TORRE N;389;5;Fundo Imobiliário
+FII TORRE N;264;6;Fundo Imobiliário
+FII TORRE N;520,01;7;Fundo Imobiliário
+FII TORRE N;270;8;Fundo Imobiliário
+FII TORRE N;964;10;Fundo Imobiliário
+FII TORRE N;410;11;Fundo Imobiliário
+FII TORRE N;403;12;Fundo Imobiliário
+FII W PLAZA;901;1;Fundo Imobiliário
+FII W PLAZA;400;2;Fundo Imobiliário
+FII W PLAZA;500,45;3;Fundo Imobiliário
+FII W PLAZA;1397,99;4;Fundo Imobiliário
+FII W PLAZA;1784,86;5;Fundo Imobiliário
+FII W PLAZA;1700,42;6;Fundo Imobiliário
+FII W PLAZA;1598,02;7;Fundo Imobiliário
+FII W PLAZA;1132,25;8;Fundo Imobiliário
+FII W PLAZA;1486,19;9;Fundo Imobiliário
+FII W PLAZA;1926,79;10;Fundo Imobiliário
+FII W PLAZA;1582,39;11;Fundo Imobiliário
+FII W PLAZA;1036,54;12;Fundo Imobiliário
+FINAM;2,82;1;Outro
+FINAM;3,66;2;Outro
+FINAM;3,69;3;Outro
+FINAM;4,68;4;Outro
+FINAM;3,98;5;Outro
+FINAM;4,83;6;Outro
+FINAM;3,05;7;Outro
+FINAM;4,46;8;Outro
+FINAM;3,54;9;Outro
+FINAM;3,57;10;Outro
+FINAM;2,94;11;Outro
+FINAM;4,55;12;Outro
+FINOR;10,87;1;Outro
+FINOR;7,35;2;Outro
+FINOR;2,14;3;Outro
+FINOR;6,54;4;Outro
+FINOR;12,26;5;Outro
+FINOR;16,21;6;Outro
+FINOR;18,82;7;Outro
+FINOR;14,74;8;Outro
+FINOR;15,26;9;Outro
+FINOR;14,55;10;Outro
+FINOR;18,98;11;Outro
+FINOR;20,99;12;Outro
+FISET FL RE;4,3;1;Outro
+FISET FL RE;2,64;2;Outro
+FISET FL RE;2,01;3;Outro
+FISET FL RE;2,37;4;Outro
+FISET FL RE;4;5;Outro
+FISET FL RE;5,31;6;Outro
+FISET FL RE;4,12;7;Outro
+FISET FL RE;11,57;8;Outro
+FISET FL RE;16,38;9;Outro
+FISET FL RE;13,29;10;Outro
+FISET FL RE;10,7;11;Outro
+FISET FL RE;10,74;12;Outro
+FISET PESCA;0,98;1;Outro
+FISET PESCA;0,56;4;Outro
+FISET PESCA;0,35;5;Outro
+FISET PESCA;1,36;6;Outro
+FISET PESCA;0,62;7;Outro
+FISET PESCA;3,17;8;Outro
+FISET PESCA;2,75;9;Outro
+FISET PESCA;4,18;11;Outro
+FISET PESCA;2,23;12;Outro
+FISET TUR;0,21;3;Outro
+FISET TUR;0,35;5;Outro
+FISET TUR;1,65;6;Outro
+FISET TUR;0,7;7;Outro
+FISET TUR;3,35;8;Outro
+FISET TUR;2,19;9;Outro
+FISET TUR;5,8;10;Outro
+FISET TUR;3,34;11;Outro
+FISET TUR;0,9;12;Outro
+FLEURY;370,09;12;Farmacêutica
+FORJA TAURU;169,44;1;Outro
+FORJA TAURU;180,47;2;Outro
+FORJA TAURU;212,05;3;Outro
+FORJA TAURU;266,02;4;Outro
+FORJA TAURU;323,76;5;Outro
+FORJA TAURU;309,6;6;Outro
+FORJA TAURU;377,86;7;Outro
+FORJA TAURU;384,79;8;Outro
+FORJA TAURU;451,57;9;Outro
+FORJA TAURU;469,9;10;Outro
+FORJA TAURU;369,79;11;Outro
+FORJA TAURU;369,03;12;Outro
+FOSFERTIL;750,23;1;Outro
+FOSFERTIL;679,09;2;Outro
+FOSFERTIL;860,47;3;Outro
+FOSFERTIL;829,19;4;Outro
+FOSFERTIL;973,25;5;Outro
+FOSFERTIL;1573,38;6;Outro
+FOSFERTIL;1294,12;7;Outro
+FOSFERTIL;1525;8;Outro
+FOSFERTIL;1652;9;Outro
+FOSFERTIL;1532,77;10;Outro
+FOSFERTIL;1229,21;11;Outro
+FOSFERTIL;1477,08;12;Outro
+FRAS-LE;74,73;1;Outro
+FRAS-LE;49,63;2;Outro
+FRAS-LE;55,05;3;Outro
+FRAS-LE;76,28;4;Outro
+FRAS-LE;85,39;5;Outro
+FRAS-LE;82,25;6;Outro
+FRAS-LE;109,64;7;Outro
+FRAS-LE;131,7;8;Outro
+FRAS-LE;138,65;9;Outro
+FRAS-LE;170,67;10;Outro
+FRAS-LE;149,25;11;Outro
+FRAS-LE;161,35;12;Outro
+FUNRES;2,09;1;Outro
+FUNRES;2,5;2;Outro
+FUNRES;1,21;3;Outro
+FUNRES;7,56;4;Outro
+FUNRES;0,64;5;Outro
+FUNRES;0,4;6;Outro
+FUNRES;0,7;7;Outro
+FUNRES;4,67;8;Outro
+FUNRES;4,42;10;Outro
+FUNRES;2,3;11;Outro
+GAFISA;626,19;1;Construção Civil
+GAFISA;631,37;2;Construção Civil
+GAFISA;806,19;3;Construção Civil
+GAFISA;746,91;4;Construção Civil
+GAFISA;1388,51;5;Construção Civil
+GAFISA;1761,63;6;Construção Civil
+GAFISA;1915,75;7;Construção Civil
+GAFISA;2132,56;8;Construção Civil
+GAFISA;2406,13;9;Construção Civil
+GAFISA;3076,5;10;Construção Civil
+GAFISA;2567,42;11;Construção Civil
+GAFISA;2783,29;12;Construção Civil
+GARUDA;4,76;12;Outro
+GAZOLA;119,81;1;Outro
+GAZOLA;85,85;2;Outro
+GAZOLA;88,79;3;Outro
+GAZOLA;74,96;4;Outro
+GAZOLA;96,34;5;Outro
+GAZOLA;111,59;6;Outro
+GAZOLA;94,35;7;Outro
+GAZOLA;120,76;8;Outro
+GAZOLA;79,59;9;Outro
+GAZOLA;84,44;10;Outro
+GAZOLA;75,21;11;Outro
+GAZOLA;76,4;12;Outro
+GENERALSHOP;63,45;1;Outro
+GENERALSHOP;58,22;2;Outro
+GENERALSHOP;73,75;3;Outro
+GENERALSHOP;88,89;4;Outro
+GENERALSHOP;107,38;5;Outro
+GENERALSHOP;132,01;6;Outro
+GENERALSHOP;179,98;7;Outro
+GENERALSHOP;260,9;8;Outro
+GENERALSHOP;236,84;9;Outro
+GENERALSHOP;266,21;10;Outro
+GENERALSHOP;232,45;11;Outro
+GENERALSHOP;254,89;12;Outro
+GER PARANAP;284,56;1;Outro
+GER PARANAP;98,06;2;Outro
+GER PARANAP;316,48;3;Outro
+GER PARANAP;321,5;4;Outro
+GER PARANAP;439,62;5;Outro
+GER PARANAP;416,19;6;Outro
+GER PARANAP;340,97;7;Outro
+GER PARANAP;239,41;8;Outro
+GER PARANAP;191,96;9;Outro
+GER PARANAP;450,7;10;Outro
+GER PARANAP;652,26;11;Outro
+GER PARANAP;829,32;12;Outro
+GERDAU;3146,81;1;Siderurgia e Metalurgia
+GERDAU;2767,91;2;Siderurgia e Metalurgia
+GERDAU;3358,68;3;Siderurgia e Metalurgia
+GERDAU;2675,21;4;Siderurgia e Metalurgia
+GERDAU;3185,39;5;Siderurgia e Metalurgia
+GERDAU;4028,06;6;Siderurgia e Metalurgia
+GERDAU;3772,84;7;Siderurgia e Metalurgia
+GERDAU;4336,04;8;Siderurgia e Metalurgia
+GERDAU;4839,55;9;Siderurgia e Metalurgia
+GERDAU;6281,32;10;Siderurgia e Metalurgia
+GERDAU;5234,81;11;Siderurgia e Metalurgia
+GERDAU;4963,88;12;Siderurgia e Metalurgia
+GERDAU MET;2320,96;1;Siderurgia e Metalurgia
+GERDAU MET;1925,89;2;Siderurgia e Metalurgia
+GERDAU MET;1868,13;3;Siderurgia e Metalurgia
+GERDAU MET;1968,33;4;Siderurgia e Metalurgia
+GERDAU MET;2282,48;5;Siderurgia e Metalurgia
+GERDAU MET;2931,4;6;Siderurgia e Metalurgia
+GERDAU MET;3007,77;7;Siderurgia e Metalurgia
+GERDAU MET;2977,12;8;Siderurgia e Metalurgia
+GERDAU MET;3243,81;9;Siderurgia e Metalurgia
+GERDAU MET;4087,41;10;Siderurgia e Metalurgia
+GERDAU MET;3701,95;11;Siderurgia e Metalurgia
+GERDAU MET;3875,05;12;Siderurgia e Metalurgia
+GETI;2,09;4;Outro
+GETI;19,31;6;Outro
+GETI;25,71;7;Outro
+GETI;20,92;9;Outro
+GETI;2,44;10;Outro
+GETI    /ED;21,17;8;Outro
+GETI    /ED;19,67;11;Outro
+GETIE;0,8;3;Outro
+GETIE;1,45;7;Outro
+GETIE;1,1;8;Outro
+GETIE;3,38;9;Outro
+GETIE;20,5;10;Outro
+GFSA;0,88;3;Construção Civil
+GFSA;14,24;4;Construção Civil
+GFSA;11,8;5;Construção Civil
+GFSA;3,86;6;Construção Civil
+GFSA;36,09;7;Construção Civil
+GFSA;2,14;8;Construção Civil
+GFSA;49,62;9;Construção Civil
+GFSA;57,07;10;Construção Civil
+GFSA;10,94;11;Construção Civil
+GFSA;36,58;12;Construção Civil
+GFSAE;3,93;4;Construção Civil
+GFSAE;0,97;6;Construção Civil
+GFSAE;2,4;7;Construção Civil
+GFSAE;3,75;8;Construção Civil
+GFSAE;4,13;9;Construção Civil
+GFSAE;28,7;10;Construção Civil
+GFSAE;9,78;11;Construção Civil
+GFSAE;4,92;12;Construção Civil
+GGBR;157,71;1;Siderurgia e Metalurgia
+GGBR;89,8;2;Siderurgia e Metalurgia
+GGBR;75,81;3;Siderurgia e Metalurgia
+GGBR;269,22;4;Siderurgia e Metalurgia
+GGBR;324,25;5;Siderurgia e Metalurgia
+GGBR;371,56;6;Siderurgia e Metalurgia
+GGBR;172,02;7;Siderurgia e Metalurgia
+GGBR;134,94;8;Siderurgia e Metalurgia
+GGBR;194,37;9;Siderurgia e Metalurgia
+GGBR;367,74;10;Siderurgia e Metalurgia
+GGBR;202,73;11;Siderurgia e Metalurgia
+GGBR;188,63;12;Siderurgia e Metalurgia
+GGBR    /ED;23,17;3;Siderurgia e Metalurgia
+GGBR    /EJ;27,03;11;Siderurgia e Metalurgia
+GGBR    /EJ;1,17;12;Siderurgia e Metalurgia
+GGBRE;91,64;1;Siderurgia e Metalurgia
+GGBRE;114,01;2;Siderurgia e Metalurgia
+GGBRE;159,03;3;Siderurgia e Metalurgia
+GGBRE;202,65;4;Siderurgia e Metalurgia
+GGBRE;131,8;5;Siderurgia e Metalurgia
+GGBRE;235,02;6;Siderurgia e Metalurgia
+GGBRE;184,89;7;Siderurgia e Metalurgia
+GGBRE;238,72;8;Siderurgia e Metalurgia
+GGBRE;180,43;9;Siderurgia e Metalurgia
+GGBRE;305,8;10;Siderurgia e Metalurgia
+GGBRE;171,07;11;Siderurgia e Metalurgia
+GGBRE;199,48;12;Siderurgia e Metalurgia
+GGBRE   /ED;6,23;3;Siderurgia e Metalurgia
+GGBRE   /EJ;28,03;11;Siderurgia e Metalurgia
+GGBRE   /EJ;6,54;12;Siderurgia e Metalurgia
+GLOBEX;180,41;1;Outro
+GLOBEX;114,74;2;Outro
+GLOBEX;183,44;3;Outro
+GLOBEX;419,26;4;Outro
+GLOBEX;405,84;5;Outro
+GLOBEX;409,54;6;Outro
+GLOBEX;367,08;7;Outro
+GLOBEX;325,12;8;Outro
+GLOBEX;231,46;9;Outro
+GLOBEX;274,49;10;Outro
+GLOBEX;279,04;11;Outro
+GLOBEX;720,61;12;Outro
+GOAU;0,45;2;Outro
+GOAU;0,59;3;Outro
+GOAU;30,73;4;Outro
+GOAU;88,46;5;Outro
+GOAU;57,57;6;Outro
+GOAU;31,09;7;Outro
+GOAU;66,31;8;Outro
+GOAU;92,67;9;Outro
+GOAU;52,37;10;Outro
+GOAU;45,77;11;Outro
+GOAU;82,77;12;Outro
+GOAU    /EJ;25,09;11;Outro
+GOAU    /EJ;4,36;12;Outro
+GOAUE;1,11;2;Outro
+GOAUE;38,62;3;Outro
+GOAUE;19,39;4;Outro
+GOAUE;0,24;5;Outro
+GOAUE;25,92;6;Outro
+GOAUE;5,52;7;Outro
+GOAUE;30,2;8;Outro
+GOAUE;45,31;9;Outro
+GOAUE;73,29;10;Outro
+GOAUE;6,07;11;Outro
+GOAUE;38,6;12;Outro
+GOAUE   /EJ;4,58;11;Outro
+GOL;803,86;1;Aviação
+GOL;631,27;2;Aviação
+GOL;895,46;3;Aviação
+GOL;732,89;4;Aviação
+GOL;841,54;5;Aviação
+GOL;939,03;6;Aviação
+GOL;1304,29;7;Aviação
+GOL;1879,82;8;Aviação
+GOL;1938,08;9;Aviação
+GOL;2825,96;10;Aviação
+GOL;1990,15;11;Aviação
+GOL;3119,25;12;Aviação
+GOLL;0,35;2;Aviação
+GOLL;0,36;3;Aviação
+GOLL;0,16;4;Aviação
+GOLL;8;5;Aviação
+GOLLE;0,84;8;Aviação
+GOLLE;18,5;9;Aviação
+GP INVEST;302,34;1;Outro
+GP INVEST;259,88;2;Outro
+GP INVEST;293,57;3;Outro
+GP INVEST;311,05;4;Outro
+GP INVEST;394,86;5;Outro
+GP INVEST;497,38;6;Outro
+GP INVEST;504,28;7;Outro
+GP INVEST;640,26;8;Outro
+GP INVEST;753,17;9;Outro
+GP INVEST;744,59;10;Outro
+GP INVEST;497,1;11;Outro
+GP INVEST;582,63;12;Outro
+GPC PART;19,44;1;Outro
+GPC PART;16,39;2;Outro
+GPC PART;16,8;3;Outro
+GPC PART;16,18;4;Outro
+GPC PART;18,45;5;Outro
+GPC PART;20,24;6;Outro
+GPC PART;18,73;7;Outro
+GPC PART;16,18;8;Outro
+GPC PART;16,29;9;Outro
+GPC PART;24,7;10;Outro
+GPC PART;24,25;11;Outro
+GPC PART;34,07;12;Outro
+GRADIENTE;75,06;1;Outro
+GRADIENTE;56,68;2;Outro
+GRADIENTE;107,24;3;Outro
+GRADIENTE;67,62;4;Outro
+GRADIENTE;68,85;5;Outro
+GRADIENTE;103,39;6;Outro
+GRADIENTE;105,73;7;Outro
+GRADIENTE;93,32;8;Outro
+GRADIENTE;83,24;9;Outro
+GRADIENTE;89,34;10;Outro
+GRADIENTE;83,63;11;Outro
+GRADIENTE;108,72;12;Outro
+GRAZZIOTIN;225,29;1;Outro
+GRAZZIOTIN;163,55;2;Outro
+GRAZZIOTIN;189,24;3;Outro
+GRAZZIOTIN;230,29;4;Outro
+GRAZZIOTIN;279,77;5;Outro
+GRAZZIOTIN;216,83;6;Outro
+GRAZZIOTIN;337,9;7;Outro
+GRAZZIOTIN;397,26;8;Outro
+GRAZZIOTIN;464,19;9;Outro
+GRAZZIOTIN;308,93;10;Outro
+GRAZZIOTIN;399,41;11;Outro
+GRAZZIOTIN;447,61;12;Outro
+GRENDENE;422,77;1;Outro
+GRENDENE;388,87;2;Outro
+GRENDENE;485,97;3;Outro
+GRENDENE;537,86;4;Outro
+GRENDENE;854,71;5;Outro
+GRENDENE;885,96;6;Outro
+GRENDENE;1081,01;7;Outro
+GRENDENE;1278,67;8;Outro
+GRENDENE;1007,95;9;Outro
+GRENDENE;371,55;10;Outro
+GRENDENE;330,2;11;Outro
+GRENDENE;361,53;12;Outro
+GTD PART;4,62;1;Outro
+GTD PART;5,12;2;Outro
+GTD PART;3,84;3;Outro
+GTD PART;4,13;4;Outro
+GTD PART;1,78;5;Outro
+GTD PART;2,02;6;Outro
+GTD PART;2,82;7;Outro
+GTD PART;1,78;8;Outro
+GTD PART;7,51;9;Outro
+GTD PART;9,11;10;Outro
+GTD PART;7,03;11;Outro
+GTD PART;8,82;12;Outro
+GUARANI;113,78;1;Outro
+GUARANI;91,25;2;Outro
+GUARANI;94,43;3;Outro
+GUARANI;110,87;4;Outro
+GUARANI;231,48;5;Outro
+GUARANI;306,96;6;Outro
+GUARANI;316,44;7;Outro
+GUARANI;491,14;8;Outro
+GUARANI;507,47;9;Outro
+GUARANI;471,59;10;Outro
+GUARANI;352,31;11;Outro
+GUARANI;452,54;12;Outro
+GUARARAPES;778,22;1;Outro
+GUARARAPES;590,65;2;Outro
+GUARARAPES;638,35;3;Outro
+GUARARAPES;819,35;4;Outro
+GUARARAPES;1527,89;5;Outro
+GUARARAPES;2067,14;6;Outro
+GUARARAPES;2385,3;7;Outro
+GUARARAPES;3118,19;8;Outro
+GUARARAPES;3288,07;9;Outro
+GUARARAPES;2071,51;10;Outro
+GUARARAPES;3117,94;11;Outro
+GUARARAPES;3913,06;12;Outro
+GVT HOLDING;1375,37;1;Outro
+GVT HOLDING;1003,54;2;Outro
+GVT HOLDING;1306,47;3;Outro
+GVT HOLDING;1523,15;4;Outro
+GVT HOLDING;1574;5;Outro
+GVT HOLDING;1565,39;6;Outro
+GVT HOLDING;1803,59;7;Outro
+GVT HOLDING;1814,7;8;Outro
+GVT HOLDING;1763,37;9;Outro
+GVT HOLDING;2404,61;10;Outro
+GVT HOLDING;2089,11;11;Outro
+GVT HOLDING;2156,71;12;Outro
+GVTT;1,01;4;Outro
+GVTT;1,63;5;Outro
+GVTT;9,29;7;Outro
+GVTT;25,07;9;Outro
+GVTT;5,73;10;Outro
+GVTT;117,9;11;Outro
+GVTTE;32;1;Outro
+GVTTE;4,83;4;Outro
+GVTTE;5,32;5;Outro
+GVTTE;10,42;7;Outro
+GVTTE;1,5;8;Outro
+GVTTE;41,83;9;Outro
+GVTTE;0,53;10;Outro
+GVTTE;26,16;11;Outro
+HABITASUL;29,19;1;Outro
+HABITASUL;5,43;2;Outro
+HABITASUL;23,32;3;Outro
+HABITASUL;13,37;4;Outro
+HABITASUL;39,35;5;Outro
+HABITASUL;56,15;6;Outro
+HABITASUL;83,55;7;Outro
+HABITASUL;75,48;8;Outro
+HABITASUL;64,13;9;Outro
+HABITASUL;99,87;10;Outro
+HABITASUL;68,59;11;Outro
+HABITASUL;94,57;12;Outro
+HAGA S/A;538,96;1;Outro
+HAGA S/A;615,29;2;Outro
+HAGA S/A;1054,33;3;Outro
+HAGA S/A;1137,15;4;Outro
+HAGA S/A;1639,14;5;Outro
+HAGA S/A;1864,48;6;Outro
+HAGA S/A;145,7;7;Outro
+HAGA S/A;128,17;8;Outro
+HAGA S/A;204,51;9;Outro
+HAGA S/A;183,16;10;Outro
+HAGA S/A;107,01;11;Outro
+HAGA S/A;112,87;12;Outro
+HELBOR;84,98;1;Outro
+HELBOR;85,25;2;Outro
+HELBOR;91,05;3;Outro
+HELBOR;125,27;4;Outro
+HELBOR;137,95;5;Outro
+HELBOR;208,36;6;Outro
+HELBOR;296,31;7;Outro
+HELBOR;415,46;8;Outro
+HELBOR;431,83;9;Outro
+HELBOR;526,24;10;Outro
+HELBOR;354,04;11;Outro
+HELBOR;405,37;12;Outro
+HERCULES;6,13;1;Outro
+HERCULES;5,09;2;Outro
+HERCULES;8,46;3;Outro
+HERCULES;8,05;4;Outro
+HERCULES;9,95;5;Outro
+HERCULES;9,25;6;Outro
+HERCULES;23,96;7;Outro
+HERCULES;20,47;8;Outro
+HERCULES;16,37;9;Outro
+HERCULES;21,3;10;Outro
+HERCULES;13,23;11;Outro
+HERCULES;12,08;12;Outro
+HOTEIS OTHO;9,61;1;Outro
+HOTEIS OTHO;7,48;2;Outro
+HOTEIS OTHO;10,76;3;Outro
+HOTEIS OTHO;10,38;4;Outro
+HOTEIS OTHO;12,07;5;Outro
+HOTEIS OTHO;12,88;6;Outro
+HOTEIS OTHO;10,29;7;Outro
+HOTEIS OTHO;12,54;8;Outro
+HOTEIS OTHO;13,22;9;Outro
+HOTEIS OTHO;31,41;10;Outro
+HOTEIS OTHO;20,57;11;Outro
+HOTEIS OTHO;31,59;12;Outro
+HYPERMARCAS;527,58;1;Farmacêutica
+HYPERMARCAS;451,11;2;Farmacêutica
+HYPERMARCAS;593,69;3;Farmacêutica
+HYPERMARCAS;633,99;4;Farmacêutica
+HYPERMARCAS;863,65;5;Farmacêutica
+HYPERMARCAS;1052,07;6;Farmacêutica
+HYPERMARCAS;1152,91;7;Farmacêutica
+HYPERMARCAS;1406;8;Farmacêutica
+HYPERMARCAS;1490,02;9;Farmacêutica
+HYPERMARCAS;1801,11;10;Farmacêutica
+HYPERMARCAS;2149,02;11;Farmacêutica
+HYPERMARCAS;2292,44;12;Farmacêutica
+IBOV;411897,95;1;Outro
+IBOV;597399,75;2;Outro
+IBOV;435456,39;3;Outro
+IBOV;767417,68;4;Outro
+IBOV;231386,51;5;Outro
+IBOV;787187,48;6;Outro
+IBOV;166220,65;7;Outro
+IBOV;877710,85;8;Outro
+IBOV;262201,31;9;Outro
+IBOV;1188768,57;10;Outro
+IBOV;286884,21;11;Outro
+IBOV;1667792,5;12;Outro
+IBOVE;271780,31;1;Outro
+IBOVE;621875,53;2;Outro
+IBOVE;361460,33;3;Outro
+IBOVE;503700,82;4;Outro
+IBOVE;208880,23;5;Outro
+IBOVE;347891,25;6;Outro
+IBOVE;175021,48;7;Outro
+IBOVE;149314,21;8;Outro
+IBOVE;142996,81;9;Outro
+IBOVE;240660,37;10;Outro
+IBOVE;271274,46;11;Outro
+IBOVE;446763,51;12;Outro
+IBOVESPA;39479;2;Outro
+IBOVESPA;44956;4;Outro
+IBOVESPA;50975;6;Outro
+IBOVESPA;56520;8;Outro
+IBOVESPA;66084;10;Outro
+IBOVESPA;69216;12;Outro
+IDEIASNET;155,57;1;Outro
+IDEIASNET;118,7;2;Outro
+IDEIASNET;122,23;3;Outro
+IDEIASNET;177,35;4;Outro
+IDEIASNET;174,53;5;Outro
+IDEIASNET;261,7;6;Outro
+IDEIASNET;228,17;7;Outro
+IDEIASNET;232,8;8;Outro
+IDEIASNET;295,46;9;Outro
+IDEIASNET;460,67;10;Outro
+IDEIASNET;402,04;11;Outro
+IDEIASNET;318,79;12;Outro
+IDNT;1,66;10;Outro
+IDNT;1,4;11;Outro
+IDNT;2,25;12;Outro
+IENERGIA;16,48;1;Outro
+IENERGIA;14,19;2;Outro
+IENERGIA;22,51;3;Outro
+IENERGIA;25,9;4;Outro
+IENERGIA;28,44;5;Outro
+IENERGIA;28,25;6;Outro
+IENERGIA;22,31;7;Outro
+IENERGIA;26,25;8;Outro
+IENERGIA;24;9;Outro
+IENERGIA;32,15;10;Outro
+IENERGIA;30,54;11;Outro
+IENERGIA;26,62;12;Outro
+IGUACU CAFE;26,3;1;Outro
+IGUACU CAFE;34,99;2;Outro
+IGUACU CAFE;74,24;3;Outro
+IGUACU CAFE;70,23;4;Outro
+IGUACU CAFE;29,21;5;Outro
+IGUACU CAFE;28,97;6;Outro
+IGUACU CAFE;50,04;7;Outro
+IGUACU CAFE;50,32;8;Outro
+IGUACU CAFE;59,5;9;Outro
+IGUACU CAFE;85,58;10;Outro
+IGUACU CAFE;138,99;11;Outro
+IGUACU CAFE;91,84;12;Outro
+IGUATEMI;465,53;1;Outro
+IGUATEMI;438,19;2;Outro
+IGUATEMI;581,27;3;Outro
+IGUATEMI;632,54;4;Outro
+IGUATEMI;738,76;5;Outro
+IGUATEMI;788,51;6;Outro
+IGUATEMI;1007,47;7;Outro
+IGUATEMI;1025,5;8;Outro
+IGUATEMI;1043,08;9;Outro
+IGUATEMI;1507,5;10;Outro
+IGUATEMI;1421,56;11;Outro
+IGUATEMI;1265,27;12;Outro
+INDS ROMI;292,81;1;Outro
+INDS ROMI;237,43;2;Outro
+INDS ROMI;248,37;3;Outro
+INDS ROMI;251,11;4;Outro
+INDS ROMI;296,05;5;Outro
+INDS ROMI;315,14;6;Outro
+INDS ROMI;437,93;7;Outro
+INDS ROMI;436,74;8;Outro
+INDS ROMI;432,71;9;Outro
+INDS ROMI;508,92;10;Outro
+INDS ROMI;434,93;11;Outro
+INDS ROMI;526,9;12;Outro
+INDUSVAL;146,01;1;Outro
+INDUSVAL;85,23;2;Outro
+INDUSVAL;142,07;3;Outro
+INDUSVAL;165,39;4;Outro
+INDUSVAL;212,65;5;Outro
+INDUSVAL;214,42;6;Outro
+INDUSVAL;252,16;7;Outro
+INDUSVAL;335,69;8;Outro
+INDUSVAL;343;9;Outro
+INDUSVAL;362,4;10;Outro
+INDUSVAL;304,58;11;Outro
+INDUSVAL;264,55;12;Outro
+INEPAR;894,37;1;Outro
+INEPAR;801,42;2;Outro
+INEPAR;1050,27;3;Outro
+INEPAR;1240,61;4;Outro
+INEPAR;1627,95;5;Outro
+INEPAR;2226,78;6;Outro
+INEPAR;2094,65;7;Outro
+INEPAR;2446,33;8;Outro
+INEPAR;2676,44;9;Outro
+INEPAR;3730,18;10;Outro
+INEPAR;2625,68;11;Outro
+INEPAR;874,99;12;Outro
+INEPAR TEL;6,5;1;Outro
+INEPAR TEL;4,81;2;Outro
+INEPAR TEL;4,64;3;Outro
+INEPAR TEL;6,45;4;Outro
+INEPAR TEL;10,6;5;Outro
+INEPAR TEL;10,45;6;Outro
+INEPAR TEL;10,96;7;Outro
+INEPAR TEL;8,17;8;Outro
+INEPAR TEL;9,43;9;Outro
+INEPAR TEL;12,28;10;Outro
+INEPAR TEL;9,18;11;Outro
+INEPAR TEL;9,86;12;Outro
+INPAR S/A;65,31;1;Outro
+INPAR S/A;43,43;2;Outro
+INPAR S/A;51,91;3;Outro
+INPAR S/A;90,1;4;Outro
+INPAR S/A;138,32;5;Outro
+INPAR S/A;141,12;6;Outro
+INPAR S/A;165,52;7;Outro
+INPAR S/A;315,99;8;Outro
+INPAR S/A;450,26;9;Outro
+INPAR S/A;511,11;10;Outro
+INPAR S/A;328,04;11;Outro
+INPAR S/A;330,88;12;Outro
+INVEST TUR;6676,99;1;Outro
+INVEST TUR;3880,44;2;Outro
+INVEST TUR;1843,89;3;Outro
+INVEST TUR;4479,93;4;Outro
+INVEST TUR;2091;5;Outro
+INVEST TUR;2522;6;Outro
+INVEST TUR;2089,8;7;Outro
+INVEST TUR;3148,51;8;Outro
+INVEST TUR;2380,98;9;Outro
+INVEST TUR;5676,28;10;Outro
+INVEST TUR;2845,27;11;Outro
+INVEST TUR;3571,94;12;Outro
+INVITEL;5,12;1;Outro
+IOCHP-MAXIO;448,15;1;Outro
+IOCHP-MAXIO;544,19;2;Outro
+IOCHP-MAXIO;658,16;3;Outro
+IOCHP-MAXIO;509,13;4;Outro
+IOCHP-MAXIO;690,64;5;Outro
+IOCHP-MAXIO;642,94;6;Outro
+IOCHP-MAXIO;833,11;7;Outro
+IOCHP-MAXIO;931,88;8;Outro
+IOCHP-MAXIO;1088,55;9;Outro
+IOCHP-MAXIO;1239,14;10;Outro
+IOCHP-MAXIO;1209,04;11;Outro
+IOCHP-MAXIO;1350,93;12;Outro
+ISHARES BOV;1679,18;1;Outro
+ISHARES BOV;1176,94;2;Outro
+ISHARES BOV;1422,32;3;Outro
+ISHARES BOV;1433,46;4;Outro
+ISHARES BOV;2277,96;5;Outro
+ISHARES BOV;2661,94;6;Outro
+ISHARES BOV;3800,58;7;Outro
+ISHARES BOV;2891,12;8;Outro
+ISHARES BOV;3018,85;9;Outro
+ISHARES BOV;3387,79;10;Outro
+ISHARES BOV;3198,03;11;Outro
+ISHARES BOV;3534,42;12;Outro
+ISHARES MIL;28;1;Outro
+ISHARES MIL;89,64;2;Outro
+ISHARES MIL;60,29;3;Outro
+ISHARES MIL;101,13;4;Outro
+ISHARES MIL;221,12;5;Outro
+ISHARES MIL;270,94;6;Outro
+ISHARES MIL;112,19;7;Outro
+ISHARES MIL;119,32;8;Outro
+ISHARES MIL;250,34;9;Outro
+ISHARES MIL;309,6;10;Outro
+ISHARES MIL;323,77;11;Outro
+ISHARES MIL;380,33;12;Outro
+ISHARES SMA;48,82;1;Outro
+ISHARES SMA;122,13;2;Outro
+ISHARES SMA;115,18;3;Outro
+ISHARES SMA;254,45;4;Outro
+ISHARES SMA;581,81;5;Outro
+ISHARES SMA;597,69;6;Outro
+ISHARES SMA;414,39;7;Outro
+ISHARES SMA;617,56;8;Outro
+ISHARES SMA;1034,08;9;Outro
+ISHARES SMA;1586,93;10;Outro
+ISHARES SMA;1151,45;11;Outro
+ISHARES SMA;1361,37;12;Outro
+ITAITUBA;11,69;12;Outro
+ITAU;30,82;1;Serviços Bancários
+ITAU;68,6;2;Serviços Bancários
+ITAU;22,76;3;Serviços Bancários
+ITAU;168,29;4;Serviços Bancários
+ITAU;127,08;5;Serviços Bancários
+ITAU    /ED;35,58;2;Serviços Bancários
+ITAU    /ED;30,03;3;Serviços Bancários
+ITAU    /ED;45,29;4;Serviços Bancários
+ITAU    /ED;34,71;5;Serviços Bancários
+ITAU    /EJ;75,62;3;Serviços Bancários
+ITAUBANCO;4063,11;1;Serviços Bancários
+ITAUBANCO;3242,66;2;Serviços Bancários
+ITAUBANCO;3550,58;3;Serviços Bancários
+ITAUE;62,8;1;Serviços Bancários
+ITAUE;107,23;2;Serviços Bancários
+ITAUE;19,57;3;Serviços Bancários
+ITAUE;132,49;4;Serviços Bancários
+ITAUE;101,81;5;Serviços Bancários
+ITAUE   /ED;5,49;1;Serviços Bancários
+ITAUE   /ED;6,86;2;Serviços Bancários
+ITAUE   /ED;14,62;3;Serviços Bancários
+ITAUE   /ED;28,93;4;Serviços Bancários
+ITAUE   /ED;43,19;5;Serviços Bancários
+ITAUE   /EJ;68,35;3;Serviços Bancários
+ITAUSA;1594,23;1;Serviços Bancários
+ITAUSA;1056,29;2;Serviços Bancários
+ITAUSA;1220,79;3;Serviços Bancários
+ITAUSA;1147,19;4;Serviços Bancários
+ITAUSA;1519,39;5;Serviços Bancários
+ITAUSA;1573,17;6;Serviços Bancários
+ITAUSA;1400,85;7;Serviços Bancários
+ITAUSA;1414,97;8;Serviços Bancários
+ITAUSA;1436,41;9;Serviços Bancários
+ITAUSA;1775,67;10;Serviços Bancários
+ITAUSA;1427,06;11;Serviços Bancários
+ITAUSA;1527,92;12;Serviços Bancários
+ITAUTEC;482,93;1;Serviços Bancários
+ITAUTEC;280,54;2;Serviços Bancários
+ITAUTEC;288,74;3;Serviços Bancários
+ITAUTEC;325,8;4;Serviços Bancários
+ITAUTEC;275,4;5;Serviços Bancários
+ITAUTEC;758,9;6;Serviços Bancários
+ITAUTEC;316,52;7;Serviços Bancários
+ITAUTEC;492,58;8;Serviços Bancários
+ITAUTEC;468,44;9;Serviços Bancários
+ITAUTEC;825,79;10;Serviços Bancários
+ITAUTEC;689,59;11;Serviços Bancários
+ITAUTEC;910,95;12;Serviços Bancários
+ITAUUNIBANC;121,96;3;Serviços Bancários
+ITAUUNIBANC;3826,7;4;Serviços Bancários
+ITAUUNIBANC;4336,19;5;Serviços Bancários
+ITAUUNIBANC;4421,33;6;Serviços Bancários
+ITAUUNIBANC;4522,87;7;Serviços Bancários
+ITAUUNIBANC;5828,44;8;Serviços Bancários
+ITAUUNIBANC;4934,8;9;Serviços Bancários
+ITAUUNIBANC;5826,46;10;Serviços Bancários
+ITAUUNIBANC;3939,77;11;Serviços Bancários
+ITAUUNIBANC;5373,62;12;Serviços Bancários
+ITSA;1,73;1;Serviços Bancários
+ITSA;2,24;2;Serviços Bancários
+ITSA;5,68;3;Serviços Bancários
+ITSA;55,72;4;Serviços Bancários
+ITSA;21,22;5;Serviços Bancários
+ITSA;16,76;6;Serviços Bancários
+ITSA;20,19;7;Serviços Bancários
+ITSA;31,92;8;Serviços Bancários
+ITSA;41,22;9;Serviços Bancários
+ITSA;66,95;10;Serviços Bancários
+ITSA;49,26;11;Serviços Bancários
+ITSA;53,64;12;Serviços Bancários
+ITSA    /EB;4,92;5;Serviços Bancários
+ITSA    /ED;2,25;3;Serviços Bancários
+ITSA    /ED;2,7;6;Serviços Bancários
+ITSA    /ED;1,95;9;Serviços Bancários
+ITSA    /ED;4,73;12;Serviços Bancários
+ITSA    /EJ;3,27;1;Serviços Bancários
+ITSA    /EJ;15,77;3;Serviços Bancários
+ITSA    /EJ;6,41;8;Serviços Bancários
+ITSAE;0,69;1;Serviços Bancários
+ITSAE;11,76;2;Serviços Bancários
+ITSAE;3,29;3;Serviços Bancários
+ITSAE;42,11;4;Serviços Bancários
+ITSAE;19,33;5;Serviços Bancários
+ITSAE;6,65;6;Serviços Bancários
+ITSAE;46,29;7;Serviços Bancários
+ITSAE;21,81;8;Serviços Bancários
+ITSAE;42,3;9;Serviços Bancários
+ITSAE;77,84;10;Serviços Bancários
+ITSAE;34,68;11;Serviços Bancários
+ITSAE;45;12;Serviços Bancários
+ITSAE   /EB;2,69;5;Serviços Bancários
+ITSAE   /ED;3,32;3;Serviços Bancários
+ITSAE   /ED;5,08;6;Serviços Bancários
+ITSAE   /ED;0,55;9;Serviços Bancários
+ITSAE   /ED;10,95;12;Serviços Bancários
+ITSAE   /EJ;2,18;1;Serviços Bancários
+ITSAE   /EJ;14,26;3;Serviços Bancários
+ITSAE   /EJ;3,95;8;Serviços Bancários
+ITUB;40,26;5;Serviços Bancários
+ITUB;176,49;6;Serviços Bancários
+ITUB;193,23;7;Serviços Bancários
+ITUB;154,67;8;Serviços Bancários
+ITUB;237,53;9;Serviços Bancários
+ITUB;243,7;10;Serviços Bancários
+ITUB;197,21;11;Serviços Bancários
+ITUB;214,2;12;Serviços Bancários
+ITUB    /ED;55,38;6;Serviços Bancários
+ITUB    /ED;31,08;7;Serviços Bancários
+ITUB    /ED;33,34;8;Serviços Bancários
+ITUB    /ED;15,1;9;Serviços Bancários
+ITUB    /ED;71,09;10;Serviços Bancários
+ITUB    /ED;44,25;11;Serviços Bancários
+ITUB    /ED;38,3;12;Serviços Bancários
+ITUB    /EJ;47,47;8;Serviços Bancários
+ITUB    /EX;7,32;9;Serviços Bancários
+ITUBE;22,59;5;Serviços Bancários
+ITUBE;165,5;6;Serviços Bancários
+ITUBE;114,4;7;Serviços Bancários
+ITUBE;128,01;8;Serviços Bancários
+ITUBE;254,44;9;Serviços Bancários
+ITUBE;171,01;10;Serviços Bancários
+ITUBE;186,86;11;Serviços Bancários
+ITUBE;245,24;12;Serviços Bancários
+ITUBE   /ED;15,93;6;Serviços Bancários
+ITUBE   /ED;6,52;7;Serviços Bancários
+ITUBE   /ED;18,05;8;Serviços Bancários
+ITUBE   /ED;12,57;9;Serviços Bancários
+ITUBE   /ED;18,24;10;Serviços Bancários
+ITUBE   /ED;48,75;11;Serviços Bancários
+ITUBE   /ED;9,61;12;Serviços Bancários
+ITUBE   /EJ;2,73;8;Serviços Bancários
+ITUBE   /EX;2,29;9;Serviços Bancários
+J B DUARTE;2,56;1;Outro
+J B DUARTE;2,05;2;Outro
+J B DUARTE;2,98;3;Outro
+J B DUARTE;2,32;4;Outro
+J B DUARTE;5,14;5;Outro
+J B DUARTE;6,03;6;Outro
+J B DUARTE;4,88;7;Outro
+J B DUARTE;9,73;8;Outro
+J B DUARTE;10,89;9;Outro
+J B DUARTE;10,56;10;Outro
+J B DUARTE;6,96;11;Outro
+J B DUARTE;5,19;12;Outro
+JBS;323,61;1;Alimentos Processados
+JBS;244,26;2;Alimentos Processados
+JBS;289,22;3;Alimentos Processados
+JBS;392,25;4;Alimentos Processados
+JBS;576,58;5;Alimentos Processados
+JBS;594,88;6;Alimentos Processados
+JBS;621,92;7;Alimentos Processados
+JBS;616,46;8;Alimentos Processados
+JBS;713,94;9;Alimentos Processados
+JBS;787,54;10;Alimentos Processados
+JBS;1012,2;11;Alimentos Processados
+JBS;1068,94;12;Alimentos Processados
+JBSSE;3,12;8;Alimentos Processados
+JBSSE;16,2;10;Alimentos Processados
+JBSSE;19,28;12;Alimentos Processados
+JEREISSATI;13,51;1;Outro
+JEREISSATI;15,73;2;Outro
+JEREISSATI;21,79;3;Outro
+JEREISSATI;18,94;4;Outro
+JEREISSATI;25,6;5;Outro
+JEREISSATI;30,04;6;Outro
+JEREISSATI;27,8;7;Outro
+JEREISSATI;33,46;8;Outro
+JEREISSATI;31,48;9;Outro
+JEREISSATI;32,38;10;Outro
+JEREISSATI;30,2;11;Outro
+JEREISSATI;41,91;12;Outro
+JHSF PART;44,02;1;Construção Civil
+JHSF PART;57,17;2;Construção Civil
+JHSF PART;53,69;3;Construção Civil
+JHSF PART;66,02;4;Construção Civil
+JHSF PART;101,53;5;Construção Civil
+JHSF PART;95,12;6;Construção Civil
+JHSF PART;178,28;7;Construção Civil
+JHSF PART;339,39;8;Construção Civil
+JHSF PART;395,28;9;Construção Civil
+JHSF PART;465,78;10;Construção Civil
+JHSF PART;258,22;11;Construção Civil
+JHSF PART;275,93;12;Construção Civil
+JOAO FORTES;74,78;1;Construção Civil
+JOAO FORTES;64,94;2;Construção Civil
+JOAO FORTES;78,89;3;Construção Civil
+JOAO FORTES;106,15;4;Construção Civil
+JOAO FORTES;135,32;5;Construção Civil
+JOAO FORTES;196,67;6;Construção Civil
+JOAO FORTES;163,79;7;Construção Civil
+JOAO FORTES;197,99;8;Construção Civil
+JOAO FORTES;241,4;9;Construção Civil
+JOAO FORTES;251,13;10;Construção Civil
+JOAO FORTES;229;11;Construção Civil
+JOAO FORTES;267,36;12;Construção Civil
+JOSAPAR;139,14;1;Outro
+JOSAPAR;24,98;2;Outro
+JOSAPAR;131,7;3;Outro
+JOSAPAR;142,13;4;Outro
+JOSAPAR;256,3;5;Outro
+JOSAPAR;123,96;6;Outro
+JOSAPAR;165,37;7;Outro
+JOSAPAR;200,2;8;Outro
+JOSAPAR;83,75;9;Outro
+JOSAPAR;125,09;10;Outro
+JOSAPAR;294,01;11;Outro
+JOSAPAR;119,25;12;Outro
+KARSTEN;30,68;1;Outro
+KARSTEN;64,46;2;Outro
+KARSTEN;173,58;3;Outro
+KARSTEN;129,27;4;Outro
+KARSTEN;105,28;5;Outro
+KARSTEN;91,97;6;Outro
+KARSTEN;125,33;7;Outro
+KARSTEN;83,41;8;Outro
+KARSTEN;104,9;9;Outro
+KARSTEN;159,55;10;Outro
+KARSTEN;85,28;11;Outro
+KARSTEN;96,66;12;Outro
+KEPL;0,38;1;Outro
+KEPL;0,09;2;Outro
+KEPL;0,25;3;Outro
+KEPL;0,53;4;Outro
+KEPL;1,72;5;Outro
+KEPL;1,08;6;Outro
+KEPL;0,5;7;Outro
+KEPL;1,19;8;Outro
+KEPL;1,57;9;Outro
+KEPL;5,3;10;Outro
+KEPL;3,09;11;Outro
+KEPL;1,88;12;Outro
+KEPLER WEBE;13,78;1;Outro
+KEPLER WEBE;9,85;2;Outro
+KEPLER WEBE;10,97;3;Outro
+KEPLER WEBE;12,55;4;Outro
+KEPLER WEBE;12,83;5;Outro
+KEPLER WEBE;12,06;6;Outro
+KEPLER WEBE;13,37;7;Outro
+KEPLER WEBE;13,97;8;Outro
+KEPLER WEBE;15,45;9;Outro
+KEPLER WEBE;33,7;10;Outro
+KEPLER WEBE;23,29;11;Outro
+KEPLER WEBE;24,46;12;Outro
+KLABIN S/A;194,92;1;Celulose
+KLABIN S/A;189,34;2;Celulose
+KLABIN S/A;184,45;3;Celulose
+KLABIN S/A;218,7;4;Celulose
+KLABIN S/A;294,84;5;Celulose
+KLABIN S/A;267,67;6;Celulose
+KLABIN S/A;317,65;7;Celulose
+KLABIN S/A;364,38;8;Celulose
+KLABIN S/A;363,7;9;Celulose
+KLABIN S/A;390,08;10;Celulose
+KLABIN S/A;306,77;11;Celulose
+KLABIN S/A;420,82;12;Celulose
+KLABINSEGAL;135,98;1;Celulose
+KLABINSEGAL;86,5;2;Celulose
+KLABINSEGAL;78,26;3;Celulose
+KLABINSEGAL;122,5;4;Celulose
+KLABINSEGAL;143,67;5;Celulose
+KLABINSEGAL;219,84;6;Celulose
+KLABINSEGAL;286,33;7;Celulose
+KLABINSEGAL;435,26;8;Celulose
+KLABINSEGAL;538,32;9;Celulose
+KLABINSEGAL;521,75;10;Celulose
+KLABINSEGAL;353,25;11;Celulose
+KLABINSEGAL;413,55;12;Celulose
+KLBN;0,3;9;Celulose
+KLBN;17,89;10;Celulose
+KROTON;321,11;1;Educação
+KROTON;251,32;2;Educação
+KROTON;353;3;Educação
+KROTON;360,98;4;Educação
+KROTON;474,94;5;Educação
+KROTON;450,88;6;Educação
+KROTON;721,74;7;Educação
+KROTON;1144,63;8;Educação
+KROTON;887,57;9;Educação
+KROTON;909,1;10;Educação
+KROTON;735,13;11;Educação
+KROTON;749,03;12;Educação
+KSSA;3,64;8;Outro
+LA FONTE TE;0,6;1;Outro
+LA FONTE TE;1,8;2;Outro
+LA FONTE TE;2,11;3;Outro
+LA FONTE TE;2,35;4;Outro
+LA FONTE TE;11,28;5;Outro
+LA FONTE TE;0,7;6;Outro
+LA FONTE TE;0,9;7;Outro
+LA FONTE TE;1;8;Outro
+LA FONTE TE;9,22;9;Outro
+LA FONTE TE;4,7;10;Outro
+LA FONTE TE;4,9;11;Outro
+LAEP;18,3;1;Outro
+LAEP;13,95;2;Outro
+LAEP;16,66;3;Outro
+LAEP;19,74;4;Outro
+LAEP;25,31;5;Outro
+LAEP;32,17;6;Outro
+LAEP;32,03;7;Outro
+LAEP;31,49;8;Outro
+LAEP;23,8;9;Outro
+LAEP;33,3;10;Outro
+LAEP;36,3;11;Outro
+LAEP;64,13;12;Outro
+LAGOARROZ;4,26;9;Outro
+LAME;1,19;2;Varejo
+LAME;3,59;3;Varejo
+LAME;6,69;4;Varejo
+LAME;11,81;5;Varejo
+LAME;9,32;6;Varejo
+LAME;9;7;Varejo
+LAME;11,51;8;Varejo
+LAME;27,88;9;Varejo
+LAME;9,25;10;Varejo
+LAME;12,95;11;Varejo
+LAME;16,66;12;Varejo
+LAMEE;1,1;1;Varejo
+LAMEE;0,35;2;Varejo
+LAMEE;12,35;3;Varejo
+LAMEE;6,5;4;Varejo
+LAMEE;0,11;5;Varejo
+LAMEE;3,2;7;Varejo
+LAMEE;17;8;Varejo
+LAMEE;0,3;9;Varejo
+LAMEE;11,95;10;Varejo
+LAMEE;13,41;11;Varejo
+LAMEE;28,65;12;Varejo
+LAMEE   /ED;0,27;3;Varejo
+LE LIS BLAN;55,86;1;Roupas
+LE LIS BLAN;50,05;2;Roupas
+LE LIS BLAN;79,21;3;Roupas
+LE LIS BLAN;83,54;4;Roupas
+LE LIS BLAN;111,9;5;Roupas
+LE LIS BLAN;105,01;6;Roupas
+LE LIS BLAN;136,54;7;Roupas
+LE LIS BLAN;117,51;8;Roupas
+LE LIS BLAN;137,43;9;Roupas
+LE LIS BLAN;108,93;10;Roupas
+LE LIS BLAN;145,28;11;Roupas
+LE LIS BLAN;180,69;12;Roupas
+LECO;33,26;1;Outro
+LECO;17,22;2;Outro
+LIGHT S/A;1374,74;1;Energia Elétrica
+LIGHT S/A;1146,7;2;Energia Elétrica
+LIGHT S/A;2054,9;3;Energia Elétrica
+LIGHT S/A;1504,77;4;Energia Elétrica
+LIGHT S/A;1462,87;5;Energia Elétrica
+LIGHT S/A;1674,27;6;Energia Elétrica
+LIGHT S/A;2724,35;7;Energia Elétrica
+LIGHT S/A;2852,79;8;Energia Elétrica
+LIGHT S/A;2439,5;9;Energia Elétrica
+LIGHT S/A;2819,14;10;Energia Elétrica
+LIGHT S/A;2376,29;11;Energia Elétrica
+LIGHT S/A;2402,62;12;Energia Elétrica
+LIGT;22;3;Energia Elétrica
+LIGT;0,87;7;Energia Elétrica
+LIGT;3,18;8;Energia Elétrica
+LIGT;28,85;9;Energia Elétrica
+LIGT;24;10;Energia Elétrica
+LIGT;1,09;12;Energia Elétrica
+LIGT    /ED;0,17;3;Outro
+LIGTE;0,76;2;Energia Elétrica
+LIGTE;25;3;Energia Elétrica
+LIGTE   /ED;0,48;3;Outro
+LIX DA CUNH;54,88;1;Outro
+LIX DA CUNH;30,82;2;Outro
+LIX DA CUNH;67,45;3;Outro
+LIX DA CUNH;77,25;4;Outro
+LIX DA CUNH;145,21;5;Outro
+LIX DA CUNH;118,7;6;Outro
+LIX DA CUNH;123,96;7;Outro
+LIX DA CUNH;151,89;8;Outro
+LIX DA CUNH;121,89;9;Outro
+LIX DA CUNH;216,13;10;Outro
+LIX DA CUNH;168,54;11;Outro
+LIX DA CUNH;119,68;12;Outro
+LLX LOG;92,92;1;Logistica
+LLX LOG;87,31;2;Logistica
+LLX LOG;120,44;3;Logistica
+LLX LOG;172,2;4;Logistica
+LLX LOG;497,44;5;Logistica
+LLX LOG;406,4;6;Logistica
+LLX LOG;520,96;7;Logistica
+LLX LOG;524,79;8;Logistica
+LLX LOG;707,72;9;Logistica
+LLX LOG;1062,3;10;Logistica
+LLX LOG;834,02;11;Logistica
+LLX LOG;976,23;12;Logistica
+LLXL;1,39;8;Logistica
+LLXL;16,89;9;Logistica
+LLXL;34,54;10;Logistica
+LLXL;1,39;11;Logistica
+LLXL;33,77;12;Logistica
+LLXLE;0,13;3;Logistica
+LLXLE;0,14;9;Logistica
+LOCALIZA;380,69;1;Aluguel de Carros
+LOCALIZA;309,48;2;Aluguel de Carros
+LOCALIZA;329,45;3;Aluguel de Carros
+LOCALIZA;450,25;4;Aluguel de Carros
+LOCALIZA;590,36;5;Aluguel de Carros
+LOCALIZA;595,83;6;Aluguel de Carros
+LOCALIZA;649,14;7;Aluguel de Carros
+LOCALIZA;1033,7;8;Aluguel de Carros
+LOCALIZA;965,15;9;Aluguel de Carros
+LOCALIZA;1296,77;10;Aluguel de Carros
+LOCALIZA;934;11;Aluguel de Carros
+LOCALIZA;1177,06;12;Aluguel de Carros
+LOG-IN;271,17;1;Transportes
+LOG-IN;295,36;2;Transportes
+LOG-IN;343,9;3;Transportes
+LOG-IN;342,26;4;Transportes
+LOG-IN;406,6;5;Transportes
+LOG-IN;376,69;6;Transportes
+LOG-IN;415,37;7;Transportes
+LOG-IN;440,45;8;Transportes
+LOG-IN;475,95;9;Transportes
+LOG-IN;461,38;10;Transportes
+LOG-IN;425,25;11;Transportes
+LOG-IN;443,19;12;Transportes
+LOGNE;2,71;1;Outro
+LOGNE;14,5;2;Outro
+LOJAS AMERI;722,11;1;Varejo
+LOJAS AMERI;636,35;2;Varejo
+LOJAS AMERI;723,94;3;Varejo
+LOJAS AMERI;857,24;4;Varejo
+LOJAS AMERI;954,36;5;Varejo
+LOJAS AMERI;1068,25;6;Varejo
+LOJAS AMERI;1314,04;7;Varejo
+LOJAS AMERI;1274,73;8;Varejo
+LOJAS AMERI;2006,27;9;Varejo
+LOJAS AMERI;3155,76;10;Varejo
+LOJAS AMERI;2558,75;11;Varejo
+LOJAS AMERI;2189,03;12;Varejo
+LOJAS HERIN;23;4;Roupas
+LOJAS HERIN;60;5;Roupas
+LOJAS HERIN;71,65;6;Roupas
+LOJAS HERIN;90,01;8;Roupas
+LOJAS HERIN;30;10;Roupas
+LOJAS HERIN;143;11;Roupas
+LOJAS HERIN;121,02;12;Roupas
+LOJAS RENNE;991,32;1;Roupas
+LOJAS RENNE;738,7;2;Roupas
+LOJAS RENNE;909,95;3;Roupas
+LOJAS RENNE;957,08;4;Roupas
+LOJAS RENNE;1340,54;5;Roupas
+LOJAS RENNE;1345,02;6;Roupas
+LOJAS RENNE;1475,63;7;Roupas
+LOJAS RENNE;1897,9;8;Roupas
+LOJAS RENNE;1917,37;9;Roupas
+LOJAS RENNE;2578,24;10;Roupas
+LOJAS RENNE;2021,81;11;Roupas
+LOJAS RENNE;2232;12;Roupas
+LONGDIS;1;11;Outro
+LOPES BRASI;235,33;1;Outro
+LOPES BRASI;195,19;2;Outro
+LOPES BRASI;214,19;3;Outro
+LOPES BRASI;275,57;4;Outro
+LOPES BRASI;337,03;5;Outro
+LOPES BRASI;401,89;6;Outro
+LOPES BRASI;414,32;7;Outro
+LOPES BRASI;568,42;8;Outro
+LOPES BRASI;755,82;9;Outro
+LOPES BRASI;789,22;10;Outro
+LOPES BRASI;673,2;11;Outro
+LOPES BRASI;823,33;12;Outro
+LREN;0,41;5;Outro
+LREN;23,58;6;Outro
+LREN;22;7;Outro
+LREN;1,11;9;Outro
+LREN;30,89;10;Outro
+LRENE;1,68;6;Outro
+LRENE;23,37;7;Outro
+LRENE;2,1;12;Outro
+LUPA;1,3;12;Outro
+LUPATECH;1078,6;1;Outro
+LUPATECH;984,86;2;Outro
+LUPATECH;1059,5;3;Outro
+LUPATECH;1105,57;4;Outro
+LUPATECH;2136,48;5;Outro
+LUPATECH;1879,69;6;Outro
+LUPATECH;2421,08;7;Outro
+LUPATECH;2872,21;8;Outro
+LUPATECH;2730,2;9;Outro
+LUPATECH;3618,61;10;Outro
+LUPATECH;3055,56;11;Outro
+LUPATECH;2692,96;12;Outro
+M G POLIEST;3,06;1;Outro
+M G POLIEST;1,77;2;Outro
+M G POLIEST;2,89;3;Outro
+M G POLIEST;2,53;4;Outro
+M G POLIEST;3,56;5;Outro
+M G POLIEST;3,58;6;Outro
+M G POLIEST;3,25;7;Outro
+M G POLIEST;4,17;8;Outro
+M G POLIEST;4,61;9;Outro
+M G POLIEST;4,9;10;Outro
+M G POLIEST;4,25;11;Outro
+M G POLIEST;4,23;12;Outro
+M.DIASBRANC;716,76;1;Agricultura
+M.DIASBRANC;527,99;2;Agricultura
+M.DIASBRANC;626,8;3;Agricultura
+M.DIASBRANC;648,13;4;Agricultura
+M.DIASBRANC;1004,9;5;Agricultura
+M.DIASBRANC;1016,75;6;Agricultura
+M.DIASBRANC;1289,17;7;Agricultura
+M.DIASBRANC;1333,14;8;Agricultura
+M.DIASBRANC;1314,88;9;Agricultura
+M.DIASBRANC;1409,28;10;Agricultura
+M.DIASBRANC;1260,86;11;Agricultura
+M.DIASBRANC;1750,96;12;Agricultura
+MAGG;1,26;10;Outro
+MAGG;0,58;11;Outro
+MAGG;11,43;12;Outro
+MAGNESITA S;412,23;1;Outro
+MAGNESITA S;368,87;2;Outro
+MAGNESITA S;474,6;3;Outro
+MAGNESITA S;583,52;4;Outro
+MAGNESITA S;495,37;5;Outro
+MAGNESITA S;453,61;6;Outro
+MAGNESITA S;486,59;7;Outro
+MAGNESITA S;904,71;8;Outro
+MAGNESITA S;1275,11;9;Outro
+MAGNESITA S;1717,12;10;Outro
+MAGNESITA S;775,13;11;Outro
+MAGNESITA S;1002,66;12;Outro
+MANGELS IND;141,65;1;Outro
+MANGELS IND;80,62;2;Outro
+MANGELS IND;127,01;3;Outro
+MANGELS IND;157,98;4;Outro
+MANGELS IND;196,44;5;Outro
+MANGELS IND;184,58;6;Outro
+MANGELS IND;269,08;7;Outro
+MANGELS IND;354,04;8;Outro
+MANGELS IND;393,78;9;Outro
+MANGELS IND;508,66;10;Outro
+MANGELS IND;516,21;11;Outro
+MANGELS IND;435,95;12;Outro
+MARAMBAIA;6,38;1;Outro
+MARAMBAIA;4,8;2;Outro
+MARAMBAIA;2,86;3;Outro
+MARAMBAIA;11,64;4;Outro
+MARAMBAIA;10,43;5;Outro
+MARAMBAIA;67,87;6;Outro
+MARAMBAIA;96,76;7;Outro
+MARAMBAIA;65,61;8;Outro
+MARAMBAIA;66,5;9;Outro
+MARAMBAIA;55,91;10;Outro
+MARAMBAIA;41,61;11;Outro
+MARAMBAIA;53,67;12;Outro
+MARCOPOLO;223,43;1;Transportes
+MARCOPOLO;163,34;2;Transportes
+MARCOPOLO;233,08;3;Transportes
+MARCOPOLO;263,79;4;Transportes
+MARCOPOLO;345,66;5;Transportes
+MARCOPOLO;334,35;6;Transportes
+MARCOPOLO;365,39;7;Transportes
+MARCOPOLO;436,41;8;Transportes
+MARCOPOLO;473,1;9;Transportes
+MARCOPOLO;512,35;10;Transportes
+MARCOPOLO;487,24;11;Transportes
+MARCOPOLO;525,33;12;Transportes
+MARFRIG;307,99;1;Alimentos Processados
+MARFRIG;264,33;2;Alimentos Processados
+MARFRIG;312;3;Alimentos Processados
+MARFRIG;395,21;4;Alimentos Processados
+MARFRIG;620,47;5;Alimentos Processados
+MARFRIG;747,34;6;Alimentos Processados
+MARFRIG;883,54;7;Alimentos Processados
+MARFRIG;949,18;8;Alimentos Processados
+MARFRIG;1082,45;9;Alimentos Processados
+MARFRIG;1211,75;10;Alimentos Processados
+MARFRIG;1474,35;11;Alimentos Processados
+MARFRIG;1342,43;12;Alimentos Processados
+MARISA;148,13;1;Roupas
+MARISA;139,24;2;Roupas
+MARISA;131,05;3;Roupas
+MARISA;184,93;4;Roupas
+MARISA;217,14;5;Roupas
+MARISA;181,85;6;Roupas
+MARISA;260,14;7;Roupas
+MARISA;375,83;8;Roupas
+MARISA;355,37;9;Roupas
+MARISA;482,79;10;Roupas
+MARISA;432,44;11;Roupas
+MARISA;455,08;12;Roupas
+MARISOL;33,46;1;Outro
+MARISOL;20,45;2;Outro
+MARISOL;16,69;3;Outro
+MARISOL;22,81;4;Outro
+MARISOL;34,61;5;Outro
+MARISOL;43,59;6;Outro
+MARISOL;48,93;7;Outro
+MARISOL;40,78;8;Outro
+MARISOL;49,38;9;Outro
+MARISOL;44,21;10;Outro
+MARISOL;36,52;11;Outro
+MARISOL;46,34;12;Outro
+MARRECAS AG;0,88;9;Outro
+MEDIAL SAUD;328,19;1;Outro
+MEDIAL SAUD;223,15;2;Outro
+MEDIAL SAUD;245,06;3;Outro
+MEDIAL SAUD;269,1;4;Outro
+MEDIAL SAUD;308,91;5;Outro
+MEDIAL SAUD;361,43;6;Outro
+MEDIAL SAUD;454,11;7;Outro
+MEDIAL SAUD;579,62;8;Outro
+MEDIAL SAUD;476,97;9;Outro
+MEDIAL SAUD;859,11;10;Outro
+MEDIAL SAUD;966,73;11;Outro
+MEDIAL SAUD;631,68;12;Outro
+MELHOR SP;100;1;Outro
+MELHOR SP;60;2;Outro
+MELHOR SP;526,4;5;Outro
+MELHOR SP;43,9;6;Outro
+MELHOR SP;335,09;7;Outro
+MELHOR SP;134,49;8;Outro
+MELHOR SP;78,54;9;Outro
+MELHOR SP;234;10;Outro
+MELHOR SP;184,71;11;Outro
+MELHOR SP;154,45;12;Outro
+MELPAPER;40;6;Outro
+MENDES JR;749,74;1;Outro
+MENDES JR;1179,66;2;Outro
+MENDES JR;706,53;3;Outro
+MENDES JR;1577,11;4;Outro
+MENDES JR;1708,01;5;Outro
+MENDES JR;1489,11;6;Outro
+MENDES JR;1468,77;7;Outro
+MENDES JR;1930,77;8;Outro
+MENDES JR;2985,05;9;Outro
+MENDES JR;2913,62;10;Outro
+MENDES JR;1877,13;11;Outro
+MENDES JR;1646,25;12;Outro
+MERC BRASIL;363,99;1;Serviços Bancários
+MERC BRASIL;175,94;2;Serviços Bancários
+MERC BRASIL;305,86;3;Serviços Bancários
+MERC BRASIL;338,59;4;Serviços Bancários
+MERC BRASIL;423,13;5;Serviços Bancários
+MERC BRASIL;456,59;6;Serviços Bancários
+MERC BRASIL;457,01;7;Serviços Bancários
+MERC BRASIL;489,56;8;Serviços Bancários
+MERC BRASIL;468,66;9;Serviços Bancários
+MERC BRASIL;646,07;10;Serviços Bancários
+MERC BRASIL;456,93;11;Serviços Bancários
+MERC BRASIL;482,44;12;Serviços Bancários
+MERC FINANC;48,16;1;Serviços Bancários
+MERC FINANC;35,46;2;Serviços Bancários
+MERC FINANC;42,32;4;Serviços Bancários
+MERC FINANC;29,98;5;Serviços Bancários
+MERC FINANC;18,51;6;Serviços Bancários
+MERC FINANC;7,5;8;Serviços Bancários
+MERC FINANC;7;9;Serviços Bancários
+MERC FINANC;13,3;10;Serviços Bancários
+MERC FINANC;14;11;Serviços Bancários
+MERC FINANC;68,61;12;Serviços Bancários
+MERC INVEST;8,3;1;Serviços Bancários
+MERC INVEST;5;2;Serviços Bancários
+MERC INVEST;6,98;3;Serviços Bancários
+MERC INVEST;9,23;4;Serviços Bancários
+MERC INVEST;13,98;5;Serviços Bancários
+MERC INVEST;11,6;6;Serviços Bancários
+MERC INVEST;21,77;7;Serviços Bancários
+MERC INVEST;24,6;8;Serviços Bancários
+MERC INVEST;24,6;9;Serviços Bancários
+MERC INVEST;27,31;10;Serviços Bancários
+MERC INVEST;19,67;11;Serviços Bancários
+MERC INVEST;16,95;12;Serviços Bancários
+MET DUQUE;24,99;1;Siderurgia e Metalurgia
+MET DUQUE;66,79;3;Siderurgia e Metalurgia
+MET DUQUE;120,49;4;Siderurgia e Metalurgia
+MET DUQUE;226,24;5;Siderurgia e Metalurgia
+MET DUQUE;79,53;6;Siderurgia e Metalurgia
+MET DUQUE;82;7;Siderurgia e Metalurgia
+MET DUQUE;38,3;8;Siderurgia e Metalurgia
+MET DUQUE;22,74;9;Siderurgia e Metalurgia
+MET DUQUE;253,13;10;Siderurgia e Metalurgia
+MET DUQUE;145,17;11;Siderurgia e Metalurgia
+MET DUQUE;224;12;Siderurgia e Metalurgia
+METAL IGUAC;8,25;1;Outro
+METAL IGUAC;5,02;2;Outro
+METAL IGUAC;15,04;3;Outro
+METAL IGUAC;15,24;4;Outro
+METAL IGUAC;9,39;5;Outro
+METAL IGUAC;11,84;6;Outro
+METAL IGUAC;10,85;7;Outro
+METAL IGUAC;11,22;8;Outro
+METAL IGUAC;6,85;9;Outro
+METAL IGUAC;23,44;10;Outro
+METAL IGUAC;16,42;11;Outro
+METAL IGUAC;12,33;12;Outro
+METAL LEVE;492,65;1;Siderurgia e Metalurgia
+METAL LEVE;388,15;2;Siderurgia e Metalurgia
+METAL LEVE;485,42;3;Siderurgia e Metalurgia
+METAL LEVE;501,54;4;Siderurgia e Metalurgia
+METAL LEVE;648,16;5;Siderurgia e Metalurgia
+METAL LEVE;574,72;6;Siderurgia e Metalurgia
+METAL LEVE;615,6;7;Siderurgia e Metalurgia
+METAL LEVE;749,88;8;Siderurgia e Metalurgia
+METAL LEVE;672,22;9;Siderurgia e Metalurgia
+METAL LEVE;796,36;10;Siderurgia e Metalurgia
+METAL LEVE;832,05;11;Siderurgia e Metalurgia
+METAL LEVE;772,55;12;Siderurgia e Metalurgia
+METALFRIO;128,98;1;Siderurgia e Metalurgia
+METALFRIO;68,33;2;Siderurgia e Metalurgia
+METALFRIO;90,95;3;Siderurgia e Metalurgia
+METALFRIO;123,59;4;Siderurgia e Metalurgia
+METALFRIO;132,13;5;Siderurgia e Metalurgia
+METALFRIO;125,15;6;Siderurgia e Metalurgia
+METALFRIO;191,48;7;Siderurgia e Metalurgia
+METALFRIO;322,49;8;Siderurgia e Metalurgia
+METALFRIO;328,14;9;Siderurgia e Metalurgia
+METALFRIO;544,99;10;Siderurgia e Metalurgia
+METALFRIO;502,96;11;Siderurgia e Metalurgia
+METALFRIO;431,82;12;Siderurgia e Metalurgia
+METALOSA;7,4;4;Siderurgia e Metalurgia
+METISA;56,4;1;Siderurgia e Metalurgia
+METISA;114,68;2;Siderurgia e Metalurgia
+METISA;219,13;3;Siderurgia e Metalurgia
+METISA;181,04;4;Siderurgia e Metalurgia
+METISA;227,65;5;Siderurgia e Metalurgia
+METISA;213,23;6;Siderurgia e Metalurgia
+METISA;132,69;7;Siderurgia e Metalurgia
+METISA;131,29;8;Siderurgia e Metalurgia
+METISA;274,09;9;Siderurgia e Metalurgia
+METISA;190,01;10;Siderurgia e Metalurgia
+METISA;406,46;11;Siderurgia e Metalurgia
+METISA;457,03;12;Siderurgia e Metalurgia
+MILLENNIUM;2,9;1;Outro
+MILLENNIUM;2,46;2;Outro
+MILLENNIUM;2,88;3;Outro
+MILLENNIUM;3,66;4;Outro
+MILLENNIUM;4,94;5;Outro
+MILLENNIUM;6,64;6;Outro
+MILLENNIUM;6,19;7;Outro
+MILLENNIUM;9,18;8;Outro
+MILLENNIUM;7,59;9;Outro
+MILLENNIUM;10,13;10;Outro
+MILLENNIUM;10,42;11;Outro
+MILLENNIUM;10,91;12;Outro
+MINASMAQUIN;1001,02;11;Outro
+MINASMAQUIN;2000,01;12;Outro
+MINERVA;116,52;1;Alimentos Processados
+MINERVA;78,22;2;Alimentos Processados
+MINERVA;83,66;3;Alimentos Processados
+MINERVA;118,88;4;Alimentos Processados
+MINERVA;244,32;5;Alimentos Processados
+MINERVA;321,43;6;Alimentos Processados
+MINERVA;302,85;7;Alimentos Processados
+MINERVA;439,05;8;Alimentos Processados
+MINERVA;466,77;9;Alimentos Processados
+MINERVA;684,93;10;Alimentos Processados
+MINERVA;417,76;11;Alimentos Processados
+MINERVA;598,53;12;Alimentos Processados
+MINUPAR;227,45;1;Outro
+MINUPAR;174,64;2;Outro
+MINUPAR;244,39;3;Outro
+MINUPAR;209,4;4;Outro
+MINUPAR;220,86;5;Outro
+MINUPAR;78,43;6;Outro
+MINUPAR;70,38;7;Outro
+MINUPAR;74,87;8;Outro
+MINUPAR;77,42;9;Outro
+MINUPAR;84,97;10;Outro
+MINUPAR;82,43;11;Outro
+MINUPAR;94,71;12;Outro
+MMX MINER;377,97;1;Mineração
+MMX MINER;342,26;2;Mineração
+MMX MINER;377,87;3;Mineração
+MMX MINER;603,21;4;Mineração
+MMX MINER;777,11;5;Mineração
+MMX MINER;780,63;6;Mineração
+MMX MINER;780,07;7;Mineração
+MMX MINER;1100,8;8;Mineração
+MMX MINER;1350,17;9;Mineração
+MMX MINER;2133,24;10;Mineração
+MMX MINER;1526,48;11;Mineração
+MMX MINER;1570,09;12;Mineração
+MMXM;0,64;3;Mineração
+MMXM;13,56;4;Mineração
+MMXM;5,77;5;Mineração
+MMXM;0,36;6;Mineração
+MMXM;3,63;7;Mineração
+MMXM;24,97;8;Mineração
+MMXM;10,17;9;Mineração
+MMXM;75,32;10;Mineração
+MMXM;0,87;11;Mineração
+MMXM;3,71;12;Mineração
+MMXME;0,28;3;Mineração
+MMXME;0,34;4;Mineração
+MMXME;0,16;5;Mineração
+MMXME;1,08;6;Mineração
+MMXME;3,54;7;Mineração
+MMXME;4,21;8;Mineração
+MMXME;4,34;9;Mineração
+MMXME;31,26;10;Mineração
+MMXME;12,05;11;Mineração
+MNPRE;6,4;4;Outro
+MNPRE;1,3;7;Outro
+MONT ARANHA;996,98;1;Outro
+MONT ARANHA;1017,98;2;Outro
+MONT ARANHA;1600,79;3;Outro
+MONT ARANHA;782,21;4;Outro
+MONT ARANHA;471,06;5;Outro
+MONT ARANHA;242,98;6;Outro
+MONT ARANHA;861,53;7;Outro
+MONT ARANHA;948,18;8;Outro
+MONT ARANHA;468,22;9;Outro
+MONT ARANHA;473,99;10;Outro
+MONT ARANHA;664,53;11;Outro
+MONT ARANHA;582,67;12;Outro
+MPX ENERGIA;4218,46;1;Energia Elétrica
+MPX ENERGIA;4217,87;2;Energia Elétrica
+MPX ENERGIA;5768,73;3;Energia Elétrica
+MPX ENERGIA;6476,47;4;Energia Elétrica
+MPX ENERGIA;13383,11;5;Energia Elétrica
+MPX ENERGIA;15030,18;6;Energia Elétrica
+MPX ENERGIA;13915,42;7;Energia Elétrica
+MPX ENERGIA;1484,88;8;Energia Elétrica
+MPX ENERGIA;1847,59;9;Energia Elétrica
+MPX ENERGIA;2645,81;10;Energia Elétrica
+MPX ENERGIA;2558,61;11;Energia Elétrica
+MPX ENERGIA;2947,3;12;Energia Elétrica
+MPXE;44,2;3;Energia Elétrica
+MPXE;46,42;4;Energia Elétrica
+MPXE;112,94;5;Energia Elétrica
+MPXEE;26,91;4;Energia Elétrica
+MPXEE;20,72;5;Energia Elétrica
+MPXEE;9,01;6;Energia Elétrica
+MRS LOGIST;40;5;Logística
+MRS LOGIST;74;6;Logística
+MRS LOGIST;80;8;Logística
+MRV;556,43;1;Construção Civil
+MRV;487,77;2;Construção Civil
+MRV;661,76;3;Construção Civil
+MRV;904,06;4;Construção Civil
+MRV;1256,79;5;Construção Civil
+MRV;1294,56;6;Construção Civil
+MRV;1639;7;Construção Civil
+MRV;2181,86;8;Construção Civil
+MRV;2918,79;9;Construção Civil
+MRV;2661,98;10;Construção Civil
+MRV;1810,24;11;Construção Civil
+MRV;2371,35;12;Construção Civil
+MRVE;1,05;3;Construção Civil
+MRVE;1,88;4;Construção Civil
+MRVE;31,57;6;Construção Civil
+MRVE;0,6;7;Construção Civil
+MRVE;3,03;9;Construção Civil
+MRVE;62;10;Construção Civil
+MRVEE;0,28;4;Construção Civil
+MRVEE;1,63;6;Construção Civil
+MRVEE;28,94;7;Construção Civil
+MULTIPLAN;493,19;1;Shoppings
+MULTIPLAN;443,11;2;Shoppings
+MULTIPLAN;627,13;3;Shoppings
+MULTIPLAN;641,62;4;Shoppings
+MULTIPLAN;731,84;5;Shoppings
+MULTIPLAN;839,67;6;Shoppings
+MULTIPLAN;875,52;7;Shoppings
+MULTIPLAN;1036,74;8;Shoppings
+MULTIPLAN;1160,54;9;Shoppings
+MULTIPLAN;1202,14;10;Shoppings
+MULTIPLAN;1196,79;11;Shoppings
+MULTIPLAN;1389,03;12;Shoppings
+MUNDIAL;43,33;1;Outro
+MUNDIAL;35,2;2;Outro
+MUNDIAL;44,43;3;Outro
+MUNDIAL;89,59;4;Outro
+MUNDIAL;78,09;5;Outro
+MUNDIAL;77,71;6;Outro
+MUNDIAL;67,31;7;Outro
+MUNDIAL;61,82;8;Outro
+MUNDIAL;59,02;9;Outro
+MUNDIAL;53,24;10;Outro
+MUNDIAL;53,41;11;Outro
+MUNDIAL;51,88;12;Outro
+NADIR FIGUE;9,99;1;Outro
+NADIR FIGUE;58,79;2;Outro
+NADIR FIGUE;46,05;4;Outro
+NADIR FIGUE;64,98;5;Outro
+NADIR FIGUE;82,27;6;Outro
+NADIR FIGUE;58,02;7;Outro
+NADIR FIGUE;50,49;8;Outro
+NADIR FIGUE;77,6;9;Outro
+NADIR FIGUE;54,39;10;Outro
+NADIR FIGUE;22,76;11;Outro
+NADIR FIGUE;53;12;Outro
+NATU;0,7;1;Outro
+NATU;2,59;3;Outro
+NATU;0,7;4;Outro
+NATU;24;5;Outro
+NATU;24,48;6;Outro
+NATU;0,57;7;Outro
+NATU;2,59;9;Outro
+NATU;28;10;Outro
+NATU;7,24;12;Outro
+NATUE;19,06;1;Outro
+NATUE;16,95;3;Outro
+NATUE;29,89;4;Outro
+NATUE;25;6;Outro
+NATUE;4,87;7;Outro
+NATUE;39,87;8;Outro
+NATUE;23,22;9;Outro
+NATUE;4,11;11;Outro
+NATUE;31;12;Outro
+NATUE   /ED;6,77;8;Outro
+NATURA;1084,07;1;Produtos Cosméticos
+NATURA;874,96;2;Produtos Cosméticos
+NATURA;1031,32;3;Produtos Cosméticos
+NATURA;1217,46;4;Produtos Cosméticos
+NATURA;1527,45;5;Produtos Cosméticos
+NATURA;1635,75;6;Produtos Cosméticos
+NATURA;1788,53;7;Produtos Cosméticos
+NATURA;1675,18;8;Produtos Cosméticos
+NATURA;1456,7;9;Produtos Cosméticos
+NATURA;1634,4;10;Produtos Cosméticos
+NATURA;1812,51;11;Produtos Cosméticos
+NATURA;1852,77;12;Produtos Cosméticos
+NATURES ALM;49;4;Outro
+NET;823,53;1;Serviços 
+NET;700;2;Serviços 
+NET;924,4;3;Serviços 
+NET;1048,74;4;Serviços 
+NET;964,14;5;Serviços 
+NET;1145,45;6;Serviços 
+NET;1455,66;7;Serviços 
+NET;1683,59;8;Serviços 
+NET;1442,4;9;Serviços 
+NET;1465,81;10;Serviços 
+NET;1273,15;11;Serviços 
+NET;1876,86;12;Serviços 
+NETC;0,2;3;Serviços 
+NETC;0,29;5;Serviços 
+NETC;0,44;8;Serviços 
+NETCE;65,56;1;Serviços 
+NETCE;2,01;2;Serviços 
+NETCE;132;3;Serviços 
+NETCE;77,17;4;Serviços 
+NETCE;160,94;5;Serviços 
+NETCE;82,03;6;Serviços 
+NETCE;181,52;7;Serviços 
+NETCE;132,05;8;Serviços 
+NETCE;250,98;9;Serviços 
+NETCE;260,18;10;Serviços 
+NETCE;302,07;11;Serviços 
+NETCE;559,62;12;Serviços 
+NETCE   /ES;68,48;2;Serviços 
+NORD BRASIL;102,5;1;Outro
+NORD BRASIL;533,55;2;Outro
+NORD BRASIL;314,5;3;Outro
+NORD BRASIL;639,28;4;Outro
+NORD BRASIL;589,9;5;Outro
+NORD BRASIL;246,08;6;Outro
+NORD BRASIL;713,07;7;Outro
+NORD BRASIL;654,94;8;Outro
+NORD BRASIL;579,73;9;Outro
+NORD BRASIL;793,77;10;Outro
+NORD BRASIL;486,83;11;Outro
+NORD BRASIL;692,05;12;Outro
+NORDON MET;49,59;5;Outro
+NORDON MET;120,7;6;Outro
+NORDON MET;222,18;7;Outro
+NORDON MET;141,49;8;Outro
+NORDON MET;133,34;9;Outro
+NORDON MET;134,51;10;Outro
+NORDON MET;75,73;11;Outro
+NORDON MET;94,35;12;Outro
+NOSSA CAIXA;3720,48;1;Serviços Bancários
+NOSSA CAIXA;2755,93;2;Serviços Bancários
+NOSSA CAIXA;3436,56;3;Serviços Bancários
+NOSSA CAIXA;3136,19;4;Serviços Bancários
+NOSSA CAIXA;3180,78;5;Serviços Bancários
+NOSSA CAIXA;3287,13;6;Serviços Bancários
+NOSSA CAIXA;3623,32;7;Serviços Bancários
+NOSSA CAIXA;3456,72;8;Serviços Bancários
+NOSSA CAIXA;3329,2;9;Serviços Bancários
+NOSSA CAIXA;2653,03;10;Serviços Bancários
+NOSSA CAIXA;2512,72;11;Serviços Bancários
+NOSSA CAIXA;2407,03;12;Serviços Bancários
+NOVA AMERIC;0,08;1;Outro
+NOVA AMERIC;1,23;2;Outro
+NOVA AMERIC;3,67;3;Outro
+NOVA AMERIC;2,7;4;Outro
+NOVA AMERIC;15,15;5;Outro
+NOVA AMERIC;4,42;6;Outro
+NOVA AMERIC;4,47;7;Outro
+NOVA AMERIC;9,47;8;Outro
+NOVA AMERIC;10,86;9;Outro
+NOVA AMERIC;14,36;10;Outro
+NOVA AMERIC;5,7;11;Outro
+NOVA AMERIC;7,69;12;Tecnologia
+NUTRIGAS;757,5;4;Outro
+NUTRIGAS;793,5;11;Outro
+NUTRIPLANT;6;1;Outro
+NUTRIPLANT;12,5;2;Outro
+NUTRIPLANT;5,99;3;Outro
+NUTRIPLANT;14,99;4;Outro
+NUTRIPLANT;7,5;7;Outro
+NUTRIPLANT;24,9;8;Outro
+NUTRIPLANT;54,78;9;Outro
+NUTRIPLANT;32,12;10;Outro
+NUTRIPLANT;8,89;11;Outro
+NUTRIPLANT;14,25;12;Outro
+ODONTOPREV;890,29;1;Saúde 
+ODONTOPREV;725,01;2;Saúde 
+ODONTOPREV;849,8;3;Saúde 
+ODONTOPREV;1027,12;4;Saúde 
+ODONTOPREV;1035,62;5;Saúde 
+ODONTOPREV;1285,66;6;Saúde 
+ODONTOPREV;1363,71;7;Saúde 
+ODONTOPREV;1381,62;8;Saúde 
+ODONTOPREV;1422,6;9;Saúde 
+ODONTOPREV;1999,04;10;Saúde 
+ODONTOPREV;2093,29;11;Saúde 
+ODONTOPREV;2419,39;12;Saúde 
+OGX PETROLE;14910,67;1;Oléo & Gás
+OGX PETROLE;16579,23;2;Oléo & Gás
+OGX PETROLE;23229,46;3;Oléo & Gás
+OGX PETROLE;33330,03;4;Oléo & Gás
+OGX PETROLE;37771,28;5;Oléo & Gás
+OGX PETROLE;47645,2;6;Oléo & Gás
+OGX PETROLE;99965,55;7;Oléo & Gás
+OGX PETROLE;110035,78;8;Oléo & Gás
+OGX PETROLE;130871,28;9;Oléo & Gás
+OGX PETROLE;219146,11;10;Oléo & Gás
+OGX PETROLE;223150,84;11;Oléo & Gás
+OGX PETROLE;199465,53;12;Oléo & Gás
+OGXP;469,37;2;Petróleo, Gás e Biocombustíveis
+OGXP;1404,3;3;Petróleo, Gás e Biocombustíveis
+OGXP;965,44;4;Petróleo, Gás e Biocombustíveis
+OGXP;732;5;Petróleo, Gás e Biocombustíveis
+OGXP;1850;6;Petróleo, Gás e Biocombustíveis
+OGXP;3992,68;7;Petróleo, Gás e Biocombustíveis
+OGXP;3568,72;8;Petróleo, Gás e Biocombustíveis
+OGXP;13712,46;9;Petróleo, Gás e Biocombustíveis
+OGXP;25699,8;10;Petróleo, Gás e Biocombustíveis
+OGXP;17188,1;11;Petróleo, Gás e Biocombustíveis
+OGXP;16416,76;12;Petróleo, Gás e Biocombustíveis
+OGXP    /EB;229,57;12;Oléo & Gás
+OGXP    /ED;484,14;4;Oléo & Gás
+OGXPE;403,77;2;Oléo & Gás
+OGXPE;714,75;3;Oléo & Gás
+OGXPE;490,39;4;Oléo & Gás
+OGXPE;14;5;Oléo & Gás
+OGXPE;67,14;7;Oléo & Gás
+OGXPE;138,58;8;Oléo & Gás
+OGXPE;3585,98;9;Oléo & Gás
+OGXPE;3276,03;10;Oléo & Gás
+OGXPE;3254,18;11;Oléo & Gás
+OGXPE;29,15;12;Oléo & Gás
+OGXPE   /EB;3,32;12;Oléo & Gás
+OHL BRASIL;632,08;1;Rodovias
+OHL BRASIL;596,76;2;Rodovias
+OHL BRASIL;557,16;3;Rodovias
+OHL BRASIL;711,51;4;Rodovias
+OHL BRASIL;867,82;5;Rodovias
+OHL BRASIL;850,72;6;Rodovias
+OHL BRASIL;927,7;7;Rodovias
+OHL BRASIL;1016,22;8;Rodovias
+OHL BRASIL;1012,76;9;Rodovias
+OHL BRASIL;1280,88;10;Rodovias
+OHL BRASIL;1327,79;11;Rodovias
+OHL BRASIL;1530,44;12;Rodovias
+P.ACUCAR-CB;1594,67;1;Varejo
+P.ACUCAR-CB;1513,3;2;Varejo
+P.ACUCAR-CB;1533,29;3;Varejo
+P.ACUCAR-CB;1702,13;4;Varejo
+P.ACUCAR-CB;1894,53;5;Varejo
+P.ACUCAR-CB;2505,89;6;Varejo
+P.ACUCAR-CB;2677,93;7;Varejo
+P.ACUCAR-CB;5315,59;8;Varejo
+P.ACUCAR-CB;4464,84;9;Varejo
+P.ACUCAR-CB;4677,04;10;Varejo
+P.ACUCAR-CB;3980,93;11;Varejo
+P.ACUCAR-CB;3979,46;12;Varejo
+PANAMERICAN;157,31;1;Outro
+PANAMERICAN;139,38;2;Outro
+PANAMERICAN;165,39;3;Outro
+PANAMERICAN;217,31;4;Outro
+PANAMERICAN;261,5;5;Outro
+PANAMERICAN;277,64;6;Outro
+PANAMERICAN;385,97;7;Outro
+PANAMERICAN;622,17;8;Outro
+PANAMERICAN;474,83;9;Outro
+PANAMERICAN;559,85;10;Outro
+PANAMERICAN;728,87;11;Outro
+PANAMERICAN;567,42;12;Outro
+PANATLANTIC;100,95;1;Outro
+PANATLANTIC;120,62;2;Outro
+PANATLANTIC;58,97;3;Outro
+PANATLANTIC;144,66;4;Outro
+PANATLANTIC;211,63;5;Outro
+PANATLANTIC;94,38;6;Outro
+PANATLANTIC;144,66;7;Outro
+PANATLANTIC;198,38;8;Outro
+PANATLANTIC;191,53;9;Outro
+PANATLANTIC;166,91;10;Outro
+PANATLANTIC;194,14;11;Outro
+PANATLANTIC;289,34;12;Outro
+PAR AL BAHI;852,59;1;Outro
+PAR AL BAHI;289;2;Outro
+PAR AL BAHI;583,58;3;Outro
+PAR AL BAHI;304,99;4;Outro
+PAR AL BAHI;199,46;5;Outro
+PAR AL BAHI;523,97;6;Outro
+PAR AL BAHI;659,06;7;Outro
+PAR AL BAHI;552,47;8;Outro
+PAR AL BAHI;257,16;9;Outro
+PAR AL BAHI;581,73;10;Outro
+PAR AL BAHI;989,46;11;Outro
+PAR AL BAHI;320,2;12;Outro
+PARANA;125,21;1;Outro
+PARANA;123,69;2;Outro
+PARANA;154,65;3;Outro
+PARANA;143,26;4;Outro
+PARANA;240,57;5;Outro
+PARANA;214,57;6;Outro
+PARANA;320,93;7;Outro
+PARANA;456,13;8;Outro
+PARANA;364,92;9;Outro
+PARANA;638,89;10;Outro
+PARANA;755,02;11;Outro
+PARANA;642,32;12;Outro
+PARANAPANEM;302,63;1;Outro
+PARANAPANEM;228,38;2;Outro
+PARANAPANEM;229,63;3;Outro
+PARANAPANEM;332,32;4;Outro
+PARANAPANEM;367,95;5;Outro
+PARANAPANEM;357,6;6;Outro
+PARANAPANEM;379,69;7;Outro
+PARANAPANEM;480,24;8;Outro
+PARANAPANEM;787,92;9;Outro
+PARANAPANEM;1225,49;10;Outro
+PARANAPANEM;1308,8;11;Outro
+PARANAPANEM;1273,62;12;Outro
+PARMALAT;145,43;1;Outro
+PARMALAT;60,02;2;Outro
+PARMALAT;63,81;3;Outro
+PARMALAT;115,13;4;Outro
+PARMALAT;118,01;5;Outro
+PARMALAT;77,98;6;Outro
+PARMALAT;71,88;7;Outro
+PARMALAT;69,12;8;Outro
+PARMALAT;64,2;9;Outro
+PARMALAT;88,76;10;Outro
+PARMALAT;110,72;11;Outro
+PARMALAT;178,47;12;Outro
+PATAGONIA;348,22;1;Outro
+PATAGONIA;164,77;2;Outro
+PATAGONIA;213,84;3;Outro
+PATAGONIA;100,81;4;Outro
+PATAGONIA;45,84;6;Outro
+PATAGONIA;90,09;7;Outro
+PATAGONIA;171,35;8;Outro
+PATAGONIA;271,85;9;Outro
+PATAGONIA;74,5;10;Outro
+PATAGONIA;48,6;11;Outro
+PATAGONIA;79,1;12;Outro
+PCAR;0,49;2;Outro
+PCAR;30;3;Outro
+PCAR;36;4;Outro
+PCAR;33,7;5;Outro
+PCAR;0,7;6;Outro
+PCAR;41,2;7;Outro
+PCAR;5;9;Outro
+PCAR;90;10;Outro
+PCAR    /ED;0,14;5;Outro
+PCARE;0,54;3;Outro
+PCARE;1,67;4;Outro
+PCARE;0,49;5;Outro
+PCARE;0,58;6;Outro
+PCARE;0,85;7;Outro
+PCARE;0,9;9;Outro
+PCARE;22,58;12;Outro
+PDG REALT;609,4;1;Outro
+PDG REALT;568,9;2;Outro
+PDG REALT;627,23;3;Outro
+PDG REALT;764,97;4;Outro
+PDG REALT;40807,56;5;Outro
+PDG REALT;9816,96;6;Outro
+PDG REALT;1241,27;7;Outro
+PDG REALT;1615,22;8;Outro
+PDG REALT;1266,69;9;Outro
+PDG REALT;1297,66;10;Outro
+PDG REALT;861,51;11;Outro
+PDG REALT;1339,35;12;Outro
+PDGR;0,91;6;Varejo
+PDGR;22;7;Varejo
+PDGR;2,15;12;Varejo
+PDGRE;1,21;6;Alimentos Processados
+PERDIGAO S/;2117,1;1;Alimentos Processados
+PERDIGAO S/;1871,89;2;Alimentos Processados
+PERDIGAO S/;2166,48;3;Alimentos Processados
+PERDIGAO S/;2306,76;4;Alimentos Processados
+PERDIGAO S/;2526,66;5;Alimentos Processados
+PERDIGAO S/;2515,86;6;Alimentos Processados
+PERDIGAO S/;742,51;7;Alimentos Processados
+PET MANGUIN;18,66;5;Outro
+PET MANGUIN;25,15;6;Outro
+PET MANGUIN;22,09;7;Outro
+PET MANGUIN;19,23;8;Outro
+PET MANGUIN;17,51;9;Outro
+PET MANGUIN;30,16;10;Outro
+PET MANGUIN;30,91;11;Outro
+PET MANGUIN;35,45;12;Outro
+PETR;1857,62;1;Petróleo, Gás e Biocombustíveis
+PETR;2547,87;2;Petróleo, Gás e Biocombustíveis
+PETR;2799,73;3;Petróleo, Gás e Biocombustíveis
+PETR;1416,73;4;Petróleo, Gás e Biocombustíveis
+PETR;3362,58;5;Petróleo, Gás e Biocombustíveis
+PETR;3542,06;6;Petróleo, Gás e Biocombustíveis
+PETR;1831,12;7;Petróleo, Gás e Biocombustíveis
+PETR;3024,69;8;Petróleo, Gás e Biocombustíveis
+PETR;3289,93;9;Petróleo, Gás e Biocombustíveis
+PETR;2845,96;10;Petróleo, Gás e Biocombustíveis
+PETR;3737,05;11;Petróleo, Gás e Biocombustíveis
+PETR;2751,56;12;Petróleo, Gás e Biocombustíveis
+PETR    /ED;1380,4;4;Oléo & Gás
+PETR    /EJ;670,28;1;Petróleo, Gás e Biocombustíveis
+PETR    /EJ;1005,13;7;Petróleo, Gás e Biocombustíveis
+PETR    /EJ;1382,17;10;Petróleo, Gás e Biocombustíveis
+PETR    /EJ;794,12;12;Petróleo, Gás e Biocombustíveis
+PETRE;584,28;1;Petróleo, Gás e Biocombustíveis
+PETRE;721,1;2;Petróleo, Gás e Biocombustíveis
+PETRE;524,54;3;Petróleo, Gás e Biocombustíveis
+PETRE;119,79;4;Petróleo, Gás e Biocombustíveis
+PETRE;419,43;5;Petróleo, Gás e Biocombustíveis
+PETRE;660,78;6;Petróleo, Gás e Biocombustíveis
+PETRE;480,69;7;Petróleo, Gás e Biocombustíveis
+PETRE;604,1;8;Petróleo, Gás e Biocombustíveis
+PETRE;607,44;9;Petróleo, Gás e Biocombustíveis
+PETRE;795,63;10;Petróleo, Gás e Biocombustíveis
+PETRE;1096,2;11;Petróleo, Gás e Biocombustíveis
+PETRE;575,77;12;Petróleo, Gás e Biocombustíveis
+PETRE   /ED;459,34;4;Oléo & Gás
+PETRE   /EJ;135,61;1;Petróleo, Gás e Biocombustíveis
+PETRE   /EJ;136,67;7;Petróleo, Gás e Biocombustíveis
+PETRE   /EJ;253,25;10;Petróleo, Gás e Biocombustíveis
+PETRE   /EJ;612,21;12;Petróleo, Gás e Biocombustíveis
+PETROBRAS;8597,49;1;Petróleo, Gás e Biocombustíveis
+PETROBRAS;7846,28;2;Petróleo, Gás e Biocombustíveis
+PETROBRAS;9412,04;3;Petróleo, Gás e Biocombustíveis
+PETROBRAS;9895,33;4;Petróleo, Gás e Biocombustíveis
+PETROBRAS;9347,02;5;Petróleo, Gás e Biocombustíveis
+PETROBRAS;12050,7;6;Petróleo, Gás e Biocombustíveis
+PETROBRAS;11897,03;7;Petróleo, Gás e Biocombustíveis
+PETROBRAS;12093,97;8;Petróleo, Gás e Biocombustíveis
+PETROBRAS;11375,21;9;Petróleo, Gás e Biocombustíveis
+PETROBRAS;14432,92;10;Petróleo, Gás e Biocombustíveis
+PETROBRAS;12543,6;11;Petróleo, Gás e Biocombustíveis
+PETROBRAS;15877,66;12;Petróleo, Gás e Biocombustíveis
+PETROPAR;320,93;1;Petróleo, Gás e Biocombustíveis
+PETROPAR;156,31;2;Petróleo, Gás e Biocombustíveis
+PETROPAR;90,09;3;Petróleo, Gás e Biocombustíveis
+PETROPAR;31,5;4;Petróleo, Gás e Biocombustíveis
+PETROPAR;224,97;5;Petróleo, Gás e Biocombustíveis
+PETROPAR;277,8;6;Petróleo, Gás e Biocombustíveis
+PETROPAR;325,06;7;Petróleo, Gás e Biocombustíveis
+PETROPAR;284,04;8;Petróleo, Gás e Biocombustíveis
+PETROPAR;271,78;9;Petróleo, Gás e Biocombustíveis
+PETROPAR;298,32;10;Petróleo, Gás e Biocombustíveis
+PETROPAR;327,25;11;Petróleo, Gás e Biocombustíveis
+PETROPAR;288;12;Petróleo, Gás e Biocombustíveis
+PETTENATI;163,33;1;Outro
+PETTENATI;119,73;2;Outro
+PETTENATI;103,55;3;Outro
+PETTENATI;181,75;4;Outro
+PETTENATI;185,48;5;Outro
+PETTENATI;277,14;6;Outro
+PETTENATI;187,34;7;Outro
+PETTENATI;296,05;8;Outro
+PETTENATI;240,48;9;Outro
+PETTENATI;312,51;10;Outro
+PETTENATI;202,87;11;Outro
+PETTENATI;243,2;12;Outro
+PIBB;2598,52;1;Outro
+PIBB;2204,81;2;Outro
+PIBB;2790,16;3;Outro
+PIBB;2878,54;4;Outro
+PIBB;3275,47;5;Outro
+PIBB;3348,65;6;Outro
+PIBB;3967,63;7;Outro
+PIBB;3899,41;8;Outro
+PIBB;3908,69;9;Outro
+PIBB;4320,52;10;Outro
+PIBB;3959,65;11;Outro
+PIBB;4477,53;12;Outro
+PINE;240,35;1;Serviços Bancários
+PINE;249,95;2;Serviços Bancários
+PINE;296,09;3;Serviços Bancários
+PINE;289,5;4;Serviços Bancários
+PINE;365,05;5;Serviços Bancários
+PINE;431,7;6;Serviços Bancários
+PINE;476,5;7;Serviços Bancários
+PINE;673,78;8;Serviços Bancários
+PINE;567,66;9;Serviços Bancários
+PINE;601,4;10;Serviços Bancários
+PINE;412,15;11;Serviços Bancários
+PINE;370,61;12;Serviços Bancários
+PLAS;2,41;4;Outro
+PLAS;4,83;5;Outro
+PLAS;1,18;6;Outro
+PLAS;1,04;7;Outro
+PLAS;5,16;8;Outro
+PLAS;4,39;9;Outro
+PLAS;2,62;10;Outro
+PLAS;2,43;11;Outro
+PLAS;5,7;12;Outro
+PLASCAR PAR;68,09;1;Outro
+PLASCAR PAR;44,51;2;Outro
+PLASCAR PAR;42,1;3;Outro
+PLASCAR PAR;127,39;4;Outro
+PLASCAR PAR;173,96;5;Outro
+PLASCAR PAR;162,83;6;Outro
+PLASCAR PAR;207,59;7;Outro
+PLASCAR PAR;279,93;8;Outro
+PLASCAR PAR;232,51;9;Outro
+PLASCAR PAR;243,04;10;Outro
+PLASCAR PAR;174,6;11;Outro
+PLASCAR PAR;189,12;12;Outro
+PMAM;1,03;11;Outro
+PMAM;4,3;12;Outro
+PMAME;2,67;11;Outro
+PMAME;4,73;12;Outro
+POMO;1,63;7;Logística
+POMO;2,99;8;Logística
+POMO;8,7;9;Logística
+POMO;4,35;10;Logística
+POMO    /EJ;4,35;9;Logística
+POMOE;0,75;6;Logística
+POMOE;4,5;8;Logística
+PORTO SEGUR;757,21;1;Seguros
+PORTO SEGUR;588,43;2;Seguros
+PORTO SEGUR;679,88;3;Seguros
+PORTO SEGUR;544,27;4;Seguros
+PORTO SEGUR;711,8;5;Seguros
+PORTO SEGUR;672,27;6;Seguros
+PORTO SEGUR;830,95;7;Seguros
+PORTO SEGUR;1115,71;8;Seguros
+PORTO SEGUR;937,39;9;Seguros
+PORTO SEGUR;912,29;10;Seguros
+PORTO SEGUR;978,29;11;Seguros
+PORTO SEGUR;848,89;12;Seguros
+PORTOBELLO;17,43;1;Revestimentos Cerâmicos
+PORTOBELLO;21,87;2;Revestimentos Cerâmicos
+PORTOBELLO;26,92;3;Revestimentos Cerâmicos
+PORTOBELLO;28,96;4;Revestimentos Cerâmicos
+PORTOBELLO;34,91;5;Revestimentos Cerâmicos
+PORTOBELLO;33,83;6;Revestimentos Cerâmicos
+PORTOBELLO;34,21;7;Revestimentos Cerâmicos
+PORTOBELLO;42,71;8;Revestimentos Cerâmicos
+PORTOBELLO;47,84;9;Revestimentos Cerâmicos
+PORTOBELLO;38,69;10;Revestimentos Cerâmicos
+PORTOBELLO;28,82;11;Revestimentos Cerâmicos
+PORTOBELLO;31,16;12;Revestimentos Cerâmicos
+POSI;0,12;2;Outro
+POSI;0,12;3;Outro
+POSITIVO IN;531,7;1;Tecnologia
+POSITIVO IN;512,58;2;Tecnologia
+POSITIVO IN;878,81;3;Tecnologia
+POSITIVO IN;898,47;4;Tecnologia
+POSITIVO IN;846,04;5;Tecnologia
+POSITIVO IN;960,49;6;Tecnologia
+POSITIVO IN;1122,69;7;Tecnologia
+POSITIVO IN;1200,11;8;Tecnologia
+POSITIVO IN;1260,03;9;Tecnologia
+POSITIVO IN;1398,35;10;Tecnologia
+POSITIVO IN;1363;11;Tecnologia
+POSITIVO IN;1787,97;12;Tecnologia
+PRGA;0,39;2;Outro
+PRGA;0,68;3;Outro
+PRGA;2,32;4;Outro
+PRGA;62;5;Outro
+PRGA;2,83;6;Outro
+PRGA;21,96;7;Outro
+PRGA;63,99;8;Outro
+PRGA;138,83;9;Outro
+PRGA;99,27;10;Outro
+PRGA;9,57;11;Outro
+PRGA;16,58;12;Outro
+PRGAE;0,46;5;Outro
+PRGAE;2,59;6;Outro
+PRGAE;4,87;8;Outro
+PRGAE;103,62;9;Outro
+PRGAE;57,79;10;Outro
+PRGAE;1,6;11;Outro
+PRGAE;2,43;12;Outro
+PRO METALUR;2,26;1;Outro
+PRO METALUR;3,23;2;Outro
+PRO METALUR;5,98;3;Outro
+PRO METALUR;6,33;4;Outro
+PRO METALUR;7,72;5;Outro
+PRO METALUR;9,32;6;Outro
+PRO METALUR;11,6;7;Outro
+PRO METALUR;11,18;8;Outro
+PRO METALUR;10,96;9;Outro
+PRO METALUR;13,85;10;Outro
+PRO METALUR;8,48;11;Outro
+PRO METALUR;8,28;12;Outro
+PROFARMA;162,6;1;Outro
+PROFARMA;149,84;2;Outro
+PROFARMA;150,95;3;Outro
+PROFARMA;226,01;4;Outro
+PROFARMA;293,74;5;Outro
+PROFARMA;393,4;6;Outro
+PROFARMA;478,71;7;Outro
+PROFARMA;562,04;8;Outro
+PROFARMA;559,18;9;Outro
+PROFARMA;625,05;10;Outro
+PROFARMA;575,56;11;Outro
+PROFARMA;553,35;12;Outro
+PROMPT PART;1;1;Outro
+PRONOR;19;1;Outro
+PRONOR;13,2;2;Outro
+PRONOR;11,39;3;Outro
+PRONOR;13,2;4;Outro
+PRONOR;24,84;5;Outro
+PRONOR;43,31;6;Outro
+PRONOR;68,03;7;Outro
+PRONOR;73,96;8;Outro
+PRONOR;74,23;9;Outro
+PRONOR;66,86;10;Outro
+PRONOR;93,14;11;Outro
+PRONOR;96,14;12;Outro
+PROVIDENCIA;89,8;1;Outro
+PROVIDENCIA;87,99;2;Outro
+PROVIDENCIA;99,54;3;Outro
+PROVIDENCIA;145,34;4;Outro
+PROVIDENCIA;192,78;5;Outro
+PROVIDENCIA;235,23;6;Outro
+PROVIDENCIA;247,38;7;Outro
+PROVIDENCIA;217,52;8;Outro
+PROVIDENCIA;251,56;9;Outro
+PROVIDENCIA;278,84;10;Outro
+PROVIDENCIA;251,74;11;Outro
+PROVIDENCIA;357,3;12;Outro
+PSSA;1,24;1;Outro
+PSSA;1,21;2;Outro
+PSSAE;0,55;1;Outro
+PSSAE;1,51;2;Outro
+QGN PARTIC;11,74;6;Outro
+QGN PARTIC;0,1;7;Outro
+QGN PARTIC;13,2;9;Outro
+QGN PARTIC;9,49;10;Outro
+QGN PARTIC;4,99;11;Outro
+QGN PARTIC;5;12;Outro
+QUATTOR PET;182,42;1;Outro
+QUATTOR PET;84,3;2;Outro
+QUATTOR PET;156,86;3;Outro
+QUATTOR PET;85,56;4;Outro
+QUATTOR PET;136,89;5;Outro
+QUATTOR PET;112,87;6;Outro
+QUATTOR PET;145,46;7;Outro
+QUATTOR PET;207,26;8;Outro
+QUATTOR PET;130,46;9;Outro
+QUATTOR PET;212,85;10;Outro
+QUATTOR PET;189,13;11;Outro
+QUATTOR PET;180,33;12;Outro
+RANDON PART;500,63;1;Outro
+RANDON PART;357;2;Outro
+RANDON PART;394,62;3;Outro
+RANDON PART;539,5;4;Outro
+RANDON PART;760,01;5;Outro
+RANDON PART;745,56;6;Outro
+RANDON PART;970,91;7;Outro
+RANDON PART;988,62;8;Outro
+RANDON PART;1037,49;9;Outro
+RANDON PART;1109,27;10;Outro
+RANDON PART;968,16;11;Outro
+RANDON PART;1215,2;12;Outro
+RASIP AGRO;19,46;1;Outro
+RASIP AGRO;15,1;2;Outro
+RASIP AGRO;16,95;3;Outro
+RASIP AGRO;13,62;4;Outro
+RASIP AGRO;23,14;5;Outro
+RASIP AGRO;23,19;6;Outro
+RASIP AGRO;19,32;7;Outro
+RASIP AGRO;20,06;8;Outro
+RASIP AGRO;17,79;9;Outro
+RASIP AGRO;24,41;10;Outro
+RASIP AGRO;19,68;11;Outro
+RASIP AGRO;18,87;12;Outro
+RDCD;3,36;1;Outro
+RDCD;3,59;4;Outro
+RDCD;50,56;5;Outro
+RDCD;4,88;6;Outro
+RDCD;29,87;7;Outro
+RDCD;0,5;8;Outro
+RDCD;28,25;9;Outro
+RDCD;2,78;10;Outro
+RDCD;0,37;11;Outro
+RDCD;3,74;12;Outro
+RDCD    /ED;3,48;3;Outro
+RDCD    /ED;1;8;Outro
+RDCD    /EJ;5,41;6;Outro
+RDCD    /EJ;0,77;7;Outro
+RDCD    /EJ;25,97;12;Outro
+RDCDE;3,5;3;Outro
+RDCDE;23,02;4;Outro
+RDCDE;2,5;5;Outro
+RDCDE;27,85;6;Outro
+RDCDE;0,21;8;Outro
+RDCDE;31,22;9;Outro
+RDCDE   /ED;3,22;3;Outro
+RDCDE   /ED;1,38;8;Outro
+RDCDE   /EJ;3,52;6;Outro
+RECRUSUL;248,06;1;Outro
+RECRUSUL;151,26;2;Outro
+RECRUSUL;227,28;3;Outro
+RECRUSUL;308,01;4;Outro
+RECRUSUL;252,19;5;Outro
+RECRUSUL;267,32;6;Outro
+RECRUSUL;189,36;7;Outro
+RECRUSUL;195,75;8;Outro
+RECRUSUL;180,2;9;Outro
+RECRUSUL;193,83;10;Outro
+RECRUSUL;143,8;11;Outro
+RECRUSUL;167,34;12;Outro
+REDE ENERGI;83,02;1;Outro
+REDE ENERGI;103,12;2;Outro
+REDE ENERGI;64,54;3;Outro
+REDE ENERGI;131,72;4;Outro
+REDE ENERGI;152,97;5;Outro
+REDE ENERGI;75,14;6;Outro
+REDE ENERGI;135,37;7;Outro
+REDE ENERGI;137,36;8;Outro
+REDE ENERGI;106;9;Outro
+REDE ENERGI;149,92;10;Outro
+REDE ENERGI;273,67;11;Outro
+REDE ENERGI;314,22;12;Outro
+REDECARD;1444,72;1;Outro
+REDECARD;1492,64;2;Outro
+REDECARD;1673,55;3;Outro
+REDECARD;2258,12;4;Outro
+REDECARD;2422,58;5;Outro
+REDECARD;2194,06;6;Outro
+REDECARD;3427,64;7;Outro
+REDECARD;3114,4;8;Outro
+REDECARD;3300,38;9;Outro
+REDECARD;3152,96;10;Outro
+REDECARD;2720,06;11;Outro
+REDECARD;3032,18;12;Outro
+RENAR;103,73;1;Outro
+RENAR;89,26;2;Outro
+RENAR;103,14;3;Outro
+RENAR;93,48;4;Outro
+RENAR;86,58;5;Outro
+RENAR;79,01;6;Outro
+RENAR;82,5;7;Outro
+RENAR;82,92;8;Outro
+RENAR;41,56;9;Outro
+RENAR;44,4;10;Outro
+RENAR;38,35;11;Outro
+RENAR;35,65;12;Outro
+RENAUXVIEW;5,74;5;Outro
+RENNER PART;424,71;1;Outro
+RENNER PART;437,36;2;Outro
+RENNER PART;392,56;3;Outro
+RENNER PART;91,02;4;Outro
+RENNER PART;397,22;5;Outro
+RENNER PART;340,4;6;Outro
+RENNER PART;600,82;7;Outro
+RENT;3,03;9;Outro
+RENT;16,96;10;Outro
+RIMET;19,47;1;Outro
+RIMET;13,25;2;Outro
+RIMET;38,75;3;Outro
+RIMET;20,75;4;Outro
+RIMET;25,74;5;Outro
+RIMET;17,06;6;Outro
+RIMET;49,6;7;Outro
+RIMET;3,8;8;Outro
+RIMET;43,53;10;Outro
+RIMET;18,72;11;Outro
+RIMET;33,72;12;Outro
+RIMO;2090,8;4;Outro
+RIMO;1920,8;11;Outro
+RIOSULENSE;140;1;Outro
+RIOSULENSE;70;2;Outro
+RIOSULENSE;356,99;3;Outro
+RIOSULENSE;60;4;Outro
+RIOSULENSE;98,99;5;Outro
+RIOSULENSE;98,49;6;Outro
+RIOSULENSE;58;7;Outro
+RIOSULENSE;75;8;Outro
+RIOSULENSE;178,49;9;Outro
+RIOSULENSE;234;10;Outro
+RIOSULENSE;177,99;11;Outro
+RIOSULENSE;176,48;12;Outro
+RODOBENSIMO;222,2;1;Outro
+RODOBENSIMO;258,91;2;Outro
+RODOBENSIMO;306,07;3;Outro
+RODOBENSIMO;402,26;4;Outro
+RODOBENSIMO;512,95;5;Outro
+RODOBENSIMO;625,62;6;Outro
+RODOBENSIMO;674,6;7;Outro
+RODOBENSIMO;651,93;8;Outro
+RODOBENSIMO;631,65;9;Outro
+RODOBENSIMO;723,1;10;Outro
+RODOBENSIMO;673,46;11;Outro
+RODOBENSIMO;544,42;12;Outro
+ROSSI RESID;276,42;1;Outro
+ROSSI RESID;286,47;2;Outro
+ROSSI RESID;266,15;3;Outro
+ROSSI RESID;412,8;4;Outro
+ROSSI RESID;599,52;5;Outro
+ROSSI RESID;677,02;6;Outro
+ROSSI RESID;713,01;7;Outro
+ROSSI RESID;1065,13;8;Outro
+ROSSI RESID;1376,68;9;Outro
+ROSSI RESID;2124,17;10;Outro
+ROSSI RESID;1197,07;11;Outro
+ROSSI RESID;1401,76;12;Outro
+RSID;0,47;4;Outro
+RSID;0,72;5;Outro
+RSID;29,82;7;Outro
+RSID;10;8;Outro
+RSIDE;0,09;4;Outro
+RSIDE;0,12;5;Outro
+SABESP;1255,23;1;Saneamento 
+SABESP;1249,25;2;Saneamento 
+SABESP;1172,79;3;Saneamento 
+SABESP;1253,92;4;Saneamento 
+SABESP;1521,9;5;Saneamento 
+SABESP;1537,14;6;Saneamento 
+SABESP;1828,55;7;Saneamento 
+SABESP;2458,39;8;Saneamento 
+SABESP;3639,59;9;Saneamento 
+SABESP;2754,18;10;Saneamento 
+SABESP;2670,4;11;Saneamento 
+SABESP;2078,53;12;Saneamento 
+SADIA S/A;580,93;1;Alimentos Processados
+SADIA S/A;589,56;2;Alimentos Processados
+SADIA S/A;685,07;3;Alimentos Processados
+SADIA S/A;711,84;4;Alimentos Processados
+SADIA S/A;942,22;5;Alimentos Processados
+SADIA S/A;594,21;6;Alimentos Processados
+SADIA S/A;707,28;7;Alimentos Processados
+SADIA S/A;653,29;8;Alimentos Processados
+SADIA S/A;505,48;9;Alimentos Processados
+SANB;0,95;10;Outro
+SANB;0,7;11;Outro
+SANB;2,54;12;Outro
+SANB    /ED;0,33;12;Outro
+SANEPAR;40,15;1;Outro
+SANEPAR;35,82;2;Outro
+SANEPAR;40,9;3;Outro
+SANEPAR;38,78;4;Outro
+SANEPAR;57,6;5;Outro
+SANEPAR;66,56;6;Outro
+SANEPAR;69,37;7;Outro
+SANEPAR;72,94;8;Outro
+SANEPAR;72,88;9;Outro
+SANEPAR;68,67;10;Outro
+SANEPAR;58,51;11;Outro
+SANEPAR;77,15;12;Outro
+SANSUY;29,89;1;Outro
+SANSUY;24,62;2;Outro
+SANSUY;36,19;3;Outro
+SANSUY;31;4;Outro
+SANSUY;31,95;5;Outro
+SANSUY;28,33;6;Outro
+SANSUY;38,78;7;Outro
+SANSUY;32,5;8;Outro
+SANSUY;40,75;9;Outro
+SANSUY;32,63;10;Outro
+SANSUY;22,33;11;Outro
+SANSUY;25,96;12;Outro
+SANTANDER B;7,91;1;Outro
+SANTANDER B;6,73;2;Outro
+SANTANDER B;9,05;3;Outro
+SANTANDER B;9,68;4;Outro
+SANTANDER B;9,38;5;Outro
+SANTANDER B;11,3;6;Outro
+SANTANDER B;19,15;7;Outro
+SANTANDER B;24,24;8;Outro
+SANTANDER B;29,92;9;Outro
+SANTANDER B;2330,42;10;Outro
+SANTANDER B;1798,02;11;Outro
+SANTANDER B;1739,37;12;Outro
+SANTANENSE;69,83;1;Outro
+SANTANENSE;71,03;2;Outro
+SANTANENSE;80,32;3;Outro
+SANTANENSE;118,97;4;Outro
+SANTANENSE;119,72;5;Outro
+SANTANENSE;133,12;6;Outro
+SANTANENSE;127,31;7;Outro
+SANTANENSE;128,21;8;Outro
+SANTANENSE;114,72;9;Outro
+SANTANENSE;140,09;10;Outro
+SANTANENSE;110,75;11;Outro
+SANTANENSE;111,77;12;Outro
+SANTOS BRP;235,88;1;Outro
+SANTOS BRP;194,21;2;Outro
+SANTOS BRP;202,63;3;Outro
+SANTOS BRP;261,06;4;Outro
+SANTOS BRP;358,78;5;Outro
+SANTOS BRP;339,08;6;Outro
+SANTOS BRP;356,26;7;Outro
+SANTOS BRP;420,72;8;Outro
+SANTOS BRP;565,86;9;Outro
+SANTOS BRP;460,04;10;Outro
+SANTOS BRP;320,11;11;Outro
+SANTOS BRP;477,06;12;Outro
+SAO CARLOS;298,67;1;Outro
+SAO CARLOS;231,21;2;Outro
+SAO CARLOS;331,17;3;Outro
+SAO CARLOS;327,67;4;Outro
+SAO CARLOS;395,63;5;Outro
+SAO CARLOS;289,81;6;Outro
+SAO CARLOS;474,6;7;Outro
+SAO CARLOS;519,48;8;Outro
+SAO CARLOS;516,45;9;Outro
+SAO CARLOS;559,85;10;Outro
+SAO CARLOS;373,96;11;Outro
+SAO CARLOS;462,42;12;Outro
+SAO MARTINH;459,42;1;Agricultura
+SAO MARTINH;427,82;2;Agricultura
+SAO MARTINH;497,24;3;Agricultura
+SAO MARTINH;506,13;4;Agricultura
+SAO MARTINH;659,76;5;Agricultura
+SAO MARTINH;734,02;6;Agricultura
+SAO MARTINH;832,45;7;Agricultura
+SAO MARTINH;912,14;8;Agricultura
+SAO MARTINH;862,22;9;Agricultura
+SAO MARTINH;960,29;10;Agricultura
+SAO MARTINH;774,42;11;Agricultura
+SAO MARTINH;1346,66;12;Agricultura
+SARAIVA LIV;585,52;1;Outro
+SARAIVA LIV;371,3;2;Outro
+SARAIVA LIV;506,04;3;Outro
+SARAIVA LIV;729,15;4;Outro
+SARAIVA LIV;878,37;5;Outro
+SARAIVA LIV;879,08;6;Outro
+SARAIVA LIV;1129,19;7;Outro
+SARAIVA LIV;1458,66;8;Outro
+SARAIVA LIV;1133,94;9;Outro
+SARAIVA LIV;1226,03;10;Outro
+SARAIVA LIV;1340,05;11;Outro
+SARAIVA LIV;1417,99;12;Outro
+SATIPEL;117,93;1;Outro
+SATIPEL;101,01;2;Outro
+SATIPEL;116,38;3;Outro
+SATIPEL;134,53;4;Outro
+SATIPEL;139,91;5;Outro
+SATIPEL;271;6;Outro
+SATIPEL;389,14;7;Outro
+SATIPEL;501,98;8;Outro
+SATIPEL;481,48;9;Outro
+SATIPEL;135,31;10;Outro
+SAVARG;46,34;1;Outro
+SAVARG;65,36;2;Outro
+SAVARG;78,04;3;Outro
+SAVARG;71,9;4;Outro
+SAVARG;95,99;5;Outro
+SAVARG;81,47;6;Outro
+SAVARG;77,15;7;Outro
+SAVARG;76,02;8;Outro
+SAVARG;69,27;9;Outro
+SAVARG;73,79;10;Outro
+SAVARG;46,81;11;Outro
+SAVARG;42,7;12;Outro
+SBSP;16,87;7;Saneamento 
+SBSP;22;8;Saneamento 
+SCHLOSSER;10,34;1;Outro
+SCHLOSSER;14,22;2;Outro
+SCHLOSSER;25,07;3;Outro
+SCHLOSSER;35,69;4;Outro
+SCHLOSSER;27,54;5;Outro
+SCHLOSSER;36,84;6;Outro
+SCHLOSSER;47,59;7;Outro
+SCHLOSSER;44,12;8;Outro
+SCHLOSSER;42,65;9;Outro
+SCHLOSSER;30,33;10;Outro
+SCHLOSSER;24,94;11;Outro
+SCHLOSSER;28,53;12;Outro
+SCHULZ;140,37;1;Outro
+SCHULZ;223,57;2;Outro
+SCHULZ;361,38;3;Outro
+SCHULZ;264,81;4;Outro
+SCHULZ;338,1;5;Outro
+SCHULZ;270,69;6;Outro
+SCHULZ;327,16;7;Outro
+SCHULZ;519,86;8;Outro
+SCHULZ;338,78;9;Outro
+SCHULZ;430,54;10;Outro
+SCHULZ;479,42;11;Outro
+SCHULZ;469,87;12;Outro
+SDIA;0,03;2;Alimentos Processados
+SDIA;1,46;3;Alimentos Processados
+SDIA;13,39;4;Alimentos Processados
+SDIA;0,17;6;Alimentos Processados
+SDIA;5,5;7;Alimentos Processados
+SDIA;6,12;9;Alimentos Processados
+SDIAE;0,46;2;Alimentos Processados
+SDIAE;7,46;3;Alimentos Processados
+SDIAE;0,29;4;Alimentos Processados
+SEB;275,2;1;Outro
+SEB;194,61;2;Outro
+SEB;204,81;3;Outro
+SEB;283,92;4;Outro
+SEB;305,23;5;Outro
+SEB;280,74;6;Outro
+SEB;321,78;7;Outro
+SEB;490,47;8;Outro
+SEB;445,59;9;Outro
+SEB;396,29;10;Outro
+SEB;454,2;11;Outro
+SEB;495,71;12;Outro
+SEG AL BAHI;253,53;1;Outro
+SEG AL BAHI;467,45;2;Outro
+SEG AL BAHI;229,43;3;Outro
+SEG AL BAHI;100,51;4;Outro
+SEG AL BAHI;184,82;5;Outro
+SEG AL BAHI;230,71;6;Outro
+SEG AL BAHI;192,12;7;Outro
+SEG AL BAHI;325,3;8;Outro
+SEG AL BAHI;97,52;9;Outro
+SEG AL BAHI;255;10;Outro
+SEG AL BAHI;365,05;11;Outro
+SEG AL BAHI;34,28;12;Outro
+SEG MIN BRA;15;9;Outro
+SERGEN;5,92;1;Outro
+SERGEN;3,96;2;Outro
+SERGEN;6,25;3;Outro
+SERGEN;5,42;4;Outro
+SERGEN;19,06;5;Outro
+SERGEN;30,96;6;Outro
+SERGEN;41,14;7;Outro
+SERGEN;28,62;8;Outro
+SERGEN;21,88;9;Outro
+SERGEN;38,77;10;Outro
+SERGEN;27,2;11;Outro
+SERGEN;30,11;12;Outro
+SID NACIONA;4388,49;1;Mineração
+SID NACIONA;4039,05;2;Mineração
+SID NACIONA;4532,64;3;Mineração
+SID NACIONA;3635,82;4;Mineração
+SID NACIONA;4620,42;5;Mineração
+SID NACIONA;6506,9;6;Mineração
+SID NACIONA;6312,1;7;Mineração
+SID NACIONA;5986,3;8;Mineração
+SID NACIONA;6273,71;9;Mineração
+SID NACIONA;8493,93;10;Mineração
+SID NACIONA;7265,74;11;Mineração
+SID NACIONA;9039,48;12;Mineração
+SLC AGRICOL;596,13;1;Agricultura
+SLC AGRICOL;456,43;2;Agricultura
+SLC AGRICOL;591,26;3;Agricultura
+SLC AGRICOL;603,37;4;Agricultura
+SLC AGRICOL;637,7;5;Agricultura
+SLC AGRICOL;890,44;6;Agricultura
+SLC AGRICOL;919,39;7;Agricultura
+SLC AGRICOL;1102,16;8;Agricultura
+SLC AGRICOL;960,12;9;Agricultura
+SLC AGRICOL;1266,2;10;Agricultura
+SLC AGRICOL;824,58;11;Agricultura
+SLC AGRICOL;828,96;12;Agricultura
+SMTOE;0,82;8;Outro
+SMTOE;0,32;9;Outro
+SMTOE;17,5;10;Outro
+SOFISA;149,33;1;Outro
+SOFISA;140,77;2;Outro
+SOFISA;166,02;3;Outro
+SOFISA;162,93;4;Outro
+SOFISA;165,32;5;Outro
+SOFISA;175,65;6;Outro
+SOFISA;191,52;7;Outro
+SOFISA;189,93;8;Outro
+SOFISA;237,44;9;Outro
+SOFISA;336,37;10;Outro
+SOFISA;251,26;11;Outro
+SOFISA;230,28;12;Outro
+SONDOTECNIC;306,06;1;Outro
+SONDOTECNIC;152,38;2;Outro
+SONDOTECNIC;152,76;3;Outro
+SONDOTECNIC;328,79;4;Outro
+SONDOTECNIC;392,14;5;Outro
+SONDOTECNIC;494,87;6;Outro
+SONDOTECNIC;153,84;7;Outro
+SONDOTECNIC;212,86;8;Outro
+SONDOTECNIC;190,6;9;Outro
+SONDOTECNIC;521,91;10;Outro
+SONDOTECNIC;408,09;11;Outro
+SONDOTECNIC;475,51;12;Outro
+SOUZA CRUZ;2369,26;1;Tabaco
+SOUZA CRUZ;1840,36;2;Tabaco
+SOUZA CRUZ;2717,42;3;Tabaco
+SOUZA CRUZ;2695,48;4;Tabaco
+SOUZA CRUZ;2156,29;5;Tabaco
+SOUZA CRUZ;2654,33;6;Tabaco
+SOUZA CRUZ;3085,71;7;Tabaco
+SOUZA CRUZ;3332,52;8;Tabaco
+SOUZA CRUZ;3254,44;9;Tabaco
+SOUZA CRUZ;3934,79;10;Tabaco
+SOUZA CRUZ;3643,22;11;Tabaco
+SOUZA CRUZ;5633,15;12;Tabaco
+SPRINGER;2,1;1;Outro
+SPRINGER;2,5;2;Outro
+SPRINGER;8,51;3;Outro
+SPRINGER;41,57;4;Outro
+SPRINGER;11,82;5;Outro
+SPRINGER;19,92;6;Outro
+SPRINGER;9,42;7;Outro
+SPRINGER;44,15;8;Outro
+SPRINGER;29,76;9;Outro
+SPRINGER;22,94;10;Outro
+SPRINGER;17,02;11;Outro
+SPRINGER;12,49;12;Outro
+SPRINGS;83,84;1;Outro
+SPRINGS;64,13;2;Outro
+SPRINGS;77,81;3;Outro
+SPRINGS;80,88;4;Outro
+SPRINGS;110,84;5;Outro
+SPRINGS;108,19;6;Outro
+SPRINGS;137,75;7;Outro
+SPRINGS;213,77;8;Outro
+SPRINGS;215,5;9;Outro
+SPRINGS;342,88;10;Outro
+SPRINGS;251,56;11;Outro
+SPRINGS;258,49;12;Outro
+SPTURIS;43,01;1;Outro
+SPTURIS;61,67;2;Outro
+SPTURIS;18,33;3;Outro
+SPTURIS;20,92;5;Outro
+SPTURIS;9,05;6;Outro
+SPTURIS;34,2;8;Outro
+SPTURIS;19,2;10;Outro
+SPTURIS;24,71;11;Outro
+SPTURIS;70;12;Outro
+STEEL BRASI;26,33;12;Outro
+SUL AMERICA;1536,14;1;Seguros
+SUL AMERICA;889,99;2;Seguros
+SUL AMERICA;1025,2;3;Seguros
+SUL AMERICA;1082,55;4;Seguros
+SUL AMERICA;1428,44;5;Seguros
+SUL AMERICA;1444,46;6;Seguros
+SUL AMERICA;1854,6;7;Seguros
+SUL AMERICA;2771,84;8;Seguros
+SUL AMERICA;5971,26;9;Seguros
+SUL AMERICA;2709,17;10;Seguros
+SUL AMERICA;2785,15;11;Seguros
+SUL AMERICA;3240,9;12;Seguros
+SULAM BRINQ;384;9;Outro
+SULTEPA;118,78;1;Outro
+SULTEPA;104,47;2;Outro
+SULTEPA;101,63;3;Outro
+SULTEPA;159,68;4;Outro
+SULTEPA;191,96;5;Outro
+SULTEPA;213,56;6;Outro
+SULTEPA;192,11;7;Outro
+SULTEPA;245,95;8;Outro
+SULTEPA;226,95;9;Outro
+SULTEPA;163,96;10;Outro
+SULTEPA;155,41;11;Outro
+SULTEPA;177,37;12;Outro
+SUZANO PAPE;623,41;1;Celulose
+SUZANO PAPE;518,73;2;Celulose
+SUZANO PAPE;514,14;3;Celulose
+SUZANO PAPE;597,33;4;Celulose
+SUZANO PAPE;843,23;5;Celulose
+SUZANO PAPE;944,86;6;Celulose
+SUZANO PAPE;1097,05;7;Celulose
+SUZANO PAPE;1368,91;8;Celulose
+SUZANO PAPE;1481,78;9;Celulose
+SUZANO PAPE;1477,07;10;Celulose
+SUZANO PAPE;1289,64;11;Celulose
+SUZANO PAPE;1432,99;12;Celulose
+SUZB;2,84;9;Celulose
+SUZB;37,23;10;Celulose
+SUZB;0,3;11;Celulose
+SUZB;18;12;Celulose
+SUZBE;1,14;9;Celulose
+SUZBE;17,9;11;Celulose
+TAM S/A;1080,82;1;Aviação
+TAM S/A;940,14;2;Aviação
+TAM S/A;1076,22;3;Aviação
+TAM S/A;1027,23;4;Aviação
+TAM S/A;1467,16;5;Aviação
+TAM S/A;1329,82;6;Aviação
+TAM S/A;2000,44;7;Aviação
+TAM S/A;2325,19;8;Aviação
+TAM S/A;2637,5;9;Aviação
+TAM S/A;2747,9;10;Aviação
+TAM S/A;2028,71;11;Aviação
+TAM S/A;3241,06;12;Aviação
+TAMM;0,8;3;Aviação
+TAMM;20,6;4;Aviação
+TAMM;9,66;7;Aviação
+TAMM;1,01;8;Aviação
+TAMM;3,88;9;Aviação
+TAMM;53,95;10;Aviação
+TAMM;47,06;11;Aviação
+TAMM;26;12;Aviação
+TAMME;1,9;8;Outro
+TAMME;23;9;Outro
+TAMME;0,73;10;Outro
+TAMME;25;11;Outro
+TARPON;106,39;1;Outro
+TARPON;156,66;2;Outro
+TARPON;64,76;3;Outro
+TARPON;104,46;4;Outro
+TARPON INV;23,7;5;Outro
+TARPON INV;115,31;6;Outro
+TARPON INV;82,84;7;Outro
+TARPON INV;115,71;8;Outro
+TARPON INV;136,29;9;Outro
+TARPON INV;159,56;10;Outro
+TARPON INV;170,3;11;Outro
+TARPON INV;195,25;12;Outro
+TBLE;3,48;3;Outro
+TBLE;19,08;4;Outro
+TBLE;36,61;5;Outro
+TBLE;1,58;6;Outro
+TBLE;37,78;7;Outro
+TBLE;1,02;8;Outro
+TBLE;39,44;9;Outro
+TBLE;0,5;12;Outro
+TBLE    /ED;18,64;8;Outro
+TBLE    /EJ;0,55;11;Outro
+TBLEE;1,14;4;Outro
+TBLEE;19,18;5;Outro
+TBLEE;1;6;Outro
+TBLEE;0,66;7;Outro
+TBLEE;0,78;8;Outro
+TBLEE;19;9;Outro
+TBLEE;21;10;Outro
+TBLEE   /ED;1,94;8;Outro
+TEC BLUMENA;6,01;1;Outro
+TEC BLUMENA;3;3;Outro
+TEC BLUMENA;8,76;4;Outro
+TEC BLUMENA;28,54;5;Outro
+TEC BLUMENA;4,1;6;Outro
+TEC BLUMENA;51,46;8;Outro
+TEC BLUMENA;36,25;9;Outro
+TEC BLUMENA;19,59;10;Outro
+TEC BLUMENA;22,11;11;Outro
+TEC BLUMENA;69,19;12;Outro
+TECEL S JOS;2,78;1;Outro
+TECEL S JOS;0,6;2;Outro
+TECEL S JOS;0,6;3;Outro
+TECEL S JOS;3,6;4;Outro
+TECEL S JOS;6,98;5;Outro
+TECEL S JOS;5,66;6;Outro
+TECEL S JOS;19,16;7;Outro
+TECEL S JOS;19,77;8;Outro
+TECEL S JOS;11,64;9;Outro
+TECEL S JOS;18,47;10;Outro
+TECEL S JOS;4,75;11;Outro
+TECEL S JOS;9,94;12;Outro
+TECNISA;169,8;1;Outro
+TECNISA;114,56;2;Outro
+TECNISA;149,62;3;Outro
+TECNISA;175,49;4;Outro
+TECNISA;231,56;5;Outro
+TECNISA;209,43;6;Outro
+TECNISA;310,55;7;Outro
+TECNISA;338,43;8;Outro
+TECNISA;438,46;9;Outro
+TECNISA;541,33;10;Outro
+TECNISA;450,75;11;Outro
+TECNISA;460,84;12;Outro
+TECNOSOLO;20,13;1;Outro
+TECNOSOLO;9,94;2;Outro
+TECNOSOLO;18,97;3;Outro
+TECNOSOLO;45,99;4;Outro
+TECNOSOLO;46,05;5;Outro
+TECNOSOLO;44,08;6;Outro
+TECNOSOLO;47,23;7;Outro
+TECNOSOLO;54,78;8;Outro
+TECNOSOLO;48,68;9;Outro
+TECNOSOLO;71,2;10;Outro
+TECNOSOLO;49,62;11;Outro
+TECNOSOLO;52,74;12;Outro
+TECTOY;5,55;1;Outro
+TECTOY;4,25;2;Outro
+TECTOY;6,56;3;Outro
+TECTOY;5,94;4;Outro
+TECTOY;6,97;5;Outro
+TECTOY;7,94;6;Outro
+TECTOY;7;7;Outro
+TECTOY;6,43;8;Outro
+TECTOY;5,78;9;Outro
+TECTOY;8,05;10;Outro
+TECTOY;6,33;11;Outro
+TECTOY;6,9;12;Outro
+TEGMA;195,66;1;Outro
+TEGMA;164,14;2;Outro
+TEGMA;235,32;3;Outro
+TEGMA;223,79;4;Outro
+TEGMA;327,87;5;Outro
+TEGMA;345,47;6;Outro
+TEGMA;507,17;7;Outro
+TEGMA;552,27;8;Outro
+TEGMA;605,12;9;Outro
+TEGMA;609,66;10;Outro
+TEGMA;808,33;11;Outro
+TEGMA;641,28;12;Outro
+TEKA;3,7;1;Outro
+TEKA;5,83;2;Outro
+TEKA;19,61;3;Outro
+TEKA;17,18;4;Outro
+TEKA;28,86;5;Outro
+TEKA;14,19;6;Outro
+TEKA;18,34;7;Outro
+TEKA;20,52;8;Outro
+TEKA;15,32;9;Outro
+TEKA;28,81;10;Outro
+TEKA;10,32;11;Outro
+TEKA;15,34;12;Outro
+TEKNO;382;1;Outro
+TEKNO;183,12;2;Outro
+TEKNO;679,07;3;Outro
+TEKNO;695,38;4;Outro
+TEKNO;904,12;5;Outro
+TEKNO;1096,02;6;Outro
+TEKNO;580,99;7;Outro
+TEKNO;666,98;8;Outro
+TEKNO;1280,26;9;Outro
+TEKNO;883,1;10;Outro
+TEKNO;763,1;11;Outro
+TEKNO;1133,58;12;Outro
+TELE NORT C;1010,61;1;Telefonia
+TELE NORT C;479,72;2;Telefonia
+TELE NORT C;716,53;3;Telefonia
+TELE NORT C;734,19;4;Telefonia
+TELE NORT C;1027,06;5;Telefonia
+TELE NORT C;672,36;6;Telefonia
+TELE NORT C;681,4;7;Telefonia
+TELE NORT C;834,19;8;Telefonia
+TELE NORT C;922,69;9;Telefonia
+TELE NORT C;888,1;10;Telefonia
+TELE NORT C;1288,57;11;Telefonia
+TELE NORT C;1174,17;12;Telefonia
+TELEBRAS;39,03;1;Telefonia 
+TELEBRAS;40,35;2;Telefonia 
+TELEBRAS;39,91;3;Telefonia 
+TELEBRAS;48,56;4;Telefonia 
+TELEBRAS;46,6;5;Telefonia 
+TELEBRAS;52,61;6;Telefonia 
+TELEBRAS;56,06;7;Telefonia 
+TELEBRAS;59,04;8;Telefonia 
+TELEBRAS;67,93;9;Telefonia 
+TELEBRAS;126,99;10;Telefonia 
+TELEBRAS;117,84;11;Telefonia 
+TELEBRAS;90,31;12;Telefonia 
+TELEFONICA;524,45;1;Telefonia 
+TELEFONICA;235,64;2;Telefonia 
+TELEFONICA;534,47;3;Telefonia 
+TELEFONICA;242,18;4;Telefonia 
+TELEFONICA;719,18;5;Telefonia 
+TELEFONICA;1203,79;6;Telefonia 
+TELEFONICA;697,04;7;Telefonia 
+TELEFONICA;916,06;8;Telefonia 
+TELEFONICA;842,74;9;Telefonia 
+TELEFONICA;1341,21;10;Telefonia 
+TELEFONICA;966,26;11;Telefonia 
+TELEFONICA;1021,05;12;Telefonia 
+TELEMAR;5391,74;1;Telefonia 
+TELEMAR;3732,34;2;Telefonia 
+TELEMAR;4195,01;3;Telefonia 
+TELEMAR;4796,32;4;Telefonia 
+TELEMAR;4685,19;5;Telefonia 
+TELEMAR;7183,44;6;Telefonia 
+TELEMAR;6234,71;7;Telefonia 
+TELEMAR;5851,09;8;Telefonia 
+TELEMAR;5898,42;9;Telefonia 
+TELEMAR;6381,33;10;Telefonia 
+TELEMAR;4625,37;11;Telefonia 
+TELEMAR;4719,6;12;Telefonia 
+TELEMAR N L;4968,56;1;Telefonia 
+TELEMAR N L;3056,68;2;Telefonia 
+TELEMAR N L;4883,48;3;Telefonia 
+TELEMAR N L;4972,79;4;Telefonia 
+TELEMAR N L;5198,14;5;Telefonia 
+TELEMAR N L;5393,01;6;Telefonia 
+TELEMAR N L;4226,81;7;Telefonia 
+TELEMAR N L;5353,56;8;Telefonia 
+TELEMAR N L;5202,95;9;Telefonia 
+TELEMAR N L;5453,02;10;Telefonia 
+TELEMAR N L;5332,71;11;Telefonia 
+TELEMAR N L;5429;12;Telefonia 
+TELEMIG CL;740,01;1;Telefonia 
+TELEMIG CL;1965;2;Telefonia 
+TELEMIG CL;2900;3;Telefonia 
+TELEMIG CL;2850;4;Telefonia 
+TELEMIG CL;1500,01;5;Telefonia 
+TELEMIG CL;1525,03;6;Telefonia 
+TELEMIG CL;5875,41;7;Telefonia 
+TELEMIG CL;1766,15;8;Telefonia 
+TELEMIG PAR;2636,76;1;Telefonia
+TELEMIG PAR;2677,43;2;Telefonia
+TELEMIG PAR;3485,71;3;Telefonia
+TELEMIG PAR;3130,76;4;Telefonia
+TELEMIG PAR;3535,14;5;Telefonia
+TELEMIG PAR;3614,48;6;Telefonia
+TELEMIG PAR;3896,44;7;Telefonia
+TELEMIG PAR;4018,44;8;Telefonia
+TELEMIG PAR;785,84;9;Telefonia
+TELESP;4356,24;1;Telefonia 
+TELESP;2945,57;2;Telefonia 
+TELESP;3797,64;3;Telefonia 
+TELESP;3569,19;4;Telefonia 
+TELESP;3956,81;5;Telefonia 
+TELESP;4376,06;6;Telefonia 
+TELESP;4830,45;7;Telefonia 
+TELESP;4581,57;8;Telefonia 
+TELESP;4732,53;9;Telefonia 
+TELESP;4644,73;10;Telefonia 
+TELESP;3890,95;11;Telefonia 
+TELESP;4324,84;12;Telefonia 
+TEMPO PART;47,07;1;Outro
+TEMPO PART;65,06;2;Outro
+TEMPO PART;34,02;3;Outro
+TEMPO PART;80,65;4;Outro
+TEMPO PART;83,51;5;Outro
+TEMPO PART;86,84;6;Outro
+TEMPO PART;79,38;7;Outro
+TEMPO PART;80,5;8;Outro
+TEMPO PART;108,94;9;Outro
+TEMPO PART;234,31;10;Outro
+TEMPO PART;210,46;11;Outro
+TEMPO PART;217,49;12;Outro
+TENDA;69,52;1;Construção Civil
+TENDA;67,6;2;Construção Civil
+TENDA;100,22;3;Construção Civil
+TENDA;197,96;4;Construção Civil
+TENDA;281,27;5;Construção Civil
+TENDA;230,16;6;Construção Civil
+TENDA;360,87;7;Construção Civil
+TENDA;499,82;8;Construção Civil
+TENDA;556,72;9;Construção Civil
+TENDA;581,2;10;Construção Civil
+TENDA;319,68;11;Construção Civil
+TENDA;396,75;12;Construção Civil
+TERNA PART;733,01;1;Outro
+TERNA PART;542,27;2;Outro
+TERNA PART;900,73;3;Outro
+TERNA PART;1322,01;4;Outro
+TERNA PART;1328,13;5;Outro
+TERNA PART;1534,7;6;Outro
+TERNA PART;1639,43;7;Outro
+TERNA PART;1342,51;8;Outro
+TERNA PART;1341,89;9;Outro
+TERNA PART;1519,25;10;Outro
+TERNA PART;1024,88;11;Outro
+TERNA PART;1148,35;12;Outro
+TEX RENAUX;4,25;1;Outro
+TEX RENAUX;8,74;2;Outro
+TEX RENAUX;8,28;3;Outro
+TEX RENAUX;6,51;4;Outro
+TEX RENAUX;3,89;5;Outro
+TEX RENAUX;6,46;6;Outro
+TEX RENAUX;14,18;7;Outro
+TEX RENAUX;18,32;8;Outro
+TEX RENAUX;17,89;9;Outro
+TEX RENAUX;26,57;10;Outro
+TEX RENAUX;10,7;11;Outro
+TEX RENAUX;9,04;12;Outro
+TIG LTD;21,85;4;Outro
+TIG LTD;311,88;5;Outro
+TIG LTD;242,9;6;Outro
+TIG LTD;324,61;7;Outro
+TIG LTD;418,34;8;Outro
+TIG LTD;368,26;9;Outro
+TIG LTD;453,46;10;Outro
+TIG LTD;244,4;11;Outro
+TIG LTD;321,15;12;Outro
+TIM PART S/;499,02;1;Telefonia
+TIM PART S/;424,17;2;Telefonia
+TIM PART S/;529,26;3;Telefonia
+TIM PART S/;560,11;4;Telefonia
+TIM PART S/;535,75;5;Telefonia
+TIM PART S/;631,07;6;Telefonia
+TIM PART S/;657;7;Telefonia
+TIM PART S/;573,21;8;Telefonia
+TIM PART S/;539,81;9;Telefonia
+TIM PART S/;697,92;10;Telefonia
+TIM PART S/;559,97;11;Telefonia
+TIM PART S/;611,04;12;Telefonia
+TIVIT;129,05;9;Outro
+TIVIT;677,54;10;Outro
+TIVIT;592,11;11;Outro
+TIVIT;576,45;12;Outro
+TNLP;152,7;1;Telefonia 
+TNLP;129,02;2;Telefonia 
+TNLP;451,23;3;Telefonia 
+TNLP;494,22;4;Telefonia 
+TNLP;382,83;5;Telefonia 
+TNLP;578,9;6;Telefonia 
+TNLP;300,33;7;Telefonia 
+TNLP;618,11;8;Telefonia 
+TNLP;825,82;9;Telefonia 
+TNLP;660,17;10;Telefonia 
+TNLP;960,97;11;Telefonia 
+TNLP;1218,63;12;Telefonia 
+TNLP    /ED;261,74;2;Telefonia 
+TNLP    /ED;87,94;7;Telefonia 
+TNLPE;0,81;1;Telefonia 
+TNLPE;1,11;6;Telefonia 
+TNLPE;1,31;8;Telefonia 
+TNLPE;0,69;11;Telefonia 
+TNLPE;0,71;12;Telefonia 
+TNLPE   /ED;0,02;2;Telefonia 
+TNLPE   /ED;1;7;Telefonia 
+TOTVS;1609,08;1;Tecnologia
+TOTVS;1566,01;2;Tecnologia
+TOTVS;2095,67;3;Tecnologia
+TOTVS;2163,05;4;Tecnologia
+TOTVS;2691,52;5;Tecnologia
+TOTVS;2922,67;6;Tecnologia
+TOTVS;3089,44;7;Tecnologia
+TOTVS;3390,44;8;Tecnologia
+TOTVS;4003,06;9;Tecnologia
+TOTVS;4022,11;10;Tecnologia
+TOTVS;3858,26;11;Tecnologia
+TOTVS;4792;12;Tecnologia
+TRACTEBEL;927,99;1;Outro
+TRACTEBEL;925,95;2;Outro
+TRACTEBEL;1106,19;3;Outro
+TRACTEBEL;1085,53;4;Outro
+TRACTEBEL;923,11;5;Outro
+TRACTEBEL;1119,28;6;Outro
+TRACTEBEL;1025,34;7;Outro
+TRACTEBEL;1143,36;8;Outro
+TRACTEBEL;1136,86;9;Outro
+TRACTEBEL;1281,27;10;Outro
+TRACTEBEL;1070,72;11;Outro
+TRACTEBEL;1177,19;12;Outro
+TRAFO;34,25;1;Outro
+TRAFO;31,93;2;Outro
+TRAFO;53,32;3;Outro
+TRAFO;36,43;4;Outro
+TRAFO;75,15;5;Outro
+TRAFO;29,04;6;Outro
+TRAFO;37,92;7;Outro
+TRAFO;40,12;8;Outro
+TRAFO;49,54;9;Outro
+TRAFO;108,34;10;Outro
+TRAFO;65,49;11;Outro
+TRAFO;95,98;12;Outro
+TRAN PAULIS;2800,11;1;Outro
+TRAN PAULIS;1874,33;2;Outro
+TRAN PAULIS;2761,68;3;Outro
+TRAN PAULIS;2585,12;4;Outro
+TRAN PAULIS;2563,83;5;Outro
+TRAN PAULIS;2651,49;6;Outro
+TRAN PAULIS;3116,2;7;Outro
+TRAN PAULIS;3909,82;8;Outro
+TRAN PAULIS;2886,15;9;Outro
+TRAN PAULIS;3120,47;10;Outro
+TRAN PAULIS;2275,15;11;Outro
+TRAN PAULIS;2883,8;12;Outro
+TREVISA;53,91;1;Outro
+TREVISA;98,98;2;Outro
+TREVISA;112,32;3;Outro
+TREVISA;26;4;Outro
+TREVISA;48,41;5;Outro
+TREVISA;20;6;Outro
+TREVISA;61,03;7;Outro
+TREVISA;219,7;8;Outro
+TREVISA;279,8;9;Outro
+TREVISA;140,2;10;Outro
+TREVISA;68,75;11;Outro
+TREVISA;226,14;12;Outro
+TRISUL;48,73;1;Outro
+TRISUL;42,29;2;Outro
+TRISUL;45,61;3;Outro
+TRISUL;74,7;4;Outro
+TRISUL;87,02;5;Outro
+TRISUL;103,71;6;Outro
+TRISUL;139,81;7;Outro
+TRISUL;143,14;8;Outro
+TRISUL;163,37;9;Outro
+TRISUL;192,67;10;Outro
+TRISUL;174,31;11;Outro
+TRISUL;230,21;12;Outro
+TRIUNFO PAR;48,45;1;Logística
+TRIUNFO PAR;34,69;2;Logística
+TRIUNFO PAR;38,76;3;Logística
+TRIUNFO PAR;54,4;4;Logística
+TRIUNFO PAR;68,26;5;Logística
+TRIUNFO PAR;111,35;6;Logística
+TRIUNFO PAR;131,4;7;Logística
+TRIUNFO PAR;165,74;8;Logística
+TRIUNFO PAR;194,38;9;Logística
+TRIUNFO PAR;239,76;10;Logística
+TRIUNFO PAR;184,86;11;Logística
+TRIUNFO PAR;214,99;12;Logística
+TRORION;17,26;1;Outro
+TRORION;12,72;2;Outro
+TRORION;2,94;3;Outro
+TRORION;25,5;4;Outro
+TRORION;13,59;5;Outro
+TRORION;20,03;6;Outro
+TRORION;5,05;7;Outro
+TRORION;29,86;8;Outro
+TRORION;26,56;9;Outro
+TRORION;17,53;10;Outro
+TRORION;16,6;11;Outro
+TRORION;13,72;12;Outro
+TRPL;1,41;1;Energia Elétrica
+TRPL;43,65;2;Energia Elétrica
+TRPL;42;3;Energia Elétrica
+TRPL;0,14;7;Energia Elétrica
+TRPL;2;8;Energia Elétrica
+TRPL;49,95;9;Energia Elétrica
+TRPL;2,06;11;Energia Elétrica
+TRPL    /ED;48,96;10;Outro
+TRPL    /EJ;0,65;12;Energia Elétrica
+TUPY;230,96;1;Siderugia 
+TUPY;217,15;2;Siderugia 
+TUPY;373,02;3;Siderugia 
+TUPY;358,76;4;Siderugia 
+TUPY;430,8;5;Siderugia 
+TUPY;402,37;6;Siderugia 
+TUPY;301,84;7;Siderugia 
+TUPY;378,15;8;Siderugia 
+TUPY;426,15;9;Siderugia 
+TUPY;426,98;10;Siderugia 
+TUPY;350,74;11;Siderugia 
+TUPY;621,5;12;Siderugia 
+UBBR;0,04;1;Outro
+UBBR;0,15;3;Outro
+UBBR    /ED;0,77;1;Outro
+UBBR    /ED;0,42;2;Outro
+UBBR    /EJ;0,16;3;Outro
+UBBRE;17,3;2;Outro
+UBBRE;0,85;3;Outro
+UBBRE   /ED;1,37;1;Outro
+UBBRE   /EJ;38,21;3;Outro
+UGPA;6,54;6;Outro
+UGPA;1,61;8;Outro
+UGPA;67,11;9;Outro
+UGPA;69,11;12;Outro
+UGPAE;1,96;3;Outro
+UGPAE;3,91;4;Outro
+UGPAE;1,99;8;Outro
+UGPAE;76,77;9;Outro
+UGPAE;7,19;10;Outro
+UGPAE   /ED;1,58;3;Outro
+ULTRAPAR;2562,61;1;Outro
+ULTRAPAR;2436,04;2;Outro
+ULTRAPAR;3164,3;3;Outro
+ULTRAPAR;2552,96;4;Outro
+ULTRAPAR;2968,32;5;Outro
+ULTRAPAR;3073,11;6;Outro
+ULTRAPAR;3226,16;7;Outro
+ULTRAPAR;3276,2;8;Outro
+ULTRAPAR;3379,04;9;Outro
+ULTRAPAR;3989,88;10;Outro
+ULTRAPAR;3537,43;11;Outro
+ULTRAPAR;3823,32;12;Outro
+UNIBANCO;2228,34;1;Serviços Bancários 
+UNIBANCO;1641,39;2;Serviços Bancários 
+UNIBANCO;1850,32;3;Serviços Bancários 
+UNIPAR;81,88;1;Outro
+UNIPAR;57,18;2;Outro
+UNIPAR;65,09;3;Outro
+UNIPAR;73,21;4;Outro
+UNIPAR;77,41;5;Outro
+UNIPAR;88,89;6;Outro
+UNIPAR;111,13;7;Outro
+UNIPAR;176,91;8;Outro
+UNIPAR;177,82;9;Outro
+UNIPAR;217,91;10;Outro
+UNIPAR;149,63;11;Outro
+UNIPAR;178,31;12;Outro
+UOL;298,89;1;Outro
+UOL;281,8;2;Outro
+UOL;361,47;3;Outro
+UOL;331,89;4;Outro
+UOL;380,69;5;Outro
+UOL;378,7;6;Outro
+UOL;436,94;7;Outro
+UOL;420,21;8;Outro
+UOL;394,67;9;Outro
+UOL;565,41;10;Outro
+UOL;463,54;11;Outro
+UOL;477,81;12;Outro
+UOLL;0,05;7;Outro
+USIM;118,61;1;Mineração
+USIM;53,53;2;Mineração
+USIM;35,72;3;Mineração
+USIM;222,34;4;Mineração
+USIM;175;5;Mineração
+USIM;288,76;6;Mineração
+USIM;215,06;7;Mineração
+USIM;327,7;8;Mineração
+USIM;308,81;9;Mineração
+USIM;483,98;10;Mineração
+USIM;357,29;11;Mineração
+USIM;255,19;12;Mineração
+USIM    /ED;14,06;3;Mineração
+USIM    /EJ;5,94;1;Mineração
+USIM    /EJ;78,83;8;Mineração
+USIM    /EJ;0,18;12;Mineração
+USIME;109,28;1;Mineração
+USIME;76,46;2;Mineração
+USIME;45,25;3;Mineração
+USIME;332,96;4;Mineração
+USIME;300,12;5;Mineração
+USIME;291,96;6;Mineração
+USIME;222,76;7;Mineração
+USIME;388,98;8;Mineração
+USIME;274,86;9;Mineração
+USIME;585,97;10;Mineração
+USIME;222,77;11;Mineração
+USIME;105,52;12;Mineração
+USIME   /ED;87,69;3;Mineração
+USIME   /EJ;65,32;8;Mineração
+USIMINAS;5409,59;1;Mineração
+USIMINAS;4566,39;2;Mineração
+USIMINAS;6104,59;3;Mineração
+USIMINAS;6151,59;4;Mineração
+USIMINAS;6396,87;5;Mineração
+USIMINAS;7583,25;6;Mineração
+USIMINAS;8877,74;7;Mineração
+USIMINAS;11174,01;8;Mineração
+USIMINAS;13839,68;9;Mineração
+USIMINAS;15344,35;10;Mineração
+USIMINAS;11143,34;11;Mineração
+USIMINAS;10441,81;12;Mineração
+USIN C PINT;103,75;1;Mineração
+USIN C PINT;64,62;2;Mineração
+USIN C PINT;133,91;3;Mineração
+USIN C PINT;71,1;4;Mineração
+USIN C PINT;205,92;5;Mineração
+USIN C PINT;121,05;6;Mineração
+USIN C PINT;97,86;7;Mineração
+USIN C PINT;127,3;8;Mineração
+USIN C PINT;157,42;9;Mineração
+USIN C PINT;156,57;10;Mineração
+USIN C PINT;142,76;11;Mineração
+USIN C PINT;149,8;12;Mineração
+V C P;1072,21;1;Outro
+V C P;811,38;2;Outro
+V C P;972,7;3;Outro
+V C P;1191,67;4;Outro
+V C P;1736,39;5;Outro
+V C P;1735,54;6;Outro
+V C P;1946,93;7;Outro
+V C P;2213,85;8;Outro
+V C P;2450,26;9;Outro
+V C P;2751,97;10;Outro
+V C P;1343,49;11;Outro
+VALE;1836,07;1;Mineração
+VALE;2421,32;2;Mineração
+VALE;1811,99;3;Mineração
+VALE;1158,72;4;Mineração
+VALE;4929,88;5;Mineração
+VALE;15170,31;6;Mineração
+VALE;14111,99;7;Mineração
+VALE;14198,49;8;Mineração
+VALE;14906,83;9;Mineração
+VALE;17737,6;10;Mineração
+VALE;17334,75;11;Mineração
+VALE;18311,23;12;Mineração
+VALE    /ED;1021,96;4;Mineração
+VALE    /EJ;2445,19;10;Mineração
+VALE R DOCE;8524;1;Mineração
+VALE R DOCE;9114,86;2;Mineração
+VALE R DOCE;10344,02;3;Mineração
+VALE R DOCE;9198,2;4;Mineração
+VALE R DOCE;8464,88;5;Mineração
+VALEE;429,63;1;Mineração
+VALEE;563,9;2;Mineração
+VALEE;516,98;3;Mineração
+VALEE;169,47;4;Mineração
+VALEE;264,87;5;Mineração
+VALEE;461,91;6;Mineração
+VALEE;399,38;7;Mineração
+VALEE;421,81;8;Mineração
+VALEE;134,75;9;Mineração
+VALEE;149,35;10;Mineração
+VALEE;411,41;11;Mineração
+VALEE;168,24;12;Mineração
+VALEE   /ED;385,03;4;Mineração
+VALEE   /EJ;236,45;10;Mineração
+VARIG SERV;85,17;1;Outro
+VARIG SERV;60,06;2;Outro
+VARIG SERV;57,6;3;Outro
+VARIG SERV;51,8;4;Outro
+VARIG SERV;129,86;5;Outro
+VARIG SERV;120,41;6;Outro
+VARIG SERV;55,28;7;Outro
+VARIG SERV;186,4;8;Outro
+VARIG SERV;132,21;9;Outro
+VARIG SERV;198,41;10;Outro
+VARIG SERV;151,53;11;Outro
+VARIG SERV;149,28;12;Outro
+VARIG TRANS;100,74;1;Outro
+VARIG TRANS;48,05;2;Outro
+VARIG TRANS;92,69;3;Outro
+VARIG TRANS;42,54;4;Outro
+VARIG TRANS;99,86;5;Outro
+VARIG TRANS;117,02;6;Outro
+VARIG TRANS;34;7;Outro
+VARIG TRANS;160,14;8;Outro
+VARIG TRANS;180,74;9;Outro
+VARIG TRANS;239,67;10;Outro
+VARIG TRANS;158,3;11;Outro
+VARIG TRANS;142,61;12;Outro
+VCPA;0,4;1;Outro
+VCPA;0,54;3;Outro
+VCPA;13,16;4;Outro
+VCPA;1,11;8;Outro
+VCPA;29,22;9;Outro
+VCPA;1,08;10;Outro
+VCPAE;1,22;1;Outro
+VCPAE;2,7;2;Outro
+VCPAE;3,52;3;Outro
+VCPAE;25,93;4;Outro
+VCPAE;0,75;7;Outro
+VCPAE;27,68;8;Outro
+VCPAE;1,32;9;Outro
+VCPAE;0,98;10;Outro
+VCPAE   /ES;27,36;3;Outro
+VICUNHA TEX;362,42;1;Outro
+VICUNHA TEX;315,03;2;Outro
+VICUNHA TEX;172,59;3;Outro
+VICUNHA TEX;30,01;4;Outro
+VICUNHA TEX;99,55;5;Outro
+VICUNHA TEX;149,79;6;Outro
+VICUNHA TEX;28,56;7;Outro
+VICUNHA TEX;29,54;8;Outro
+VICUNHA TEX;43,77;9;Outro
+VICUNHA TEX;10;10;Outro
+VICUNHA TEX;96,48;11;Outro
+VICUNHA TEX;63,2;12;Outro
+VIGOR;188,14;1;Outro
+VIGOR;69,03;2;Outro
+VISANET;290,78;6;Outro
+VISANET;1757,98;7;Outro
+VISANET;1647,49;8;Outro
+VISANET;1617,12;9;Outro
+VISANET;1723,82;10;Outro
+VISANET;1465,88;11;Outro
+VISANET;1853;12;Outro
+VIVO;2874,48;1;Telefonia
+VIVO;2605,94;2;Telefonia
+VIVO;3447,76;3;Telefonia
+VIVO;3085,56;4;Telefonia
+VIVO;3479,81;5;Telefonia
+VIVO;3708,92;6;Telefonia
+VIVO;4024,29;7;Telefonia
+VIVO;3944,17;8;Telefonia
+VIVO;4087,62;9;Telefonia
+VIVO;4577,92;10;Telefonia
+VIVO;4205,4;11;Telefonia
+VIVO;5058,51;12;Telefonia
+VIVOE;7,2;6;Outro
+VIVOE;5,55;7;Outro
+VIVOE;72,5;8;Outro
+VIVOE;2,08;11;Outro
+VIVOE;49;12;Outro
+VNET;1,11;7;Outro
+VNET;1,41;8;Outro
+VNET;70,73;9;Outro
+VNET;0,76;11;Outro
+VNET;2,7;12;Outro
+VNET    /ED;3,48;8;Outro
+VNETE;2,52;7;Outro
+VNETE;0,95;9;Outro
+VNETE;2,07;11;Outro
+VULCABRAS;110,1;1;Roupas
+VULCABRAS;78,93;3;Roupas
+VULCABRAS;78,97;4;Roupas
+VULCABRAS;238,74;5;Roupas
+VULCABRAS;112,27;6;Roupas
+VULCABRAS;38,79;7;Roupas
+VULCABRAS;373,33;8;Roupas
+VULCABRAS;118,94;9;Roupas
+VULCABRAS;85,52;10;Roupas
+VULCABRAS;207,33;11;Roupas
+VULCABRAS;356,26;12;Roupas
+WEG;586,84;1;Industrial 
+WEG;505,08;2;Industrial 
+WEG;599,44;3;Industrial 
+WEG;743,03;4;Industrial 
+WEG;743,29;5;Industrial 
+WEG;914,59;6;Industrial 
+WEG;991,18;7;Industrial 
+WEG;872,07;8;Industrial 
+WEG;1168,45;9;Industrial 
+WEG;978,17;10;Industrial 
+WEG;977,77;11;Industrial 
+WEG;916,18;12;Industrial 
+WEGE;0,2;4;Outro
+WEGE;13;5;Outro
+WETZEL S/A;243,07;1;Outro
+WETZEL S/A;45,92;2;Outro
+WETZEL S/A;244,88;3;Outro
+WETZEL S/A;214,77;4;Outro
+WETZEL S/A;289;5;Outro
+WETZEL S/A;421,15;6;Outro
+WETZEL S/A;334,34;7;Outro
+WETZEL S/A;255,75;8;Outro
+WETZEL S/A;290,94;9;Outro
+WETZEL S/A;339,73;10;Outro
+WETZEL S/A;343,02;11;Outro
+WETZEL S/A;266,68;12;Outro
+WHIRLPOOL;106,68;1;Eletrodomesticos
+WHIRLPOOL;87,91;2;Eletrodomesticos
+WHIRLPOOL;105,57;3;Eletrodomesticos
+WHIRLPOOL;149,71;4;Eletrodomesticos
+WHIRLPOOL;119,64;5;Eletrodomesticos
+WHIRLPOOL;141,98;6;Eletrodomesticos
+WHIRLPOOL;169,94;7;Eletrodomesticos
+WHIRLPOOL;173,41;8;Eletrodomesticos
+WHIRLPOOL;172,29;9;Eletrodomesticos
+WHIRLPOOL;201,14;10;Eletrodomesticos
+WHIRLPOOL;162,56;11;Eletrodomesticos
+WHIRLPOOL;148,82;12;Eletrodomesticos
+WIEST;33,94;1;Outro
+WIEST;27,97;2;Outro
+WIEST;31,22;3;Outro
+WIEST;23,67;4;Outro
+WIEST;30,47;5;Outro
+WIEST;42,48;6;Outro
+WIEST;30,4;7;Outro
+WIEST;33,82;8;Outro
+WIEST;45,82;9;Outro
+WIEST;42,04;10;Outro
+WIEST;29,87;11;Outro
+WIEST;39,77;12;Outro
+WILSON SONS;372,39;1;Transporte
+WILSON SONS;278,13;2;Transporte
+WILSON SONS;318,72;3;Transporte
+WILSON SONS;333,84;4;Transporte
+WILSON SONS;417,61;5;Transporte
+WILSON SONS;436,6;6;Transporte
+WILSON SONS;503,21;7;Transporte
+WILSON SONS;598,26;8;Transporte
+WILSON SONS;655,1;9;Transporte
+WILSON SONS;704,24;10;Transporte
+WILSON SONS;691,29;11;Transporte
+WILSON SONS;774,07;12;Transporte
+WLM IND COM;368,16;1;Outro
+WLM IND COM;450,45;2;Outro
+WLM IND COM;413,08;3;Outro
+WLM IND COM;645,26;4;Outro
+WLM IND COM;530,01;5;Outro
+WLM IND COM;480,75;6;Outro
+WLM IND COM;628,87;7;Outro
+WLM IND COM;907,93;8;Outro
+WLM IND COM;717,43;9;Outro
+WLM IND COM;793,02;10;Outro
+WLM IND COM;879,95;11;Outro
+WLM IND COM;330,99;12;Outro
+YARA BRASIL;245,03;1;Outro
+YARA BRASIL;311,78;2;Outro
+YARA BRASIL;340,34;3;Outro
+YARA BRASIL;395,55;4;Outro
+YARA BRASIL;257,78;5;Outro
+YARA BRASIL;241,09;6;Outro
+YARA BRASIL;377,41;7;Outro
+YARA BRASIL;350,38;8;Outro
+YARA BRASIL;407,94;9;Outro
+YARA BRASIL;563,67;10;Outro
+YARA BRASIL;271,34;11;Outro
+YARA BRASIL;556,96;12;Outro
