@@ -20,4 +20,4 @@ Repositório para o desenvolvimento do projeto da matéria de Introdução a Ci�
 - [X] Extrair os dados.
 - [X] Tratar os dados.
 - [X] Analisar os dados (correlacionar).
-- [ ] Fazer uma previsao usando classificação.
+- [X] Fazer uma previsao usando classificação.
